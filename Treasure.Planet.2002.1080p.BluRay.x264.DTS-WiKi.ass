@@ -1,0 +1,1477 @@
+﻿[Script Info]
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: no
+ScriptType: v4.00+
+Synch Point: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,0,2,5,5,0,1
+Style: 译文字幕,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,0,2,5,5,10,1
+Style: 原文字幕,微软雅黑,14,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,0,2,5,5,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:16.43,0:00:18.85,译文字幕,,0,0,0,,{\r原文字幕}[Music Playing]
+Dialogue: 0,0:00:29.07,0:00:30.82,译文字幕,,0,0,0,,[旁白]  在一个月朗星稀的夜晚\N{\r原文字幕}[NARRATOR] On the clearest of nights
+Dialogue: 0,0:00:30.90,0:00:34.45,译文字幕,,0,0,0,,伊塞林的晚风缓缓的吹着\N{\r原文字幕}when the winds of the Etherium were calm and peaceful.
+Dialogue: 0,0:00:36.95,0:00:38.28,译文字幕,,0,0,0,,{\r原文字幕}[Ship Creaking]
+Dialogue: 0,0:00:44.46,0:00:45.92,译文字幕,,0,0,0,,一艘巨大的商船\N{\r原文字幕}The great merchant ships
+Dialogue: 0,0:00:46.00,0:00:49.00,译文字幕,,0,0,0,,满载着来自于大角星的水晶\N{\r原文字幕}with their cargoes of Arcturian solar crystals
+Dialogue: 0,0:00:49.09,0:00:51.51,译文字幕,,0,0,0,,安全平静地在宇宙中航行着\N{\r原文字幕}felt safe and secure.
+Dialogue: 0,0:00:53.13,0:00:56.80,译文字幕,,0,0,0,,他们怎么也不会想到自己已经\N{\r原文字幕}Little did they suspect that they were pursued by
+Dialogue: 0,0:00:58.47,0:00:59.72,译文字幕,,0,0,0,,被海盗盯上了\N{\r原文字幕}pirates.
+Dialogue: 0,0:01:02.02,0:01:04.73,译文字幕,,0,0,0,,这些海盗中最可怕就是\N{\r原文字幕}And the most feared of all these pirates
+Dialogue: 0,0:01:04.81,0:01:08.61,译文字幕,,0,0,0,,声名狼藉的船长  纳撒尼尔·弗林特\N{\r原文字幕}was the notorious Captain Nathaniel Flint.
+Dialogue: 0,0:01:08.94,0:01:10.02,译文字幕,,0,0,0,,开火！\N{\r原文字幕}Fire!
+Dialogue: 0,0:01:14.40,0:01:15.70,译文字幕,,0,0,0,,{\r原文字幕}[All Gasping]
+Dialogue: 0,0:01:15.82,0:01:16.82,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,0:01:22.33,0:01:26.25,译文字幕,,0,0,0,,就像一只老鹰在玩弄它的猎物...\N{\r原文字幕}Like a Candarian zaftwing overtaking its prey...
+Dialogue: 0,0:01:26.33,0:01:28.50,译文字幕,,0,0,0,,[莎拉]  詹姆斯·普莱迪斯·霍金斯\N{\r原文字幕}[SARAH] James Pleiades Hawkins.
+Dialogue: 0,0:01:29.34,0:01:32.09,译文字幕,,0,0,0,,我以为你一个小时之前就睡着了\N{\r原文字幕}I thought you were asleep an hour ago.
+Dialogue: 0,0:01:32.17,0:01:35.80,译文字幕,,0,0,0,,妈妈  我刚看到最精彩的部分\N{\r原文字幕}Mom, I was just getting to the best part.
+Dialogue: 0,0:01:36.01,0:01:37.68,译文字幕,,0,0,0,,让我看吧?\N{\r原文字幕}Please?
+Dialogue: 0,0:01:38.26,0:01:41.26,译文字幕,,0,0,0,,真拿你没办法\N{\r原文字幕}Oh! Can those eyes get any bigger?
+Dialogue: 0,0:01:42.35,0:01:43.81,译文字幕,,0,0,0,,坐过去点\N{\r原文字幕}Scootch over.
+Dialogue: 0,0:01:44.77,0:01:50.06,译文字幕,,0,0,0,,[旁白]  ...就像一只老鹰在玩弄它的猎物\N{\r原文字幕}[NARRATOR] ...like a Candarian zaftwing overtaking its prey
+Dialogue: 0,0:01:50.15,0:01:55.78,译文字幕,,0,0,0,,弗林特和他的叛军从天而降\N{\r原文字幕}Flint and his band of renegades swooped in out of nowhere.
+Dialogue: 0,0:01:59.22,0:02:01.45,译文字幕,,0,0,0,,{\r原文字幕}[Jingling]
+Dialogue: 0,0:02:01.66,0:02:04.20,译文字幕,,0,0,0,,哈哈哈哈！\N{\r原文字幕}Ha ha ha ha!
+Dialogue: 0,0:02:05.04,0:02:07.62,译文字幕,,0,0,0,,之后  卷着他们抢来的财宝\N{\r原文字幕}And then, gathering up their spoils
+Dialogue: 0,0:02:09.54,0:02:12.34,译文字幕,,0,0,0,,消失得无影无踪\N{\r原文字幕}vanished without a trace.
+Dialogue: 0,0:02:12.67,0:02:14.09,译文字幕,,0,0,0,,{\r原文字幕}- Ooh! - Ooh!
+Dialogue: 0,0:02:14.17,0:02:17.43,译文字幕,,0,0,0,,[旁白]  弗林特的秘密宝藏从来没有被人发现过\N{\r原文字幕}[NARRATOR] Flint's secret trove was never found.
+Dialogue: 0,0:02:17.51,0:02:21.01,译文字幕,,0,0,0,,但是仍然有传说这些宝藏藏在\N{\r原文字幕}But stories have persisted that it remains hidden
+Dialogue: 0,0:02:21.10,0:02:25.43,译文字幕,,0,0,0,,遥远的银河系的某个地方\N{\r原文字幕}somewhere at the farthest reaches of the galaxy.
+Dialogue: 0,0:02:25.52,0:02:29.48,译文字幕,,0,0,0,,装载着超乎想象的财宝\N{\r原文字幕}Stowed with riches beyond imagination
+Dialogue: 0,0:02:29.56,0:02:32.73,译文字幕,,0,0,0,,从成上千个星球上掠夺而来的财宝\N{\r原文字幕}The loot of a thousand worlds.
+Dialogue: 0,0:02:32.90,0:02:35.28,译文字幕,,0,0,0,,那就是：星银岛\N{\r原文字幕}[Jim and NARRATOR] Treasure Planet.
+Dialogue: 0,0:02:35.86,0:02:38.40,译文字幕,,0,0,0,,好啦  擤擤你的鼻子\N{\r原文字幕}Okay. Blow your nose.
+Dialogue: 0,0:02:38.61,0:02:39.61,译文字幕,,0,0,0,,{\r原文字幕}[Honking]
+Dialogue: 0,0:02:41.12,0:02:43.87,译文字幕,,0,0,0,,妈妈  你觉得弗林特船长是怎么做到的?\N{\r原文字幕}How do you think Captain Flint did it, Mom?
+Dialogue: 0,0:02:43.95,0:02:49.12,译文字幕,,0,0,0,,他是怎么突然出现  又消失的无影无踪的呢?\N{\r原文字幕}How'd he swoop in out of nowhere and vanished without a trace?
+Dialogue: 0,0:02:49.21,0:02:51.25,译文字幕,,0,0,0,,我不知道\N{\r原文字幕}I have no idea.
+Dialogue: 0,0:02:51.33,0:02:53.29,译文字幕,,0,0,0,,过来  你这个小...\N{\r原文字幕}Come here, you...
+Dialogue: 0,0:02:53.38,0:02:55.71,译文字幕,,0,0,0,,我要吹了--噢！\N{\r原文字幕}I'm gonna get... [Blowing Raspberry]
+Dialogue: 0,0:02:55.80,0:02:56.97,译文字幕,,0,0,0,,{\r原文字幕}[Pffft]\N[Giggling]
+Dialogue: 0,0:02:57.05,0:03:01.68,译文字幕,,0,0,0,,好啦  现在该是小太空人睡觉的时间了\N{\r原文字幕}Okay, now it's time for this little spacer to go to sleep.
+Dialogue: 0,0:03:01.76,0:03:04.47,译文字幕,,0,0,0,,你觉得会有人找到星银岛吗\N{\r原文字幕}You think somebody'll ever find Treasure Planet?
+Dialogue: 0,0:03:04.56,0:03:08.60,译文字幕,,0,0,0,,宝贝  我认为这\N{\r原文字幕}Sweetheart, I think it's more
+Dialogue: 0,0:03:08.69,0:03:10.19,译文字幕,,0,0,0,,更像是一个传说\N{\r原文字幕}like a legend.
+Dialogue: 0,0:03:10.77,0:03:12.77,译文字幕,,0,0,0,,我知道这是真的\N{\r原文字幕}I know it's real.
+Dialogue: 0,0:03:12.94,0:03:15.98,译文字幕,,0,0,0,,好吧  这是真的\N{\r原文字幕}You win. It's real.
+Dialogue: 0,0:03:17.44,0:03:20.45,译文字幕,,0,0,0,,-晚安妈妈  -晚安宝贝\N{\r原文字幕}- Nighty-night, Mom. - Nighty-night, sweetheart.
+Dialogue: 0,0:03:22.03,0:03:23.37,译文字幕,,0,0,0,,我爱你\N{\r原文字幕}I love you.
+Dialogue: 0,0:03:23.45,0:03:24.95,译文字幕,,0,0,0,,我也爱你\N{\r原文字幕}Love you, too.
+Dialogue: 0,0:03:28.25,0:03:29.83,译文字幕,,0,0,0,,{\r原文字幕}[Rustling]
+Dialogue: 0,0:03:30.50,0:03:33.54,译文字幕,,0,0,0,,夜晚  伊塞林的晚风\N{\r原文字幕}[NARRATOR] There are nights when the winds of the Etherium,
+Dialogue: 0,0:03:33.63,0:03:37.92,译文字幕,,0,0,0,,像是邀请别人和它们一起自由飞翔\N{\r原文字幕}so inviting in their promise of flight and freedom,
+Dialogue: 0,0:03:38.01,0:03:40.63,译文字幕,,0,0,0,,这使人的情绪高涨！\N{\r原文字幕}made one's spirit soar!
+Dialogue: 0,0:03:41.38,0:03:43.38,译文字幕,,0,0,0,,{\r原文字幕}[Buzzing]
+Dialogue: 0,0:04:11.16,0:04:13.00,译文字幕,,0,0,0,,{\r原文字幕}Yaaaa-hoo!
+Dialogue: 0,0:04:18.34,0:04:19.46,译文字幕,,0,0,0,,{\r原文字幕}[Alarm Rings]
+Dialogue: 0,0:04:24.64,0:04:25.64,译文字幕,,0,0,0,,{\r原文字幕}Whoo!
+Dialogue: 0,0:04:32.94,0:04:34.56,译文字幕,,0,0,0,,来吧！\N{\r原文字幕}Come on!
+Dialogue: 0,0:04:36.15,0:04:38.07,译文字幕,,0,0,0,,{\r原文字幕}Whoo! Ha ha ha!
+Dialogue: 0,0:04:38.36,0:04:40.07,译文字幕,,0,0,0,,{\r原文字幕}Whoo-hoo!
+Dialogue: 0,0:04:44.07,0:04:47.03,译文字幕,,0,0,0,,{\r原文字幕}[Sirens blaring]
+Dialogue: 0,0:04:48.62,0:04:49.95,译文字幕,,0,0,0,,噢！这下可好！\N{\r原文字幕}Oh, great.
+Dialogue: 0,0:04:53.37,0:04:55.42,译文字幕,,0,0,0,,{\r原文字幕}[Thunder Rumbling]
+Dialogue: 0,0:04:58.38,0:04:59.59,译文字幕,,0,0,0,,霍金斯夫人\N{\r原文字幕}Mrs. Hawkins!
+Dialogue: 0,0:04:59.67,0:05:01.84,译文字幕,,0,0,0,,我知道  果汁续杯\N{\r原文字幕}I know, refill on the purpjuice.
+Dialogue: 0,0:05:01.92,0:05:03.97,译文字幕,,0,0,0,,马上就来  敦莱蒂夫人\N{\r原文字幕}Coming right up, Mrs. Dunwiddie.
+Dialogue: 0,0:05:04.05,0:05:06.30,译文字幕,,0,0,0,,上菜了  这是你们点的四份面粉球...\N{\r原文字幕}There we go. That's four powdered spheroids...
+Dialogue: 0,0:05:06.39,0:05:08.97,译文字幕,,0,0,0,,两份月食  还有这一大碗...\N{\r原文字幕}two lunar eclipses, and it's a big bowl...
+Dialogue: 0,0:05:09.06,0:05:10.97,译文字幕,,0,0,0,,泽勒林果冻虫  给这个大男孩的\N{\r原文字幕}of Zorellian jelly worms for the big boy!
+Dialogue: 0,0:05:11.06,0:05:13.06,译文字幕,,0,0,0,,-太棒了！-慢用\N{\r原文字幕}- Awesome! - Enjoy.
+Dialogue: 0,0:05:15.65,0:05:19.15,译文字幕,,0,0,0,,对不起  德尔波特  今天早上这里闹哄哄的\N{\r原文字幕}Sorry, Delbert. It's been a madhouse here all morning.
+Dialogue: 0,0:05:19.23,0:05:20.48,译文字幕,,0,0,0,,没事  莎拉\N{\r原文字幕}No problem, Sarah.
+Dialogue: 0,0:05:20.57,0:05:24.24,译文字幕,,0,0,0,,啊！我的太阳种子杂烩\N{\r原文字幕}Ah! My Alponian chowder with the extra solara seed.
+Dialogue: 0,0:05:24.32,0:05:26.11,译文字幕,,0,0,0,,嗯！真美味！\N{\r原文字幕}Mmm! Yum!
+Dialogue: 0,0:05:26.20,0:05:27.28,译文字幕,,0,0,0,,{\r原文字幕}[Sniffing]
+Dialogue: 0,0:05:28.24,0:05:29.41,译文字幕,,0,0,0,,你好\N{\r原文字幕}Hello.
+Dialogue: 0,0:05:30.45,0:05:31.87,译文字幕,,0,0,0,,谁带你来的?\N{\r原文字幕}What brings you here？
+Dialogue: 0,0:05:31.95,0:05:34.37,译文字幕,,0,0,0,,好奇的小家伙?\N{\r原文字幕}Curious little one?
+Dialogue: 0,0:05:40.29,0:05:41.55,译文字幕,,0,0,0,,走吧\N{\r原文字幕}Go away.
+Dialogue: 0,0:05:42.05,0:05:44.01,译文字幕,,0,0,0,,你父母在这吗?\N{\r原文字幕}Are your parents around?
+Dialogue: 0,0:05:45.17,0:05:47.39,译文字幕,,0,0,0,,怎么回事?猫把你的--呀！\N{\r原文字幕}What's the matter? Cat got your... Aah!
+Dialogue: 0,0:05:47.72,0:05:48.72,译文字幕,,0,0,0,,{\r原文字幕}[Gulping]
+Dialogue: 0,0:05:49.60,0:05:51.76,译文字幕,,0,0,0,,噢  这个年纪的孩子真可爱\N{\r原文字幕}Oh, they're so adorable at that age.
+Dialogue: 0,0:05:52.18,0:05:53.85,译文字幕,,0,0,0,,噢  是的...糟糕的[口误]\N{\r原文字幕}Oh, yes, deplorable...
+Dialogue: 0,0:05:53.93,0:05:55.69,译文字幕,,0,0,0,,呃...可爱的！嗯\N{\r原文字幕}Uh... Adorable! Hmm.
+Dialogue: 0,0:05:55.89,0:05:58.31,译文字幕,,0,0,0,,说起孩子  吉姆最近怎么样\N{\r原文字幕}Speaking of which, how's Jim doing?
+Dialogue: 0,0:05:58.44,0:06:02.03,译文字幕,,0,0,0,,好多了  我知道他今年初...\N{\r原文字幕}Much better. I know he had some rough spots...
+Dialogue: 0,0:06:02.11,0:06:03.74,译文字幕,,0,0,0,,遇到一点挫折  但是我现在认为...\N{\r原文字幕}earlier this year, but I really think...
+Dialogue: 0,0:06:03.82,0:06:05.49,译文字幕,,0,0,0,,他真的开始有转机了\N{\r原文字幕}that he's starting to turn a corner.
+Dialogue: 0,0:06:06.15,0:06:07.36,译文字幕,,0,0,0,,霍金斯夫人\N{\r原文字幕}Mrs. Hawkins?
+Dialogue: 0,0:06:07.45,0:06:08.74,译文字幕,,0,0,0,,吉姆！\N{\r原文字幕}Jim! [Dishes Clatter]
+Dialogue: 0,0:06:08.82,0:06:10.45,译文字幕,,0,0,0,,噢  看来还没完\N{\r原文字幕}Ooh... Wrong turn.
+Dialogue: 0,0:06:10.53,0:06:12.24,译文字幕,,0,0,0,,好了  谢谢你们送我回来\N{\r原文字幕}Okay. Thanks for the lift, guys.
+Dialogue: 0,0:06:12.33,0:06:13.83,译文字幕,,0,0,0,,别急\N{\r原文字幕}Not so fast.
+Dialogue: 0,0:06:14.33,0:06:15.71,译文字幕,,0,0,0,,我们发现你儿子...\N{\r原文字幕}We apprehended your son operating...
+Dialogue: 0,0:06:15.79,0:06:17.54,译文字幕,,0,0,0,,在限制区域驾驶太阳能交通工具\N{\r原文字幕}a solar vehicle in a restricted area.
+Dialogue: 0,0:06:17.62,0:06:19.46,译文字幕,,0,0,0,,这行为违反了9-0-4号法律...\N{\r原文字幕}Moving violation 9-0-4...
+Dialogue: 0,0:06:19.54,0:06:21.88,译文字幕,,0,0,0,,第十五章  嗯...第...\N{\r原文字幕}section 15, paragraph, um...
+Dialogue: 0,0:06:22.71,0:06:23.71,译文字幕,,0,0,0,,第六段?\N{\r原文字幕}Six?
+Dialogue: 0,0:06:23.80,0:06:25.26,译文字幕,,0,0,0,,-谢谢  -不客气\N{\r原文字幕}- Thank you. - Don't mention it.
+Dialogue: 0,0:06:25.34,0:06:27.22,译文字幕,,0,0,0,,-吉姆  -如您所知  夫人...\N{\r原文字幕}- Jim! - As you are aware, ma'am...
+Dialogue: 0,0:06:27.30,0:06:29.22,译文字幕,,0,0,0,,这是他缓刑期间的一次违反法律\N{\r原文字幕}This constitutes a violation of his probation.
+Dialogue: 0,0:06:29.30,0:06:32.93,译文字幕,,0,0,0,,是的、是的不  我理解嗯  我们能不能就--\N{\r原文字幕}Yes, yes. No, I understand. Um... But could we just...
+Dialogue: 0,0:06:33.01,0:06:34.68,译文字幕,,0,0,0,,嗯  打扰一下\N{\r原文字幕}DOPPLER: Um, ahem, pardon me.
+Dialogue: 0,0:06:34.77,0:06:38.19,译文字幕,,0,0,0,,警官  请允许我  呃  插一句话\N{\r原文字幕}Officers, if I might, uh, interject here.
+Dialogue: 0,0:06:38.44,0:06:41.44,译文字幕,,0,0,0,,我是著名的天体物理学家  德尔波特·多普勒博士\N{\r原文字幕}I am the noted astrophysicist Dr. Delbert Doppler.
+Dialogue: 0,0:06:41.52,0:06:42.90,译文字幕,,0,0,0,,你们应该听说过我\N{\r原文字幕}Perhaps you've heard of me.
+Dialogue: 0,0:06:42.98,0:06:45.49,译文字幕,,0,0,0,,没听说过?呃  我这里有一篇剪报\N{\r原文字幕}No? I have a clipping.
+Dialogue: 0,0:06:45.65,0:06:47.95,译文字幕,,0,0,0,,-你是这男孩的父亲?  -噢！天哪  不是！\N{\r原文字幕}- Are you the boy's father? - Good heavens, no!
+Dialogue: 0,0:06:48.03,0:06:51.07,译文字幕,,0,0,0,,他只是我们家的老朋友\N{\r原文字幕}Ewww! He's just an old friend of the family.
+Dialogue: 0,0:06:51.16,0:06:52.53,译文字幕,,0,0,0,,后退  先生！\N{\r原文字幕}Back off, sir!
+Dialogue: 0,0:06:52.62,0:06:54.91,译文字幕,,0,0,0,,谢谢你  德尔波特  我会解决的\N{\r原文字幕}Thank you, Delbert. I will take it from here.
+Dialogue: 0,0:06:54.99,0:06:56.79,译文字幕,,0,0,0,,好的  莎拉  如果你坚持这样\N{\r原文字幕}Well, Sarah, if you insist.
+Dialogue: 0,0:06:56.87,0:06:59.54,译文字幕,,0,0,0,,以后别再让我干这事儿了\N{\r原文字幕}Ahem. Don't ever let me do that again.
+Dialogue: 0,0:06:59.62,0:07:02.00,译文字幕,,0,0,0,,由于违反了15-C号条例...\N{\r原文字幕}Due to repeated violations of statute 15-C...
+Dialogue: 0,0:07:02.09,0:07:04.42,译文字幕,,0,0,0,,我们没收了他的飞行器  如果再犯\N{\r原文字幕}we have impounded his vehicle. Any more slip-ups will result
+Dialogue: 0,0:07:04.50,0:07:06.21,译文字幕,,0,0,0,,我们定会将他送进少管所\N{\r原文字幕}in a one-way ticket to Juvenile Hall.
+Dialogue: 0,0:07:06.30,0:07:07.76,译文字幕,,0,0,0,,-少年拘留所  -监狱\N{\r原文字幕}- Kiddie hoosegow. - The slammo.
+Dialogue: 0,0:07:07.84,0:07:11.72,译文字幕,,0,0,0,,谢谢长官  以后不会再发生了\N{\r原文字幕}Thank you, Officers. It won't happen again.
+Dialogue: 0,0:07:11.80,0:07:13.05,译文字幕,,0,0,0,,这样的孩子我们见的多了\N{\r原文字幕}We see his type all the time, ma'am.
+Dialogue: 0,0:07:13.14,0:07:14.85,译文字幕,,0,0,0,,-选择错误  -误入歧途\N{\r原文字幕}- Wrong choices. - Dead-enders.
+Dialogue: 0,0:07:14.93,0:07:16.14,译文字幕,,0,0,0,,失败者\N{\r原文字幕}Losers.
+Dialogue: 0,0:07:16.89,0:07:19.19,译文字幕,,0,0,0,,-好自为之  -我们走\N{\r原文字幕}- You take care now. - Let's motor.
+Dialogue: 0,0:07:24.82,0:07:26.11,译文字幕,,0,0,0,,{\r原文字幕}[Conversations Resume]
+Dialogue: 0,0:07:27.03,0:07:29.03,译文字幕,,0,0,0,,吉姆  我已经受够了\N{\r原文字幕}Jim, I have had it.
+Dialogue: 0,0:07:29.32,0:07:31.49,译文字幕,,0,0,0,,你真的想去少管所  是不是?\N{\r原文字幕}Do you want to go to Juvenile Hall? Is that it?
+Dialogue: 0,0:07:32.87,0:07:34.20,译文字幕,,0,0,0,,吉姆\N{\r原文字幕}Jim?
+Dialogue: 0,0:07:34.62,0:07:36.20,译文字幕,,0,0,0,,吉姆  看着我\N{\r原文字幕}Jim, look at me.
+Dialogue: 0,0:07:36.91,0:07:38.54,译文字幕,,0,0,0,,我辛辛苦苦维持这个旅馆...\N{\r原文字幕}It's been hard enough keeping this place...
+Dialogue: 0,0:07:38.62,0:07:40.12,译文字幕,,0,0,0,,全都要靠我一个人--\N{\r原文字幕}afloat by myself without you going...
+Dialogue: 0,0:07:40.21,0:07:42.38,译文字幕,,0,0,0,,妈妈  没什么大不了的  那周围没有别的人\N{\r原文字幕}Mom, it's no big deal. There was nobody around.
+Dialogue: 0,0:07:42.46,0:07:44.88,译文字幕,,0,0,0,,那些条子总是想...\N{\r原文字幕}Those cops just won't get off my...
+Dialogue: 0,0:07:47.59,0:07:48.92,译文字幕,,0,0,0,,算了\N{\r原文字幕}Forget it.
+Dialogue: 0,0:07:49.05,0:07:51.88,译文字幕,,0,0,0,,霍金斯夫人  我的果汁\N{\r原文字幕}Mrs. Hawkins! My juice!
+Dialogue: 0,0:07:52.22,0:07:54.14,译文字幕,,0,0,0,,好的  马上就来  敦莱蒂夫人\N{\r原文字幕}Yes, I'll be right there, Mrs. Dunwiddie.
+Dialogue: 0,0:07:54.22,0:07:55.97,译文字幕,,0,0,0,,吉姆  我只是不想看到你...\N{\r原文字幕}Jim, I just don't want to see you
+Dialogue: 0,0:07:56.06,0:07:58.72,译文字幕,,0,0,0,,放弃你自己的将来\N{\r原文字幕}throw away your entire future.
+Dialogue: 0,0:08:01.23,0:08:02.90,译文字幕,,0,0,0,,将来?什么将来\N{\r原文字幕}Yeah, what future?
+Dialogue: 0,0:08:05.73,0:08:07.28,译文字幕,,0,0,0,,{\r原文字幕}[Thunder Rumbling]
+Dialogue: 0,0:08:07.68,0:08:09.20,译文字幕,,0,0,0,,{\r原文字幕}[Clang]
+Dialogue: 0,0:08:15.24,0:08:17.70,译文字幕,,0,0,0,,真不知道你是怎么过来的  莎拉\N{\r原文字幕}[DR DOPPLER] I really don't know how you manage it, Sarah.
+Dialogue: 0,0:08:17.79,0:08:20.50,译文字幕,,0,0,0,,一边要经营旅店一边还要抚养...\N{\r原文字幕}Trying to run a business while raising a felon like...
+Dialogue: 0,0:08:20.58,0:08:23.83,译文字幕,,0,0,0,,像吉姆这样的孩子\N{\r原文字幕}Felon... Fellow... Fellow like Jim.
+Dialogue: 0,0:08:23.92,0:08:27.17,译文字幕,,0,0,0,,怎么过来的?我已经穷途末路了\N{\r原文字幕}Managing it? I'm at the end of my rope.
+Dialogue: 0,0:08:27.25,0:08:28.67,译文字幕,,0,0,0,,自从他父亲走后\N{\r原文字幕}Ever since his father left,
+Dialogue: 0,0:08:28.75,0:08:32.26,译文字幕,,0,0,0,,吉姆从来就没有从中恢复过来\N{\r原文字幕}well, Jim's just never recovered.
+Dialogue: 0,0:08:33.01,0:08:35.14,译文字幕,,0,0,0,,你知道他是多么的聪明\N{\r原文字幕}And you know how smart he is.
+Dialogue: 0,0:08:35.22,0:08:38.43,译文字幕,,0,0,0,,他八岁的时候就造了第一个太阳能滑板！\N{\r原文字幕}He built his first solar surfer when he was eight!
+Dialogue: 0,0:08:38.64,0:08:41.35,译文字幕,,0,0,0,,但是  他没有完成学业\N{\r原文字幕}And yet, he's failing at school,
+Dialogue: 0,0:08:41.43,0:08:43.69,译文字幕,,0,0,0,,他不断地惹麻烦...\N{\r原文字幕}He is constantly in trouble...
+Dialogue: 0,0:08:43.77,0:08:46.44,译文字幕,,0,0,0,,跟他说话的时候  他就像个陌生人\N{\r原文字幕}and when I talk to him, he's like a stranger to me.
+Dialogue: 0,0:08:46.52,0:08:49.28,译文字幕,,0,0,0,,真的不知道怎么办  德尔波特  我已经尽力了\N{\r原文字幕}I don't know, Delbert. I've tried everything.
+Dialogue: 0,0:08:49.36,0:08:50.69,译文字幕,,0,0,0,,{\r原文字幕}[Engines Sputtering]
+Dialogue: 0,0:08:58.28,0:08:59.37,译文字幕,,0,0,0,,嗨  先生?\N{\r原文字幕}Hey, Mister?
+Dialogue: 0,0:08:59.95,0:09:01.66,译文字幕,,0,0,0,,先生  你没事吧?\N{\r原文字幕}Mister, you're okay in there, right?
+Dialogue: 0,0:09:01.79,0:09:02.87,译文字幕,,0,0,0,,{\r原文字幕}[Growling] - Aah!
+Dialogue: 0,0:09:04.12,0:09:05.54,译文字幕,,0,0,0,,{\r原文字幕}[Coughing]
+Dialogue: 0,0:09:06.29,0:09:07.88,译文字幕,,0,0,0,,他就要来了\N{\r原文字幕}He's a-comin'.
+Dialogue: 0,0:09:07.96,0:09:09.46,译文字幕,,0,0,0,,你能听到他吗?\N{\r原文字幕}Can you hear him?
+Dialogue: 0,0:09:09.55,0:09:13.01,译文字幕,,0,0,0,,那齿轮和陀螺仪在嘀嗒地转着...\N{\r原文字幕}Those gears and gyros clickin' and whirrin'...
+Dialogue: 0,0:09:13.09,0:09:14.55,译文字幕,,0,0,0,,就像是魔鬼本身！\N{\r原文字幕}like the devil himself!
+Dialogue: 0,0:09:14.63,0:09:17.51,译文字幕,,0,0,0,,呃  看来你头撞得不轻\N{\r原文字幕}Uh, hit your head there pretty hard, didn't ya?
+Dialogue: 0,0:09:17.60,0:09:19.14,译文字幕,,0,0,0,,他在找我的箱子\N{\r原文字幕}He's after me chest.
+Dialogue: 0,0:09:19.22,0:09:23.52,译文字幕,,0,0,0,,那恶魔般的半机械人  还有他的杀人团伙\N{\r原文字幕}That fiendish cyborg and his band of cutthroats.
+Dialogue: 0,0:09:24.10,0:09:25.23,译文字幕,,0,0,0,,{\r原文字幕}[Straining]
+Dialogue: 0,0:09:25.31,0:09:26.90,译文字幕,,0,0,0,,但是他们必须...\N{\r原文字幕}But they'll have to pry it...
+Dialogue: 0,0:09:26.98,0:09:33.07,译文字幕,,0,0,0,,先从比利·鲍恩斯冰冷的  死人的手指中探察\N{\r原文字幕}from old Billy Bones' cold, dead fingers afore I... Argh!
+Dialogue: 0,0:09:33.15,0:09:34.24,译文字幕,,0,0,0,,{\r原文字幕}[Coughing]
+Dialogue: 0,0:09:34.32,0:09:35.70,译文字幕,,0,0,0,,噢  天哪--\N{\r原文字幕}Oh, my...
+Dialogue: 0,0:09:37.99,0:09:40.20,译文字幕,,0,0,0,,呃  来吧  把胳膊给我\N{\r原文字幕}Come on, give me your arm.
+Dialogue: 0,0:09:40.33,0:09:41.66,译文字幕,,0,0,0,,对了\N{\r原文字幕}That's it.
+Dialogue: 0,0:09:43.62,0:09:47.54,译文字幕,,0,0,0,,-好孩子  -我这么做妈妈会很高兴的\N{\r原文字幕}- Good lad. - Mom's gonna love this.
+Dialogue: 0,0:09:53.92,0:09:55.78,译文字幕,,0,0,0,,{\r原文字幕}[Click]
+Dialogue: 0,0:09:56.68,0:09:58.84,译文字幕,,0,0,0,,谢谢你听我唠叨  德尔波特\N{\r原文字幕}Thanks for listening, Delbert.
+Dialogue: 0,0:09:59.93,0:10:01.81,译文字幕,,0,0,0,,我好多了\N{\r原文字幕}[Sighs] It helps.
+Dialogue: 0,0:10:05.02,0:10:06.77,译文字幕,,0,0,0,,一切都会变好的\N{\r原文字幕}It's going to be okay.
+Dialogue: 0,0:10:07.73,0:10:09.11,译文字幕,,0,0,0,,放心吧\N{\r原文字幕}You'll see.
+Dialogue: 0,0:10:09.52,0:10:12.15,译文字幕,,0,0,0,,我一直希望  有一天我打开门...\N{\r原文字幕}I keep dreaming one day I'll open that door,
+Dialogue: 0,0:10:12.23,0:10:14.82,译文字幕,,0,0,0,,他会像以前一样\N{\r原文字幕}and there he'll be, just the way he was.
+Dialogue: 0,0:10:14.90,0:10:18.28,译文字幕,,0,0,0,,一个充满欢笑的小男孩  抱着一只新宠物\N{\r原文字幕}A smiling, happy little boy, holding a new pet
+Dialogue: 0,0:10:18.36,0:10:20.74,译文字幕,,0,0,0,,求我让他收养它\N{\r原文字幕}and begging me to let him keep it.
+Dialogue: 0,0:10:21.45,0:10:22.45,译文字幕,,0,0,0,,{\r原文字幕}[Thunder]
+Dialogue: 0,0:10:23.54,0:10:25.83,译文字幕,,0,0,0,,詹姆斯·普莱迪斯·霍金斯！\N{\r原文字幕}[Gasps] James Pleiades Hawkins!
+Dialogue: 0,0:10:25.91,0:10:27.71,译文字幕,,0,0,0,,妈妈  他受伤了  伤得很重！\N{\r原文字幕}Mom, he's hurt bad!
+Dialogue: 0,0:10:29.79,0:10:31.88,译文字幕,,0,0,0,,我的箱子  小伙子\N{\r原文字幕}Me chest, lad.
+Dialogue: 0,0:10:33.17,0:10:34.63,译文字幕,,0,0,0,,{\r原文字幕}[Gasping]
+Dialogue: 0,0:10:36.67,0:10:39.55,译文字幕,,0,0,0,,他马上就来了\N{\r原文字幕}[Billy Bones] He'll be comin' soon.
+Dialogue: 0,0:10:40.18,0:10:42.05,译文字幕,,0,0,0,,不能让他找到这个\N{\r原文字幕}Can't let them find this.
+Dialogue: 0,0:10:42.22,0:10:43.43,译文字幕,,0,0,0,,谁要来?\N{\r原文字幕}Who's coming?
+Dialogue: 0,0:10:43.51,0:10:45.47,译文字幕,,0,0,0,,那个半机械人！\N{\r原文字幕}[Whispering] The cyborg!
+Dialogue: 0,0:10:46.64,0:10:51.23,译文字幕,,0,0,0,,小心那个半机械人！\N{\r原文字幕}Beware the cyborg! [Gasps]
+Dialogue: 0,0:10:58.07,0:10:59.07,译文字幕,,0,0,0,,噢！\N{\r原文字幕}Ohh!
+Dialogue: 0,0:10:59.32,0:11:00.49,译文字幕,,0,0,0,,{\r原文字幕}[Rumbling]
+Dialogue: 0,0:11:02.78,0:11:03.78,译文字幕,,0,0,0,,{\r原文字幕}[Sarah Gasps]
+Dialogue: 0,0:11:12.08,0:11:13.46,译文字幕,,0,0,0,,快！我们得离开这里！\N{\r原文字幕}Quick! We gotta go!
+Dialogue: 0,0:11:13.40,0:11:15.63,译文字幕,,0,0,0,,{\r原文字幕}- Ohh! - Aah!
+Dialogue: 0,0:11:15.76,0:11:18.17,译文字幕,,0,0,0,,在这件事上我同意吉姆！\N{\r原文字幕}I believe I'm with Jim on this one!
+Dialogue: 0,0:11:22.68,0:11:24.81,译文字幕,,0,0,0,,{\r原文字幕}[Pirates Shouting]
+Dialogue: 0,0:11:29.10,0:11:30.48,译文字幕,,0,0,0,,黛利拉[原是圣经中人物  哈利路亚\N{\r原文字幕}Delilah! Hallelujah!
+Dialogue: 0,0:11:30.56,0:11:31.52,译文字幕,,0,0,0,,{\r原文字幕}[Yelping Excitedly]
+Dialogue: 0,0:11:31.60,0:11:32.90,译文字幕,,0,0,0,,呆在那！别动！\N{\r原文字幕}Stay! Don't move!
+Dialogue: 0,0:11:32.98,0:11:34.69,译文字幕,,0,0,0,,它在哪里?\N{\r原文字幕}[PIRATE] Where is it?
+Dialogue: 0,0:11:34.77,0:11:36.15,译文字幕,,0,0,0,,快去找！\N{\r原文字幕}Find it!
+Dialogue: 0,0:11:36.44,0:11:37.82,译文字幕,,0,0,0,,别担心  莎拉\N{\r原文字幕}[DOPPLER] Don't worry, Sarah
+Dialogue: 0,0:11:37.90,0:11:39.99,译文字幕,,0,0,0,,我是物理学专家\N{\r原文字幕}I'm an expert in the laws of physical science.
+Dialogue: 0,0:11:40.07,0:11:42.20,译文字幕,,0,0,0,,-当我数到三就跳下去  -一...三！\N{\r原文字幕}- On the count of three. One... - Three!
+Dialogue: 0,0:11:42.28,0:11:43.62,译文字幕,,0,0,0,,{\r原文字幕}- Aah! - Aah!
+Dialogue: 0,0:11:44.87,0:11:46.29,译文字幕,,0,0,0,,快跑  黛利拉  快跑！\N{\r原文字幕}Go, Delilah! Go!
+Dialogue: 0,0:11:47.29,0:11:50.00,译文字幕,,0,0,0,,快跑！就是这样！快跑！\N{\r原文字幕}Go! That's it! That's it! Go!
+Dialogue: 0,0:11:56.05,0:11:57.17,译文字幕,,0,0,0,,驾！驾！\N{\r原文字幕}Hyah! Hyah!
+Dialogue: 0,0:12:08.67,0:12:09.43,译文字幕,,0,0,0,,{\r原文字幕}[Crickets chirping]
+Dialogue: 0,0:12:11.64,0:12:14.23,译文字幕,,0,0,0,,我问过警察了\N{\r原文字幕}[DOPPLER] I just spoke with the constabulary.
+Dialogue: 0,0:12:14.31,0:12:17.36,译文字幕,,0,0,0,,那些海盗逃走的时候  没有留下任何线索\N{\r原文字幕}Those blaggard pirates have fled without a trace.
+Dialogue: 0,0:12:18.28,0:12:19.74,译文字幕,,0,0,0,,我很抱歉  莎拉\N{\r原文字幕}I'm sorry, Sarah.
+Dialogue: 0,0:12:20.24,0:12:24.28,译文字幕,,0,0,0,,恐怕老本鲍旅馆已经被烧成灰烬了\N{\r原文字幕}I'm afraid the old Benbow Inn has burned to the ground.
+Dialogue: 0,0:12:28.87,0:12:31.00,译文字幕,,0,0,0,,毫无疑问  这一大堆麻烦...\N{\r原文字幕}Ahem. Well, certainly a lot of trouble...
+Dialogue: 0,0:12:31.08,0:12:33.83,译文字幕,,0,0,0,,都是由那个小球引起的\N{\r原文字幕}over that odd little sphere.
+Dialogue: 0,0:12:34.83,0:12:36.84,译文字幕,,0,0,0,,那些标记我看不太懂\N{\r原文字幕}Those markings baffle me.
+Dialogue: 0,0:12:37.80,0:12:40.17,译文字幕,,0,0,0,,我从没见过这样的东西\N{\r原文字幕}Unlike anything I've ever encountered.
+Dialogue: 0,0:12:39.50,0:12:40.63,译文字幕,,0,0,0,,{\r原文字幕}[Beeps,whirring]
+Dialogue: 0,0:12:40.26,0:12:42.43,译文字幕,,0,0,0,,即使以我的丰富的经验...\N{\r原文字幕}Even with my vast experience...
+Dialogue: 0,0:12:42.51,0:12:43.76,译文字幕,,0,0,0,,和惊人的智慧\N{\r原文字幕}and superior intellect
+Dialogue: 0,0:12:43.84,0:12:46.47,译文字幕,,0,0,0,,都得花好几年才能打开它  --嘿！\N{\r原文字幕}it would take me years to unlock its... Hey!
+Dialogue: 0,0:12:48.01,0:12:49.01,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,0:12:50.02,0:12:53.48,译文字幕,,0,0,0,,什么  是张地图\N{\r原文字幕}Why, it's a map!
+Dialogue: 0,0:12:55.10,0:12:56.31,译文字幕,,0,0,0,,等等  等等\N{\r原文字幕}Wait. Wait, wait, wait!
+Dialogue: 0,0:12:56.40,0:12:58.98,译文字幕,,0,0,0,,我们在这里  特雷斯普行星\N{\r原文字幕}This is us, the planet Montressor.
+Dialogue: 0,0:12:59.07,0:13:00.07,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,0:13:02.03,0:13:03.82,译文字幕,,0,0,0,,那是麦哲伦星云！\N{\r原文字幕}That's the Magellanic Cloud!
+Dialogue: 0,0:13:03.90,0:13:06.57,译文字幕,,0,0,0,,喔！珊瑚星系！\N{\r原文字幕}Whoo! The Coral Galaxy!
+Dialogue: 0,0:13:07.66,0:13:09.20,译文字幕,,0,0,0,,那是天鹅座十字星\N{\r原文字幕}That's the Cygnus Cross,
+Dialogue: 0,0:13:09.70,0:13:11.62,译文字幕,,0,0,0,,克里安黑洞\N{\r原文字幕}And that's the Kerian Abyss.
+Dialogue: 0,0:13:11.70,0:13:15.21,译文字幕,,0,0,0,,等等  这是什么  这是什么?  奇怪  它是...\N{\r原文字幕}Wait. What's this? What's this? Why, it... It's...
+Dialogue: 0,0:13:15.88,0:13:17.04,译文字幕,,0,0,0,,星银岛\N{\r原文字幕}Treasure Planet.
+Dialogue: 0,0:13:17.38,0:13:18.38,译文字幕,,0,0,0,,不会吧！\N{\r原文字幕}No!
+Dialogue: 0,0:13:18.67,0:13:20.42,译文字幕,,0,0,0,,是星银岛！\N{\r原文字幕}That's Treasure Planet!
+Dialogue: 0,0:13:20.80,0:13:22.09,译文字幕,,0,0,0,,弗林特的宝藏?\N{\r原文字幕}Flint's trove?
+Dialogue: 0,0:13:22.17,0:13:24.18,译文字幕,,0,0,0,,掠夺上千个世界的战利品\N{\r原文字幕}The loot of a thousand worlds?
+Dialogue: 0,0:13:24.38,0:13:25.76,译文字幕,,0,0,0,,你知道这意味着什么吗?\N{\r原文字幕}You know what this means?
+Dialogue: 0,0:13:26.09,0:13:29.26,译文字幕,,0,0,0,,就是说所有的财宝仅仅一船之遥\N{\r原文字幕}It means that all that treasure is only a boat ride away.
+Dialogue: 0,0:13:29.60,0:13:32.93,译文字幕,,0,0,0,,无论谁去将它取回将终身享用不尽...\N{\r原文字幕}Whoever brings it back would hold an eternal place...
+Dialogue: 0,0:13:33.02,0:13:36.81,译文字幕,,0,0,0,,比发现万神殿的探险者还要伟大！他会有可能体验到--\N{\r原文字幕}atop the pantheon of explorers! He'd be able to experience...
+Dialogue: 0,0:13:36.90,0:13:38.86,译文字幕,,0,0,0,,喔！发生了什么了?\N{\r原文字幕}[Click] - Whoo! What just happened?
+Dialogue: 0,0:13:39.15,0:13:42.15,译文字幕,,0,0,0,,妈妈  就是它了  这将是解决我们所有的问题的办法\N{\r原文字幕}Mom, this is it. This is the answer to all our problems.
+Dialogue: 0,0:13:42.23,0:13:44.28,译文字幕,,0,0,0,,吉姆  这绝对不可能--\N{\r原文字幕}Jim, there is absolutely no way...
+Dialogue: 0,0:13:44.36,0:13:46.99,译文字幕,,0,0,0,,难道你不记得了  所有那些故事?\N{\r原文字幕}Don't you remember, all those stories?
+Dialogue: 0,0:13:47.07,0:13:49.70,译文字幕,,0,0,0,,那些只不过是--传说！\N{\r原文字幕}That's all they were. Stories!
+Dialogue: 0,0:13:49.78,0:13:50.91,译文字幕,,0,0,0,,拥有了那些财宝...\N{\r原文字幕}With that treasure...
+Dialogue: 0,0:13:50.99,0:13:53.58,译文字幕,,0,0,0,,我们可以建造数百个本鲍旅馆\N{\r原文字幕}we could rebuild the Benbow a hundred times over!
+Dialogue: 0,0:13:53.87,0:13:56.25,译文字幕,,0,0,0,,好吧  这是--这只不过是--噢  天哪\N{\r原文字幕}Well, this is... lt's just... Oh, my.
+Dialogue: 0,0:13:56.58,0:13:59.25,译文字幕,,0,0,0,,德尔波特  你能解释一下这有多荒唐吗?\N{\r原文字幕}Delbert, would you please explain how ridiculous this is?
+Dialogue: 0,0:13:59.34,0:14:01.30,译文字幕,,0,0,0,,真是太荒谬了...\N{\r原文字幕}It's totally preposterous...
+Dialogue: 0,0:14:01.38,0:14:03.17,译文字幕,,0,0,0,,你不能独自一个人穿越整个星系\N{\r原文字幕}traversing the entire galaxy alone.
+Dialogue: 0,0:14:03.59,0:14:05.88,译文字幕,,0,0,0,,终于我们能听到些理智的话了\N{\r原文字幕}Now, at last, we hear some sense!
+Dialogue: 0,0:14:05.97,0:14:08.55,译文字幕,,0,0,0,,-所以我要和你一起去  -德尔波特\N{\r原文字幕}- That's why I'm going with you. - Delbert!
+Dialogue: 0,0:14:08.64,0:14:10.35,译文字幕,,0,0,0,,我要用我的积蓄来支持这次探险\N{\r原文字幕}I'll use my savings to finance the expedition.
+Dialogue: 0,0:14:11.39,0:14:14.06,译文字幕,,0,0,0,,我要租用一艘船  雇佣一个船长和一队船员\N{\r原文字幕}I'll commission a ship, hire a captain and a crew.
+Dialogue: 0,0:14:14.14,0:14:15.18,译文字幕,,0,0,0,,你不是认真的吧\N{\r原文字幕}You're not serious.
+Dialogue: 0,0:14:15.31,0:14:17.69,译文字幕,,0,0,0,,我一生都在等待这样的机会...终于来了\N{\r原文字幕}All my life I've been waiting for an opportunity like this...
+Dialogue: 0,0:14:17.77,0:14:21.32,译文字幕,,0,0,0,,它在呼唤我：快去吧！戴尔波特  快去吧！\N{\r原文字幕}and here it is screaming, "Go, Delbert! Go, Delbert!"
+Dialogue: 0,0:14:21.40,0:14:24.28,译文字幕,,0,0,0,,好吧  好吧！你们俩都被禁足了！\N{\r原文字幕}Okay. Okay! You're both grounded!
+Dialogue: 0,0:14:24.44,0:14:25.65,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:14:26.11,0:14:27.45,译文字幕,,0,0,0,,妈妈  听着\N{\r原文字幕}[JIM] Mom, look.
+Dialogue: 0,0:14:29.16,0:14:31.87,译文字幕,,0,0,0,,我知道我总是惹麻烦\N{\r原文字幕}I know that I keep messing everything up
+Dialogue: 0,0:14:31.95,0:14:33.29,译文字幕,,0,0,0,,我也知道...\N{\r原文字幕}and I know...
+Dialogue: 0,0:14:34.58,0:14:35.96,译文字幕,,0,0,0,,我让你很失望\N{\r原文字幕}that I let you down.
+Dialogue: 0,0:14:38.33,0:14:40.79,译文字幕,,0,0,0,,但这是我向你证明我自己的机会\N{\r原文字幕}But this is my chance to make it up to you.
+Dialogue: 0,0:14:41.25,0:14:43.34,译文字幕,,0,0,0,,我会把一切处理的妥妥当当的\N{\r原文字幕}I'm gonna set things right.
+Dialogue: 0,0:14:44.63,0:14:45.80,译文字幕,,0,0,0,,莎拉\N{\r原文字幕}Sarah?
+Dialogue: 0,0:14:46.59,0:14:47.84,译文字幕,,0,0,0,,能过来一下吗?\N{\r原文字幕}If I may?
+Dialogue: 0,0:14:48.38,0:14:51.35,译文字幕,,0,0,0,,你自己说过  你什么方法都试过了\N{\r原文字幕}You said yourself, you've tried everything.
+Dialogue: 0,0:14:51.43,0:14:52.85,译文字幕,,0,0,0,,就让他到太空里去磨练几个月\N{\r原文字幕}There are much worse remedies
+Dialogue: 0,0:14:52.93,0:14:55.52,译文字幕,,0,0,0,,也许是个好办法\N{\r原文字幕}than a few character-building months in space.
+Dialogue: 0,0:14:56.48,0:14:59.14,译文字幕,,0,0,0,,你这么说是因为  这样能帮到他...\N{\r原文字幕}Are you saying this because it's the right thing...
+Dialogue: 0,0:14:59.23,0:15:01.27,译文字幕,,0,0,0,,还是因为你真的想去\N{\r原文字幕}or because you really want to go?
+Dialogue: 0,0:15:01.36,0:15:03.94,译文字幕,,0,0,0,,我真的  真的  真的  真的很想去...\N{\r原文字幕}I really, really, really, really want to go...
+Dialogue: 0,0:15:04.02,0:15:05.82,译文字幕,,0,0,0,,而且也能帮到他\N{\r原文字幕}and it's the right thing.
+Dialogue: 0,0:15:10.28,0:15:11.49,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:15:12.83,0:15:13.87,译文字幕,,0,0,0,,吉姆\N{\r原文字幕}Jim.
+Dialogue: 0,0:15:14.79,0:15:16.79,译文字幕,,0,0,0,,我不想失去你\N{\r原文字幕}I don't want to lose you.
+Dialogue: 0,0:15:17.45,0:15:20.33,译文字幕,,0,0,0,,妈妈...不会的\N{\r原文字幕}Mom, you won't.
+Dialogue: 0,0:15:20.92,0:15:22.63,译文字幕,,0,0,0,,我会让你感到自豪\N{\r原文字幕}I'll make you proud.
+Dialogue: 0,0:15:24.84,0:15:26.30,译文字幕,,0,0,0,,好吧  呃...\N{\r原文字幕}[DOPPLER] Well, uh, ahem...
+Dialogue: 0,0:15:26.51,0:15:27.92,译文字幕,,0,0,0,,那就这样了\N{\r原文字幕}There we are then.
+Dialogue: 0,0:15:28.51,0:15:30.84,译文字幕,,0,0,0,,我们马上就开始准备\N{\r原文字幕}We'll begin preparations at once.
+Dialogue: 0,0:15:30.93,0:15:35.14,译文字幕,,0,0,0,,吉姆  我的孩子  那我们立刻就动身去太空港\N{\r原文字幕}Jim, my boy, soon we'll be off to the spaceport.
+Dialogue: 0,0:15:47.86,0:15:49.32,译文字幕,,0,0,0,,{\r原文字幕}[Whoosh]
+Dialogue: 0,0:16:06.09,0:16:07.59,译文字幕,,0,0,0,,{\r原文字幕}[Squawking]
+Dialogue: 0,0:16:10.76,0:16:13.39,译文字幕,,0,0,0,,{\r原文字幕}[Creatures speaking alien languages]
+Dialogue: 0,0:16:15.68,0:16:18.39,译文字幕,,0,0,0,,吉姆！  噢！  吉姆！等等我！\N{\r原文字幕}[DOPPLER] Jim! Oh, Jim! Wait for me!
+Dialogue: 0,0:16:18.77,0:16:20.68,译文字幕,,0,0,0,,{\r原文字幕}[Clanking]
+Dialogue: 0,0:16:20.52,0:16:22.51,译文字幕,,0,0,0,,{\r原文字幕}[Breathing deeply]
+Dialogue: 0,0:16:25.81,0:16:28.48,译文字幕,,0,0,0,,呃  吉姆  我们应该趁这个机会\N{\r原文字幕}Well, Jim, this should be a wonderful opportunity
+Dialogue: 0,0:16:28.57,0:16:30.82,译文字幕,,0,0,0,,好好相互了解一下\N{\r原文字幕}for the two of us to get to know one another.
+Dialogue: 0,0:16:30.90,0:16:33.57,译文字幕,,0,0,0,,就像他们说的什么  亲情沟通  呃...\N{\r原文字幕}You know what they say, familiarity breeds, um...
+Dialogue: 0,0:16:33.66,0:16:34.87,译文字幕,,0,0,0,,好吧  你不在乎  但是对我们来说...\N{\r原文字幕}well, contempt, but in our case...
+Dialogue: 0,0:16:34.95,0:16:38.74,译文字幕,,0,0,0,,听着  我们还是先找到我们的船吧  好吗?\N{\r原文字幕}Look, let's just find the ship. Okay?
+Dialogue: 0,0:16:39.27,0:16:40.40,译文字幕,,0,0,0,,{\r原文字幕}[Clank]
+Dialogue: 0,0:16:40.62,0:16:43.87,译文字幕,,0,0,0,,-右手边第二个码头  -你可以找到的\N{\r原文字幕}- Second berth on your right! - You can't miss it.
+Dialogue: 0,0:16:44.08,0:16:45.50,译文字幕,,0,0,0,,嗨  谢了\N{\r原文字幕}Hey, thanks.
+Dialogue: 0,0:16:46.13,0:16:48.75,译文字幕,,0,0,0,,是因为这身行头对吗  我就不应该听...\N{\r原文字幕}It's the suit, isn't it? I should never have listened...
+Dialogue: 0,0:16:48.84,0:16:51.34,译文字幕,,0,0,0,,那个双头女商人的推销\N{\r原文字幕}to that pushy two-headed saleswoman.
+Dialogue: 0,0:16:51.42,0:16:53.43,译文字幕,,0,0,0,,一个头说大小正合适  另一个头说这颜色适合我\N{\r原文字幕}This one said it fit, that one said it was my color.
+Dialogue: 0,0:16:53.59,0:16:56.35,译文字幕,,0,0,0,,我都不知该怎么办了  我被搞糊涂了  噢！\N{\r原文字幕}I didn't know what to do. I get so flustered. Ooh!
+Dialogue: 0,0:16:57.97,0:17:02.48,译文字幕,,0,0,0,,噢  吉姆！这是我们的船！R.L.S. Legacy！\N{\r原文字幕}Oh, Jim! This is our ship! The R.L.S. Legacy!
+Dialogue: 0,0:17:06.52,0:17:07.65,译文字幕,,0,0,0,,{\r原文字幕}Whoa!
+Dialogue: 0,0:17:10.07,0:17:12.61,译文字幕,,0,0,0,,把这些桶装到前面去！\N{\r原文字幕}[OFFICER] Stow those casks forward!
+Dialogue: 0,0:17:12.70,0:17:14.86,译文字幕,,0,0,0,,装上去！\N{\r原文字幕}Heave together now!
+Dialogue: 0,0:17:15.82,0:17:17.78,译文字幕,,0,0,0,,太酷了！\N{\r原文字幕}How cool is this?
+Dialogue: 0,0:17:17.99,0:17:19.03,译文字幕,,0,0,0,,{\r原文字幕}[Squishing noise]
+Dialogue: 0,0:17:19.54,0:17:22.62,译文字幕,,0,0,0,,对不起  我不是故意的--\N{\r原文字幕}- Sorry about that. I didn't mean... [Angry farting noises]
+Dialogue: 0,0:17:25.08,0:17:27.04,译文字幕,,0,0,0,,让我来搞定他\N{\r原文字幕}Allow me to handle this.
+Dialogue: 0,0:17:27.63,0:17:29.63,译文字幕,,0,0,0,,{\r原文字幕}[Blowing Raspberries]
+Dialogue: 0,0:17:30.05,0:17:31.59,译文字幕,,0,0,0,,{\r原文字幕}[Squeaking]
+Dialogue: 0,0:17:33.67,0:17:35.55,译文字幕,,0,0,0,,{\r原文字幕}[Happy Fart Noises]
+Dialogue: 0,0:17:35.88,0:17:37.34,译文字幕,,0,0,0,,我的弗拉图拉语很流利  吉姆\N{\r原文字幕}I'm fluent in Flatula, Jim.
+Dialogue: 0,0:17:37.43,0:17:38.85,译文字幕,,0,0,0,,我中学的时候学过两年\N{\r原文字幕}Took two years of it in high school. [Blows]
+Dialogue: 0,0:17:39.81,0:17:42.56,译文字幕,,0,0,0,,弗拉图拉语  酷！\N{\r原文字幕}Flatula? Cool.
+Dialogue: 0,0:17:44.44,0:17:47.56,译文字幕,,0,0,0,,早上好  船长  一切都井然有序吗?\N{\r原文字幕}Good morning, Captain. Everything shipshape?
+Dialogue: 0,0:17:47.65,0:17:51.11,译文字幕,,0,0,0,,一切都很好  先生 但我不是船长\N{\r原文字幕}Shipshape it is, sir, but I'm not the captain.
+Dialogue: 0,0:17:51.19,0:17:52.86,译文字幕,,0,0,0,,船长在上面\N{\r原文字幕}The captain's aloft.
+Dialogue: 0,0:17:55.74,0:17:56.82,译文字幕,,0,0,0,,{\r原文字幕}[Meows]
+Dialogue: 0,0:18:00.03,0:18:02.20,译文字幕,,0,0,0,,埃柔先生  这艘船我已经检查过了...\N{\r原文字幕}Mr. Arrow, I've checked this miserable ship...
+Dialogue: 0,0:18:02.29,0:18:06.83,译文字幕,,0,0,0,,每一处细节都和往常一样...井井有条\N{\r原文字幕}from stem to stern and, as usual, it's spot on.
+Dialogue: 0,0:18:06.92,0:18:08.58,译文字幕,,0,0,0,,你从来不犯错的吗?\N{\r原文字幕}Can you get nothing wrong?
+Dialogue: 0,0:18:09.00,0:18:11.63,译文字幕,,0,0,0,,您过奖了  船长\N{\r原文字幕}You flatter me, Captain.
+Dialogue: 0,0:18:13.05,0:18:15.88,译文字幕,,0,0,0,,啊  我想你就是多普勒博士吧?\N{\r原文字幕}Ah. Dr. Doppler, I presume?
+Dialogue: 0,0:18:16.01,0:18:17.80,译文字幕,,0,0,0,,呃  是的  我...\N{\r原文字幕}Uh, um... Yes. I...
+Dialogue: 0,0:18:17.89,0:18:21.05,译文字幕,,0,0,0,,-你好啊  听得见吗?  -别敲了  我听得听见！\N{\r原文字幕}- Hello! Can you hear me? - Yes, I can! Stop that banging!
+Dialogue: 0,0:18:21.14,0:18:23.64,译文字幕,,0,0,0,,让我来帮你  博士  这个要这样...\N{\r原文字幕}If I may, Doctor, this works so much better...
+Dialogue: 0,0:18:23.72,0:18:26.81,译文字幕,,0,0,0,,-然后再插上插头  -噢！\N{\r原文字幕}when it's right-way up and plugged in. - Ooh!
+Dialogue: 0,0:18:26.89,0:18:27.98,译文字幕,,0,0,0,,好了  正常了\N{\r原文字幕}Lovely. There you go.
+Dialogue: 0,0:18:28.06,0:18:30.77,译文字幕,,0,0,0,,您要是不介意  我自己可以插\N{\r原文字幕}If you don't mind, I can manage my own plugging!
+Dialogue: 0,0:18:30.86,0:18:31.94,译文字幕,,0,0,0,,我是阿米莉娅船长...\N{\r原文字幕}I'm Captain Amelia...
+Dialogue: 0,0:18:32.02,0:18:33.57,译文字幕,,0,0,0,,不久前跟普洛腾舰队有点儿小冲突\N{\r原文字幕}late of a few run-ins with the Protean Armada.
+Dialogue: 0,0:18:33.65,0:18:35.94,译文字幕,,0,0,0,,不太愉快  我就不说了\N{\r原文字幕}Nasty business, but I won't bore you with my scars.
+Dialogue: 0,0:18:36.24,0:18:38.07,译文字幕,,0,0,0,,这是我的大副  埃柔先生\N{\r原文字幕}You've met my first officer, Mr. Arrow.
+Dialogue: 0,0:18:38.16,0:18:40.28,译文字幕,,0,0,0,,淳朴  强壮  可靠  诚实  勇猛  忠实\N{\r原文字幕}Sterling, tough, dependable, honest, brave, and true.
+Dialogue: 0,0:18:40.37,0:18:41.58,译文字幕,,0,0,0,,行了  船长\N{\r原文字幕}Please, Captain.
+Dialogue: 0,0:18:41.66,0:18:43.58,译文字幕,,0,0,0,,哦  闭嘴  埃柔  我只是说说而已\N{\r原文字幕}Shut up, Arrow. You know I don't mean a word of it.
+Dialogue: 0,0:18:43.66,0:18:47.21,译文字幕,,0,0,0,,呃  请原谅我不想打断这有趣的玩笑...\N{\r原文字幕}Ahem. Excuse me. I hate to interrupt this lovely banter...
+Dialogue: 0,0:18:47.29,0:18:49.58,译文字幕,,0,0,0,,但是  我要向你们介绍  吉姆·霍金斯\N{\r原文字幕}but may I introduce to you Jim Hawkins.
+Dialogue: 0,0:18:49.67,0:18:52.80,译文字幕,,0,0,0,,吉姆  你知道  就是找到藏宝图的...\N{\r原文字幕}Jim, you see, is the boy who found the treasure...
+Dialogue: 0,0:18:52.88,0:18:54.38,译文字幕,,0,0,0,,博士  够了！\N{\r原文字幕}Doctor, please!
+Dialogue: 0,0:18:55.21,0:18:56.47,译文字幕,,0,0,0,,{\r原文字幕}[Growls]
+Dialogue: 0,0:18:57.88,0:19:00.01,译文字幕,,0,0,0,,到我的船舱去谈吧\N{\r原文字幕}I'd like a word with you in my stateroom.
+Dialogue: 0,0:19:01.89,0:19:06.73,译文字幕,,0,0,0,,博士  你刚刚在那些船员面前\N{\r原文字幕}Doctor, to muse and blabber about a treasure map
+Dialogue: 0,0:19:07.10,0:19:09.35,译文字幕,,0,0,0,,高谈阔论关于藏宝图的事\N{\r原文字幕}in front of this particular crew
+Dialogue: 0,0:19:09.44,0:19:13.61,译文字幕,,0,0,0,,在我看来真是一种近乎低能的行为\N{\r原文字幕}Demonstrates a level of ineptitude that borders on the imbecilic.
+Dialogue: 0,0:19:13.69,0:19:15.48,译文字幕,,0,0,0,,我这么说已经很客气了\N{\r原文字幕}And I mean that in a very caring way.
+Dialogue: 0,0:19:15.57,0:19:18.65,译文字幕,,0,0,0,,你说我低能?愚蠢  我...\N{\r原文字幕}"Imbecilic," did you say? Foolishness, I've...
+Dialogue: 0,0:19:18.74,0:19:20.41,译文字幕,,0,0,0,,我能先看看藏宝图吗?\N{\r原文字幕}May I see the map, please?
+Dialogue: 0,0:19:26.95,0:19:27.96,译文字幕,,0,0,0,,接着\N{\r原文字幕}Here.
+Dialogue: 0,0:19:29.21,0:19:30.21,译文字幕,,0,0,0,,{\r原文字幕}Hmm.
+Dialogue: 0,0:19:30.29,0:19:31.58,译文字幕,,0,0,0,,有意思\N{\r原文字幕}Fascinating.
+Dialogue: 0,0:19:33.17,0:19:35.00,译文字幕,,0,0,0,,霍金斯先生  以后...\N{\r原文字幕}Mr. Hawkins, in the future...
+Dialogue: 0,0:19:35.09,0:19:37.05,译文字幕,,0,0,0,,你的称呼我"舰长"或"长官"\N{\r原文字幕}you will address me as "Captain" or "ma'am."
+Dialogue: 0,0:19:37.13,0:19:38.13,译文字幕,,0,0,0,,清楚了吗?\N{\r原文字幕}Is that clear?
+Dialogue: 0,0:19:38.59,0:19:40.13,译文字幕,,0,0,0,,{\r原文字幕}Ugh...
+Dialogue: 0,0:19:40.93,0:19:42.01,译文字幕,,0,0,0,,霍金斯先生?\N{\r原文字幕}Mr. Hawkins?
+Dialogue: 0,0:19:43.26,0:19:45.39,译文字幕,,0,0,0,,-是  长官  -就是这样\N{\r原文字幕}- Yes, ma'am. - That'll do.
+Dialogue: 0,0:19:46.31,0:19:47.98,译文字幕,,0,0,0,,先生们  藏宝图不用的时候必须锁好\N{\r原文字幕}Gentlemen, this must be kept under lock and key when not in use.
+Dialogue: 0,0:19:48.06,0:19:53.36,译文字幕,,0,0,0,,还有  博士  再一次好心的提醒你\N{\r原文字幕}And, Doctor, again, with the greatest possible respect
+Dialogue: 0,0:19:53.44,0:19:55.40,译文字幕,,0,0,0,,闭上你的嘴\N{\r原文字幕}Zip your howling screamer.
+Dialogue: 0,0:19:55.48,0:19:56.65,译文字幕,,0,0,0,,舰长  我向你保证...\N{\r原文字幕}Captain, I assure you I...
+Dialogue: 0,0:19:56.73,0:20:00.32,译文字幕,,0,0,0,,我长话短说\N{\r原文字幕}Let me make this as monosyllabic as possible.
+Dialogue: 0,0:20:00.40,0:20:04.95,译文字幕,,0,0,0,,我一点也不喜欢你雇来的那些船员\N{\r原文字幕}I don't much care for this crew you hired.
+Dialogue: 0,0:20:05.03,0:20:06.99,译文字幕,,0,0,0,,他们...我怎么形容他们来着?  埃柔\N{\r原文字幕}They're... How did I describe them, Arrow?
+Dialogue: 0,0:20:07.08,0:20:09.58,译文字幕,,0,0,0,,我早上喝咖啡的时候说过句绝的\N{\r原文字幕}I said something rather good this morning before coffee.
+Dialogue: 0,0:20:09.66,0:20:13.79,译文字幕,,0,0,0,,"一堆滑稽的流着口水的傻子"长官\N{\r原文字幕}"A ludicrous parcel of driveling galoots," ma'am.
+Dialogue: 0,0:20:13.88,0:20:17.34,译文字幕,,0,0,0,,-就是这样  很贴切  -你给我听好...\N{\r原文字幕}- There you go. Poetry. - Now, see here...
+Dialogue: 0,0:20:17.42,0:20:21.51,译文字幕,,0,0,0,,博士  我也很想和你聊天、喝茶、吃蛋糕  那该有多好\N{\r原文字幕}Doctor, I'd love to chat, tea, cake, the whole shebang.
+Dialogue: 0,0:20:21.59,0:20:22.76,译文字幕,,0,0,0,,但我还得准备起航\N{\r原文字幕}But I have a ship to launch.
+Dialogue: 0,0:20:22.84,0:20:24.85,译文字幕,,0,0,0,,你也得准备你的装备\N{\r原文字幕}And you've got your outfit to buff up.
+Dialogue: 0,0:20:25.26,0:20:28.89,译文字幕,,0,0,0,,埃柔先生  请把这两个菜鸟带到厨房去\N{\r原文字幕}Mr. Arrow, please escort these two neophytes down to the galley straightaway.
+Dialogue: 0,0:20:28.97,0:20:31.64,译文字幕,,0,0,0,,年轻的霍金斯就跟着  我们的厨子席尔瓦先生一起干活\N{\r原文字幕}Young Hawkins will be working for our cook, Mr. Silver.
+Dialogue: 0,0:20:31.73,0:20:33.65,译文字幕,,0,0,0,,什么?厨子?\N{\r原文字幕}What? The cook?
+Dialogue: 0,0:20:35.44,0:20:37.98,译文字幕,,0,0,0,,那个女人！那只...猫！\N{\r原文字幕}That woman! That feline!
+Dialogue: 0,0:20:38.07,0:20:39.90,译文字幕,,0,0,0,,她搞清楚谁才是头儿了没有\N{\r原文字幕}Who does she think is working for whom?
+Dialogue: 0,0:20:39.99,0:20:42.03,译文字幕,,0,0,0,,藏宝图是我的  她居然叫我打杂?\N{\r原文字幕}It's my map, and she's got me bussin' tables?
+Dialogue: 0,0:20:42.11,0:20:45.87,译文字幕,,0,0,0,,我不允许你们对船长有任何不敬！\N{\r原文字幕}I'll not tolerate a cross word about our captain!
+Dialogue: 0,0:20:45.95,0:20:49.91,译文字幕,,0,0,0,,在任何星系都不可能找比她更好的长官了\N{\r原文字幕}There's no finer officer in this or any galaxy.
+Dialogue: 0,0:20:50.20,0:20:52.21,译文字幕,,0,0,0,,{\r原文字幕}[Whistling]
+Dialogue: 0,0:20:53.50,0:20:54.75,译文字幕,,0,0,0,,席尔瓦先生\N{\r原文字幕}Mr. Silver?
+Dialogue: 0,0:20:54.83,0:20:56.88,译文字幕,,0,0,0,,啊  埃柔先生\N{\r原文字幕}Why, Mr. Arrow, sir.
+Dialogue: 0,0:20:57.50,0:21:01.59,译文字幕,,0,0,0,,您这样的绅士能来我的厨房  我真的太荣幸了\N{\r原文字幕}Bringin' in such fine and distinguished gents to grace my humble galley.
+Dialogue: 0,0:21:01.67,0:21:03.84,译文字幕,,0,0,0,,早知道  我就先收拾一下了\N{\r原文字幕}Had I known, I'd have tucked in me shirt.
+Dialogue: 0,0:21:04.38,0:21:05.72,译文字幕,,0,0,0,,呵呵呵呵！\N{\r原文字幕}Heh heh heh heh!
+Dialogue: 0,0:21:09.26,0:21:10.35,译文字幕,,0,0,0,,一个半机械人！\N{\r原文字幕}A cyborg!
+Dialogue: 0,0:21:10.68,0:21:12.94,译文字幕,,0,0,0,,这位是多普勒博士\N{\r原文字幕}May I introduce Dr. Doppler,
+Dialogue: 0,0:21:13.02,0:21:15.06,译文字幕,,0,0,0,,我们这次航行的资助者\N{\r原文字幕}the financier of our voyage.
+Dialogue: 0,0:21:15.56,0:21:17.77,译文字幕,,0,0,0,,装备不错呀  博士\N{\r原文字幕}Love the outfit, Doc.
+Dialogue: 0,0:21:17.86,0:21:20.73,译文字幕,,0,0,0,,谢谢  呃...你的眼睛也不错\N{\r原文字幕}Well, thank you. Um, love the eye.
+Dialogue: 0,0:21:21.19,0:21:23.53,译文字幕,,0,0,0,,这小伙子是吉姆·霍金斯\N{\r原文字幕}Uh, this young lad is Jim Hawkins.
+Dialogue: 0,0:21:24.53,0:21:25.70,译文字幕,,0,0,0,,吉姆！哦...\N{\r原文字幕}Jimbo! Uh...
+Dialogue: 0,0:21:31.83,0:21:36.12,译文字幕,,0,0,0,,别被这一大堆金属工具吓到了\N{\r原文字幕}Now, don't be too put off by this hunk of hardware.
+Dialogue: 0,0:21:36.96,0:21:38.42,译文字幕,,0,0,0,,{\r原文字幕}[Humming]
+Dialogue: 0,0:21:42.05,0:21:43.13,译文字幕,,0,0,0,,{\r原文字幕}Whoa!
+Dialogue: 0,0:21:43.72,0:21:46.05,译文字幕,,0,0,0,,适应这些工具需要些时间\N{\r原文字幕}These gears have been tough getting used to.
+Dialogue: 0,0:21:46.13,0:21:49.51,译文字幕,,0,0,0,,可是用起来还挺顺手的\N{\r原文字幕}But they do come in mighty handy from time to time.
+Dialogue: 0,0:21:58.06,0:21:59.15,译文字幕,,0,0,0,,{\r原文字幕}Mmm!
+Dialogue: 0,0:21:59.86,0:22:04.24,译文字幕,,0,0,0,,好了  来  尝尝我最拿手的炖骨兽肉\N{\r原文字幕}Here, now, have a taste of me famous bonzabeast stew.
+Dialogue: 0,0:22:04.74,0:22:06.07,译文字幕,,0,0,0,,{\r原文字幕}[Sniffing]
+Dialogue: 0,0:22:07.78,0:22:11.79,译文字幕,,0,0,0,,呣  香气扑鼻  让人感觉精力充沛\N{\r原文字幕}Mmm! Delightfully tangy, yet robust.
+Dialogue: 0,0:22:11.87,0:22:14.33,译文字幕,,0,0,0,,祖传秘方\N{\r原文字幕}Old family recipe.
+Dialogue: 0,0:22:14.41,0:22:15.54,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,0:22:15.62,0:22:18.83,译文字幕,,0,0,0,,实际上  这也是老祖宗传下来的\N{\r原文字幕}In fact, that was part of the old family!
+Dialogue: 0,0:22:23.38,0:22:24.80,译文字幕,,0,0,0,,开个玩笑  博士\N{\r原文字幕}I'm just kiddin', Doc!
+Dialogue: 0,0:22:24.88,0:22:26.68,译文字幕,,0,0,0,,嗯  好吧\N{\r原文字幕}Yeah, well...
+Dialogue: 0,0:22:26.76,0:22:29.18,译文字幕,,0,0,0,,不开玩笑就不是我了\N{\r原文字幕}I'm nothin' if I ain't a kidder.
+Dialogue: 0,0:22:29.26,0:22:31.26,译文字幕,,0,0,0,,来吧  吉姆  来一大口\N{\r原文字幕}Go on, Jimbo. Have a swig.
+Dialogue: 0,0:22:37.06,0:22:38.27,译文字幕,,0,0,0,,{\r原文字幕}[Giggling]
+Dialogue: 0,0:22:38.60,0:22:40.02,译文字幕,,0,0,0,,墨菲！\N{\r原文字幕}Morph!
+Dialogue: 0,0:22:40.44,0:22:43.23,译文字幕,,0,0,0,,你这个摇头晃脑的调皮鬼！\N{\r原文字幕}You jiggle-headed blob of mischief!
+Dialogue: 0,0:22:43.32,0:22:45.40,译文字幕,,0,0,0,,原来你藏在那！\N{\r原文字幕}So that's where you was hiding!
+Dialogue: 0,0:22:46.28,0:22:47.36,译文字幕,,0,0,0,,{\r原文字幕}[Chattering]
+Dialogue: 0,0:22:47.45,0:22:48.70,译文字幕,,0,0,0,,{\r原文字幕}[Belch]
+Dialogue: 0,0:22:52.45,0:22:53.66,译文字幕,,0,0,0,,那是什么东西?\N{\r原文字幕}What is that thing?
+Dialogue: 0,0:22:53.74,0:22:54.75,译文字幕,,0,0,0,,"那是什么东西?"\N{\r原文字幕}"What is that thing?"
+Dialogue: 0,0:22:54.83,0:22:56.71,译文字幕,,0,0,0,,他是个变形怪\N{\r原文字幕}He's a morph.
+Dialogue: 0,0:22:56.91,0:22:59.79,译文字幕,,0,0,0,,我在海神星1号上救了这个小变形怪\N{\r原文字幕}I rescued the little shape-shifter on Proteus 1.
+Dialogue: 0,0:23:00.38,0:23:01.79,译文字幕,,0,0,0,,{\r原文字幕}[Cooing]
+Dialogue: 0,0:23:01.88,0:23:04.17,译文字幕,,0,0,0,,嗷  他非常喜欢我\N{\r原文字幕}Aw, he took a shine to me.
+Dialogue: 0,0:23:04.25,0:23:06.51,译文字幕,,0,0,0,,从那以后我们就在一起了\N{\r原文字幕}We been together ever since.
+Dialogue: 0,0:23:06.63,0:23:09.05,译文字幕,,0,0,0,,是吗?乖孩子\N{\r原文字幕}Right? Yeah. Nice boy.
+Dialogue: 0,0:23:09.38,0:23:10.89,译文字幕,,0,0,0,,我们就要起航了\N{\r原文字幕}We're about to get underway.
+Dialogue: 0,0:23:10.97,0:23:13.06,译文字幕,,0,0,0,,你想看看起航吗  博士?\N{\r原文字幕}Would you like to observe the launch, Doctor?
+Dialogue: 0,0:23:13.14,0:23:14.18,译文字幕,,0,0,0,,当然！\N{\r原文字幕}Would I?
+Dialogue: 0,0:23:14.26,0:23:17.31,译文字幕,,0,0,0,,现在的星系核有超光速喷流吗?\N{\r原文字幕}Does an active galactic nucleus have superluminal jets?
+Dialogue: 0,0:23:18.52,0:23:20.02,译文字幕,,0,0,0,,我跟你去\N{\r原文字幕}I'll follow you.
+Dialogue: 0,0:23:20.10,0:23:24.61,译文字幕,,0,0,0,,席尔瓦先生  霍金斯先生留在这里听你的指示\N{\r原文字幕}Mr. Hawkins will stay here in your charge, Mr. Silver.
+Dialogue: 0,0:23:24.69,0:23:25.73,译文字幕,,0,0,0,,{\r原文字幕}[Cough]
+Dialogue: 0,0:23:25.82,0:23:27.69,译文字幕,,0,0,0,,抱歉  先生  但是...\N{\r原文字幕}Beggin' your pardon, sir, but...
+Dialogue: 0,0:23:27.99,0:23:32.49,译文字幕,,0,0,0,,这是舰长的命令！别让这孩子偷懒\N{\r原文字幕}Captain's orders! See to it the new cabin boy's kept busy.
+Dialogue: 0,0:23:32.82,0:23:35.49,译文字幕,,0,0,0,,-但是...  -不  你不能...\N{\r原文字幕}- But, no, but... - No, you can't...
+Dialogue: 0,0:23:36.24,0:23:37.45,译文字幕,,0,0,0,,{\r原文字幕}[Both Sigh]
+Dialogue: 0,0:23:40.29,0:23:44.09,译文字幕,,0,0,0,,好吧  船长让你跟着我  是吗?\N{\r原文字幕}So, Captain's put you with me, eh?
+Dialogue: 0,0:23:44.17,0:23:45.46,译文字幕,,0,0,0,,随便了\N{\r原文字幕}Whatever.
+Dialogue: 0,0:23:47.71,0:23:51.18,译文字幕,,0,0,0,,我这个卑下的半机械人怎么敢抗命不尊呢?\N{\r原文字幕}Well, who be a humble cyborg to argue with a captain?
+Dialogue: 0,0:23:52.34,0:23:53.47,译文字幕,,0,0,0,,是吧\N{\r原文字幕}Yeah.
+Dialogue: 0,0:23:54.26,0:23:56.60,译文字幕,,0,0,0,,知道吗  这些紫色的蔬菜...\N{\r原文字幕}You know, these purps...
+Dialogue: 0,0:23:56.68,0:24:00.81,译文字幕,,0,0,0,,和蒙特里莎星球上生长的蔬菜很像\N{\r原文字幕}they're kind of like the ones back home on Montressor.
+Dialogue: 0,0:24:01.39,0:24:02.52,译文字幕,,0,0,0,,你去过那儿吗?\N{\r原文字幕}You ever been there?
+Dialogue: 0,0:24:02.85,0:24:05.23,译文字幕,,0,0,0,,我好像没去过那  吉姆\N{\r原文字幕}I can't say as I have, Jimbo.
+Dialogue: 0,0:24:07.32,0:24:09.74,译文字幕,,0,0,0,,我还记得  在我来这之前...\N{\r原文字幕}Come to think of it, just before I left...
+Dialogue: 0,0:24:09.82,0:24:11.53,译文字幕,,0,0,0,,碰到过一个老头  他...\N{\r原文字幕}I met this old guy who was, um...
+Dialogue: 0,0:24:12.11,0:24:15.28,译文字幕,,0,0,0,,在找他的一个朋友  也是半机械人\N{\r原文字幕}He was kind of looking for a cyborg buddy of his.
+Dialogue: 0,0:24:15.37,0:24:16.37,译文字幕,,0,0,0,,是吗?\N{\r原文字幕}Is that so?
+Dialogue: 0,0:24:16.58,0:24:17.70,译文字幕,,0,0,0,,没错\N{\r原文字幕}Yeah.
+Dialogue: 0,0:24:18.45,0:24:21.12,译文字幕,,0,0,0,,那老头叫什么名字来着？\N{\r原文字幕}What was that old salamander's name?
+Dialogue: 0,0:24:22.00,0:24:24.00,译文字幕,,0,0,0,,对了  叫鲍恩斯\N{\r原文字幕}Oh, yeah. Bones.
+Dialogue: 0,0:24:24.71,0:24:26.17,译文字幕,,0,0,0,,比利·鲍恩斯\N{\r原文字幕}Billy Bones?
+Dialogue: 0,0:24:26.25,0:24:29.01,译文字幕,,0,0,0,,鲍恩斯？鲍恩斯？\N{\r原文字幕}Bones? Bones?
+Dialogue: 0,0:24:30.17,0:24:32.01,译文字幕,,0,0,0,,我没什么印象\N{\r原文字幕}T'ain't ringin' any bells.
+Dialogue: 0,0:24:32.09,0:24:34.01,译文字幕,,0,0,0,,可能是另一个半机械人\N{\r原文字幕}Must have been a different cyborg.
+Dialogue: 0,0:24:34.09,0:24:37.47,译文字幕,,0,0,0,,这个港口有很多像我这样的半机械人\N{\r原文字幕}There's a slew of cyborgs roamin' this port.
+Dialogue: 0,0:24:37.56,0:24:40.52,译文字幕,,0,0,0,,准备起锚！\N{\r原文字幕}[Whistle on deck] Prepare to cast off!
+Dialogue: 0,0:24:41.10,0:24:44.77,译文字幕,,0,0,0,,去吧  小伙子  看看船起航\N{\r原文字幕}Off with you, lad, and watch the launch.
+Dialogue: 0,0:24:44.86,0:24:48.32,译文字幕,,0,0,0,,回头还有很多活等着你干呢\N{\r原文字幕}There'll be plenty work a-waitin' for you afterwards.
+Dialogue: 0,0:24:48.69,0:24:50.49,译文字幕,,0,0,0,,{\r原文字幕}[Humming] [Chattering]
+Dialogue: 0,0:24:53.61,0:24:58.16,译文字幕,,0,0,0,,我们最好盯紧点这个家伙  是不是  墨菲\N{\r原文字幕}We best be keepin' a sharp eye on this one, eh, Morph?
+Dialogue: 0,0:24:59.45,0:25:03.42,译文字幕,,0,0,0,,让他别惹那些他不该惹的闲事\N{\r原文字幕}We wouldn't want him strayin' into things he shouldn't.
+Dialogue: 0,0:25:04.37,0:25:06.71,译文字幕,,0,0,0,,都准备好了  舰长！\N{\r原文字幕}We're all clear, Captain!
+Dialogue: 0,0:25:07.13,0:25:10.09,译文字幕,,0,0,0,,好了  我的朋友  让这艘破船升空吧\N{\r原文字幕}Well, my friend. Are we ready to raise this creaking tub?
+Dialogue: 0,0:25:10.51,0:25:12.30,译文字幕,,0,0,0,,遵命  舰长\N{\r原文字幕}My pleasure, Captain.
+Dialogue: 0,0:25:12.63,0:25:15.26,译文字幕,,0,0,0,,全体船员就位！\N{\r原文字幕}All hands to stations!
+Dialogue: 0,0:25:16.68,0:25:17.85,译文字幕,,0,0,0,,机灵点儿！\N{\r原文字幕}Smartly now!
+Dialogue: 0,0:25:17.93,0:25:20.64,译文字幕,,0,0,0,,快点  你这个下贱渣滓！  我要追上你！\N{\r原文字幕}Come on, you scurvy scum! I'll race you!
+Dialogue: 0,0:25:23.14,0:25:26.19,译文字幕,,0,0,0,,展开所有太阳帆！\N{\r原文字幕}Loose all solar sails!
+Dialogue: 0,0:25:30.28,0:25:31.32,译文字幕,,0,0,0,,{\r原文字幕}[Grunting]
+Dialogue: 0,0:25:31.40,0:25:32.74,译文字幕,,0,0,0,,加把劲！\N{\r原文字幕}Come on!
+Dialogue: 0,0:25:38.07,0:25:40.41,译文字幕,,0,0,0,,拉起吊带\N{\r原文字幕}Heave up the braces.
+Dialogue: 0,0:25:41.45,0:25:42.83,译文字幕,,0,0,0,,拉紧\N{\r原文字幕}Brace up.
+Dialogue: 0,0:25:57.01,0:25:58.55,译文字幕,,0,0,0,,{\r原文字幕}Ooh! Oh!
+Dialogue: 0,0:25:58.64,0:26:01.43,译文字幕,,0,0,0,,佐夫先生  开启人造重力\N{\r原文字幕}Mr. Zoff, engage artificial gravity.
+Dialogue: 0,0:26:01.56,0:26:03.10,译文字幕,,0,0,0,,{\r原文字幕}[Farting]
+Dialogue: 0,0:26:05.69,0:26:06.73,译文字幕,,0,0,0,,{\r原文字幕}[Clanking]
+Dialogue: 0,0:26:06.81,0:26:08.52,译文字幕,,0,0,0,,{\r原文字幕}[Clattering]
+Dialogue: 0,0:26:08.98,0:26:12.19,译文字幕,,0,0,0,,腾巴克先生  南偏西  转向  2-1-0-0\N{\r原文字幕}South by southwest, Mr. Turnbuckle, heading 2-1-0-0.
+Dialogue: 0,0:26:12.53,0:26:14.99,译文字幕,,0,0,0,,是  船长  2-1-0-0\N{\r原文字幕}Aye, Captain. 2-1 -0-0.
+Dialogue: 0,0:26:17.74,0:26:19.87,译文字幕,,0,0,0,,全速前进  埃柔先生\N{\r原文字幕}Full speed, Mr. Arrow, if you please.
+Dialogue: 0,0:26:19.95,0:26:20.99,译文字幕,,0,0,0,,全速前进！\N{\r原文字幕}Take her away!
+Dialogue: 0,0:26:25.29,0:26:27.08,译文字幕,,0,0,0,,站稳了  博士\N{\r原文字幕}Brace yourself, Doctor.
+Dialogue: 0,0:26:29.25,0:26:30.71,译文字幕,,0,0,0,,{\r原文字幕}Aah! Oof!
+Dialogue: 0,0:26:50.48,0:26:51.48,译文字幕,,0,0,0,,{\r原文字幕}Whoa.
+Dialogue: 0,0:26:51.56,0:26:52.98,译文字幕,,0,0,0,,{\r原文字幕}[Calling]
+Dialogue: 0,0:27:08.58,0:27:12.59,译文字幕,,0,0,0,,难以置信  奥克斯星系鱼！\N{\r原文字幕}Upon my word, an Orcus Galacticus.
+Dialogue: 0,0:27:14.42,0:27:15.46,译文字幕,,0,0,0,,笑一个\N{\r原文字幕}Smile.
+Dialogue: 0,0:27:15.55,0:27:17.26,译文字幕,,0,0,0,,博士  要是我会站远...\N{\r原文字幕}Doctor, I'd stand clear...
+Dialogue: 0,0:27:22.39,0:27:25.06,译文字幕,,0,0,0,,啊  真是个航行的好日子  舰长\N{\r原文字幕}'Tis a grand day for sailing, Captain,
+Dialogue: 0,0:27:25.14,0:27:26.27,译文字幕,,0,0,0,,看看你\N{\r原文字幕}And look at you.
+Dialogue: 0,0:27:26.77,0:27:31.86,译文字幕,,0,0,0,,就像一艘上了新帆  涂了新漆的帆船一样  英姿焕发！\N{\r原文字幕}You're as trim and as bonny as a sloop with new sails and a fresh coat of paint.
+Dialogue: 0,0:27:32.15,0:27:35.48,译文字幕,,0,0,0,,那些甜言蜜语  还是留着给那些太空港的妓女说吧\N{\r原文字幕}You can keep that kind of flim-flammery for your spaceport floozies, Silver.
+Dialogue: 0,0:27:35.57,0:27:37.11,译文字幕,,0,0,0,,"太空妓女  太空妓女..."\N{\r原文字幕}"Spaceport floozy, spaceport floozy..."
+Dialogue: 0,0:27:37.19,0:27:39.49,译文字幕,,0,0,0,,你太伤我的心了  舰长\N{\r原文字幕}You cut me to the quick, Captain.
+Dialogue: 0,0:27:40.07,0:27:42.66,译文字幕,,0,0,0,,我一直都是怎么想就怎么说的\N{\r原文字幕}I speaks nothing but me heart at all times.
+Dialogue: 0,0:27:42.74,0:27:43.83,译文字幕,,0,0,0,,"怎么想就怎么说"\N{\r原文字幕}MORPH: "Nothing but me heart."
+Dialogue: 0,0:27:44.62,0:27:46.66,译文字幕,,0,0,0,,顺便提一句  在横桅索上无所事事的菜鸟...\N{\r原文字幕}And, by the way, isn't that your cabin boy...
+Dialogue: 0,0:27:47.00,0:27:50.29,译文字幕,,0,0,0,,不是应该归你管的吗？\N{\r原文字幕}aimlessly footling about in those shrouds?
+Dialogue: 0,0:27:50.50,0:27:51.92,译文字幕,,0,0,0,,{\r原文字幕}Yep, it...
+Dialogue: 0,0:27:52.25,0:27:57.17,译文字幕,,0,0,0,,我一时疏忽了舰长  我这就处理  吉姆！\N{\r原文字幕}A momentary aberration, Cap'n, soon to be addressed. Jimbo!
+Dialogue: 0,0:27:58.42,0:28:01.93,译文字幕,,0,0,0,,我有两个新朋友  你们来认识一下\N{\r原文字幕}I got two new friends I'd like you to meet.
+Dialogue: 0,0:28:03.26,0:28:07.64,译文字幕,,0,0,0,,跟拖把先生和水桶女士问个好吧\N{\r原文字幕}Say hello to Mr. Mop and Mrs. Bucket.
+Dialogue: 0,0:28:07.93,0:28:09.68,译文字幕,,0,0,0,,{\r原文字幕}Heh heh heh heh!
+Dialogue: 0,0:28:09.85,0:28:11.06,译文字幕,,0,0,0,,{\r原文字幕}Yippie.
+Dialogue: 0,0:28:13.15,0:28:15.57,译文字幕,,0,0,0,,开始拖地吧  拖把先生\N{\r原文字幕}Yeah, I got your Mr. Mop.
+Dialogue: 0,0:28:18.86,0:28:21.15,译文字幕,,0,0,0,,小心点  蠢货！\N{\r原文字幕}Watch it, twerp.
+Dialogue: 0,0:28:23.62,0:28:27.33,译文字幕,,0,0,0,,{\r原文字幕}[Murmuring]
+Dialogue: 0,0:28:35.09,0:28:37.80,译文字幕,,0,0,0,,你看什么看  怪物？\N{\r原文字幕}What are you looking at, weirdo?
+Dialogue: 0,0:28:38.84,0:28:40.80,译文字幕,,0,0,0,,就是  怪物\N{\r原文字幕}Yeah, weirdo.
+Dialogue: 0,0:28:41.42,0:28:43.55,译文字幕,,0,0,0,,{\r原文字幕}[Hisssss]
+Dialogue: 0,0:28:44.59,0:28:50.98,译文字幕,,0,0,0,,小伙子  你要学会少管闲事\N{\r原文字幕}Cabin boys should learn to mind their own business.
+Dialogue: 0,0:28:51.31,0:28:53.48,译文字幕,,0,0,0,,怎么  你有不可告人的秘密吗？大眼睛？\N{\r原文字幕}Why? You got something to hide, bright eyes?
+Dialogue: 0,0:28:55.48,0:28:59.82,译文字幕,,0,0,0,,看来你的耳朵不太好使\N{\r原文字幕}Maybe your ears don't work so well.
+Dialogue: 0,0:28:59.90,0:29:01.28,译文字幕,,0,0,0,,{\r原文字幕}[Grunts] Yeah. Ahem.
+Dialogue: 0,0:29:01.90,0:29:03.99,译文字幕,,0,0,0,,不幸的是  我的鼻子太好使了\N{\r原文字幕}Too bad my nose works just fine.
+Dialogue: 0,0:29:04.07,0:29:07.12,译文字幕,,0,0,0,,你这个放肆的小...\N{\r原文字幕}Why, you impudent little...
+Dialogue: 0,0:29:08.03,0:29:09.83,译文字幕,,0,0,0,,{\r原文字幕}[Crew shouting]
+Dialogue: 0,0:29:10.04,0:29:13.54,译文字幕,,0,0,0,,动手！把他撕成碎片！\N{\r原文字幕}Go ahead! Slice him! Dice him! [FARTING NOISE]
+Dialogue: 0,0:29:13.96,0:29:17.67,译文字幕,,0,0,0,,有什么遗言吗  伙计？\N{\r原文字幕}Any last words, cabin boy?
+Dialogue: 0,0:29:20.09,0:29:21.46,译文字幕,,0,0,0,,斯科洛先生\N{\r原文字幕}Mr. Scroop
+Dialogue: 0,0:29:24.18,0:29:27.10,译文字幕,,0,0,0,,你知道用力捏一个...\N{\r原文字幕}You ever see what happens to a fresh purp...
+Dialogue: 0,0:29:27.18,0:29:30.39,译文字幕,,0,0,0,,新鲜紫薯会发生什么吗？\N{\r原文字幕}when you squeeze real hard?
+Dialogue: 0,0:29:32.93,0:29:34.44,译文字幕,,0,0,0,,出什么事了\N{\r原文字幕}What's all this, then?
+Dialogue: 0,0:29:38.40,0:29:39.94,译文字幕,,0,0,0,,你们知道规矩\N{\r原文字幕}You know the rules.
+Dialogue: 0,0:29:40.02,0:29:42.40,译文字幕,,0,0,0,,不准在这艘船上滋事\N{\r原文字幕}There'll be no brawling on this ship.
+Dialogue: 0,0:29:42.53,0:29:43.70,译文字幕,,0,0,0,,是  长官\N{\r原文字幕}Aye-aye, sir.
+Dialogue: 0,0:29:43.78,0:29:47.62,译文字幕,,0,0,0,,谁要是再犯的话  就得被关在禁闭室里...\N{\r原文字幕}Any further offenders will be confined to the brig...
+Dialogue: 0,0:29:47.70,0:29:49.87,译文字幕,,0,0,0,,直到这趟旅程结束\N{\r原文字幕}for the remainder of the voyage.
+Dialogue: 0,0:29:50.74,0:29:53.62,译文字幕,,0,0,0,,清楚了吗  斯科洛先生\N{\r原文字幕}Am I clear, Mr. Scroop?
+Dialogue: 0,0:30:00.13,0:30:02.13,译文字幕,,0,0,0,,非常清楚\N{\r原文字幕}Transparently.
+Dialogue: 0,0:30:07.72,0:30:10.31,译文字幕,,0,0,0,,干得好  埃柔先生\N{\r原文字幕}Well done, Mr. Arrow, sir!
+Dialogue: 0,0:30:10.39,0:30:13.27,译文字幕,,0,0,0,,纪律严明的船队才是好船队  长官\N{\r原文字幕}A tight ship's a happy ship, sir.
+Dialogue: 0,0:30:14.64,0:30:17.10,译文字幕,,0,0,0,,吉姆  我已经给过你活干了\N{\r原文字幕}Jimbo, I gave you a job.
+Dialogue: 0,0:30:17.19,0:30:19.48,译文字幕,,0,0,0,,我一直都在干活  是那个臭虫子...\N{\r原文字幕}Hey, I was doing it until that bug thing...
+Dialogue: 0,0:30:19.56,0:30:25.03,译文字幕,,0,0,0,,给我闭嘴！我要你把甲板擦得干干净净...\N{\r原文字幕}Belay that! Now, I want this deck swabbed spotless...
+Dialogue: 0,0:30:25.11,0:30:28.41,译文字幕,,0,0,0,,我回来之前还没做好  你可别怪我\N{\r原文字幕}and heaven help you if I come back and it's not done.
+Dialogue: 0,0:30:29.03,0:30:32.54,译文字幕,,0,0,0,,墨菲  给我盯着这个小子\N{\r原文字幕}Morph? Keep an eye on this pup.
+Dialogue: 0,0:30:32.62,0:30:34.45,译文字幕,,0,0,0,,要是他还偷懒  就过来告诉我\N{\r原文字幕}And let me know if there be any more distractions.
+Dialogue: 0,0:30:34.54,0:30:36.08,译文字幕,,0,0,0,,{\r原文字幕}Okay. Aye-aye-
+Dialogue: 0,0:30:37.12,0:30:38.88,译文字幕,,0,0,0,,{\r原文字幕}[Chattering]
+Dialogue: 0,0:30:38.96,0:30:40.13,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:30:42.09,0:30:43.46,译文字幕,,0,0,0,,{\r原文字幕}[Crew grumbling]
+Dialogue: 0,0:30:45.30,0:30:47.76,译文字幕,,0,0,0,,好了  大家都到齐了\N{\r原文字幕}So, we're all here, then.
+Dialogue: 0,0:30:47.84,0:30:50.43,译文字幕,,0,0,0,,-让一下  -很好\N{\r原文字幕}- Excuse me. - Fine.
+Dialogue: 0,0:30:52.26,0:30:56.81,译文字幕,,0,0,0,,那么  请恕我直言  先生们...\N{\r原文字幕}Now, if you pardon my plain speaking, gentlemen...
+Dialogue: 0,0:30:57.39,0:30:58.85,译文字幕,,0,0,0,,你们都是...\N{\r原文字幕}Are you all...
+Dialogue: 0,0:30:58.94,0:31:03.86,译文字幕,,0,0,0,,彻头彻尾  不可救药的蠢货吗\N{\r原文字幕}stark-raving, totally blinking daft? [Chatters]
+Dialogue: 0,0:31:04.19,0:31:08.03,译文字幕,,0,0,0,,我好不容易让大家以水手的身份上船\N{\r原文字幕}After all me finagling getting us hired as an upstanding crew
+Dialogue: 0,0:31:08.11,0:31:11.57,译文字幕,,0,0,0,,还没到合适的时机  你们想让计划全部败露吗？\N{\r原文字幕}You want to blow the whole mutiny before its time?
+Dialogue: 0,0:31:12.12,0:31:14.58,译文字幕,,0,0,0,,那男孩已经有所察觉了\N{\r原文字幕}The boy was sniffing about.
+Dialogue: 0,0:31:14.99,0:31:19.46,译文字幕,,0,0,0,,你们只需按照计划行事  你们这些愚蠢的虫脑袋\N{\r原文字幕}You just stick to the plan, you bug-brained twit.
+Dialogue: 0,0:31:20.29,0:31:23.96,译文字幕,,0,0,0,,至于那个小孩  我会给他一堆的活儿...\N{\r原文字幕}As for the boy, I'll run him so ragged...
+Dialogue: 0,0:31:24.05,0:31:26.17,译文字幕,,0,0,0,,让他没有时间去想\N{\r原文字幕}he won't have time to think.
+Dialogue: 0,0:31:29.38,0:31:31.22,译文字幕,,0,0,0,,{\r原文字幕}[Morph laughs]
+Dialogue: 0,0:31:33.26,0:31:34.39,译文字幕,,0,0,0,,{\r原文字幕}[Coughs]
+Dialogue: 0,0:31:35.27,0:31:36.43,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:31:37.06,0:31:39.31,译文字幕,,0,0,0,,这真是有趣的一天\N{\r原文字幕}Well, this has been a fun day, huh?
+Dialogue: 0,0:31:39.69,0:31:43.65,译文字幕,,0,0,0,,交了新朋友  那个像神经病的蜘蛛\N{\r原文字幕}Making new friends, like that spider psycho.
+Dialogue: 0,0:31:44.11,0:31:45.86,译文字幕,,0,0,0,,"神经病的蜘蛛  神经病的蜘蛛"\N{\r原文字幕}"Spider psycho, spider psycho."
+Dialogue: 0,0:31:45.94,0:31:48.19,译文字幕,,0,0,0,,哈  还得再丑一点\N{\r原文字幕}Heh. A little uglier.
+Dialogue: 0,0:31:48.28,0:31:49.82,译文字幕,,0,0,0,,{\r原文字幕}Mwah-ha-ha-ha!
+Dialogue: 0,0:31:50.49,0:31:51.66,译文字幕,,0,0,0,,很像了\N{\r原文字幕}Pretty close.
+Dialogue: 0,0:31:51.74,0:31:56.37,译文字幕,,0,0,0,,感谢上帝  真是奇迹呀\N{\r原文字幕}Well, thank heavens for little miracles.
+Dialogue: 0,0:31:56.45,0:31:59.66,译文字幕,,0,0,0,,你拖了一个小时  甲板还是老样子\N{\r原文字幕}Up here for an hour, and the deck's still in one piece.
+Dialogue: 0,0:32:00.42,0:32:01.42,译文字幕,,0,0,0,,{\r原文字幕}Um...
+Dialogue: 0,0:32:01.50,0:32:03.13,译文字幕,,0,0,0,,我...\N{\r原文字幕}Look,I...
+Dialogue: 0,0:32:04.84,0:32:06.30,译文字幕,,0,0,0,,你为我出头...\N{\r原文字幕}What you did...
+Dialogue: 0,0:32:08.67,0:32:09.84,译文字幕,,0,0,0,,谢谢你\N{\r原文字幕}Thanks.
+Dialogue: 0,0:32:12.01,0:32:16.01,译文字幕,,0,0,0,,你爸爸就没有教过你  怎样去避免争斗吗？\N{\r原文字幕}Didn't your pop ever teach you to pick your fights a bit more carefully?
+Dialogue: 0,0:32:21.52,0:32:23.77,译文字幕,,0,0,0,,你父亲不善于教诲\N{\r原文字幕}Your father not the teachin' sort?
+Dialogue: 0,0:32:24.69,0:32:25.73,译文字幕,,0,0,0,,不\N{\r原文字幕}No.
+Dialogue: 0,0:32:26.07,0:32:29.82,译文字幕,,0,0,0,,只是他离家之后就再也没回来\N{\r原文字幕}He was more the taking off and never coming back sort.
+Dialogue: 0,0:32:30.61,0:32:31.70,译文字幕,,0,0,0,,哦\N{\r原文字幕}Oh.
+Dialogue: 0,0:32:34.82,0:32:36.03,译文字幕,,0,0,0,,对不起  小伙子\N{\r原文字幕}Sorry, lad.
+Dialogue: 0,0:32:36.45,0:32:39.50,译文字幕,,0,0,0,,没什么大不了的  我很好\N{\r原文字幕}Hey, no big deal. I'm doing just fine.
+Dialogue: 0,0:32:40.75,0:32:42.12,译文字幕,,0,0,0,,是吗？\N{\r原文字幕}Is that so?
+Dialogue: 0,0:32:43.71,0:32:47.30,译文字幕,,0,0,0,,好吧  既然舰长把你交给我管...\N{\r原文字幕}Well, since the captain has put you in my charge...
+Dialogue: 0,0:32:47.38,0:32:49.42,译文字幕,,0,0,0,,不管你喜不喜欢  我都要...\N{\r原文字幕}like it or not, I'll be pounding a few skills...
+Dialogue: 0,0:32:49.51,0:32:52.05,译文字幕,,0,0,0,,教你几招  好让你不再惹麻烦\N{\r原文字幕}into that thick head of yours to keep you out of trouble.
+Dialogue: 0,0:32:52.13,0:32:53.18,译文字幕,,0,0,0,,-什么？  -从现在开始\N{\r原文字幕}- What? - From now on,
+Dialogue: 0,0:32:53.26,0:32:55.43,译文字幕,,0,0,0,,我会一直盯着你\N{\r原文字幕}I'm not letting you out of me sight.
+Dialogue: 0,0:32:55.51,0:32:56.51,译文字幕,,0,0,0,,你不能...\N{\r原文字幕}You can't do...
+Dialogue: 0,0:32:56.60,0:33:01.73,译文字幕,,0,0,0,,就连你吃饭、睡觉、抓屁股都得经过我的同意\N{\r原文字幕}You won't so much as eat, sleep, or scratch your bum without my say-so.
+Dialogue: 0,0:33:01.81,0:33:02.89,译文字幕,,0,0,0,,我用不着你管！\N{\r原文字幕}Don't do me any favors!
+Dialogue: 0,0:33:02.98,0:33:05.56,译文字幕,,0,0,0,,你放心好了  小子\N{\r原文字幕}You can be sure of that, my lad.
+Dialogue: 0,0:33:06.23,0:33:07.98,译文字幕,,0,0,0,,放心好了\N{\r原文字幕}You can be sure of that.
+Dialogue: 0,0:33:08.07,0:33:09.90,译文字幕,,0,0,0,,{\r原文字幕}Heh heh heh heh!
+Dialogue: 0,0:33:14.28,0:33:16.57,译文字幕,,0,0,0,,使点劲儿\N{\r原文字幕}Put some elbow into it.
+Dialogue: 0,0:33:27.42,0:33:31.46,译文字幕,,0,0,0,,{\r原文字幕}♪ I am a question to the world
+Dialogue: 0,0:33:31.55,0:33:34.72,译文字幕,,0,0,0,,{\r原文字幕}♪ Not an answer to be heard
+Dialogue: 0,0:33:34.80,0:33:39.56,译文字幕,,0,0,0,,{\r原文字幕}♪ Or a moment that's held in your arms
+Dialogue: 0,0:33:39.64,0:33:44.35,译文字幕,,0,0,0,,{\r原文字幕}♪ And what do you think you'd ever say
+Dialogue: 0,0:33:44.44,0:33:47.40,译文字幕,,0,0,0,,{\r原文字幕}♪ I won't listen anyway
+Dialogue: 0,0:33:47.48,0:33:49.52,译文字幕,,0,0,0,,{\r原文字幕}♪ You don't know me
+Dialogue: 0,0:33:49.61,0:33:54.78,译文字幕,,0,0,0,,{\r原文字幕}♪ And I'll never be what you want me to be
+Dialogue: 0,0:33:59.62,0:34:04.08,译文字幕,,0,0,0,,{\r原文字幕}♪ And what do you think you'd understand?
+Dialogue: 0,0:34:04.16,0:34:07.25,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm a boy, no, I'm a man
+Dialogue: 0,0:34:07.33,0:34:12.55,译文字幕,,0,0,0,,{\r原文字幕}♪ You can take me and throw me away
+Dialogue: 0,0:34:12.63,0:34:16.84,译文字幕,,0,0,0,,{\r原文字幕}♪ And how can you learn what's never shown
+Dialogue: 0,0:34:16.93,0:34:20.64,译文字幕,,0,0,0,,{\r原文字幕}♪ Yeah, you stand here on your own
+Dialogue: 0,0:34:20.72,0:34:22.22,译文字幕,,0,0,0,,{\r原文字幕}♪ They don't know me
+Dialogue: 0,0:34:22.31,0:34:26.56,译文字幕,,0,0,0,,{\r原文字幕}♪ 'Cause I'm not here
+Dialogue: 0,0:34:27.06,0:34:31.69,译文字幕,,0,0,0,,{\r原文字幕}♪ And I want a moment to be real
+Dialogue: 0,0:34:31.77,0:34:34.69,译文字幕,,0,0,0,,{\r原文字幕}♪ Want to touch things I don't feel
+Dialogue: 0,0:34:34.78,0:34:39.91,译文字幕,,0,0,0,,{\r原文字幕}♪ Want to hold on and feel I belong
+Dialogue: 0,0:34:39.99,0:34:44.75,译文字幕,,0,0,0,,{\r原文字幕}♪ And how can the world want me to change
+Dialogue: 0,0:34:44.83,0:34:47.92,译文字幕,,0,0,0,,{\r原文字幕}♪ They're the ones that stay the same
+Dialogue: 0,0:34:48.00,0:34:49.67,译文字幕,,0,0,0,,{\r原文字幕}♪ They don't know me
+Dialogue: 0,0:34:49.75,0:34:53.80,译文字幕,,0,0,0,,{\r原文字幕}♪ But I'm still here
+Dialogue: 0,0:34:54.76,0:34:59.51,译文字幕,,0,0,0,,{\r原文字幕}♪ And you see the things they never see
+Dialogue: 0,0:34:59.59,0:35:02.76,译文字幕,,0,0,0,,{\r原文字幕}♪ All you wanted I could be
+Dialogue: 0,0:35:02.85,0:35:04.22,译文字幕,,0,0,0,,{\r原文字幕}♪ Now you know me
+Dialogue: 0,0:35:04.31,0:35:07.52,译文字幕,,0,0,0,,{\r原文字幕}♪ And I'm not afraid
+Dialogue: 0,0:35:07.60,0:35:12.32,译文字幕,,0,0,0,,{\r原文字幕}♪ And I want to tell you who I am
+Dialogue: 0,0:35:12.40,0:35:15.53,译文字幕,,0,0,0,,{\r原文字幕}♪ Can you help me be a man?
+Dialogue: 0,0:35:15.61,0:35:16.86,译文字幕,,0,0,0,,{\r原文字幕}♪ They can't break me
+Dialogue: 0,0:35:16.94,0:35:21.16,译文字幕,,0,0,0,,{\r原文字幕}♪ As long as I know who I am
+Dialogue: 0,0:35:23.70,0:35:26.87,译文字幕,,0,0,0,,{\r原文字幕}♪ They can't tell me who to be
+Dialogue: 0,0:35:29.87,0:35:34.67,译文字幕,,0,0,0,,{\r原文字幕}♪ 'Cause I'm not what they see
+Dialogue: 0,0:35:34.75,0:35:36.84,译文字幕,,0,0,0,,{\r原文字幕}♪ Yeah, the world is still sleeping
+Dialogue: 0,0:35:36.92,0:35:40.01,译文字幕,,0,0,0,,{\r原文字幕}♪ While I keep on dreaming for me
+Dialogue: 0,0:35:41.43,0:35:43.81,译文字幕,,0,0,0,,{\r原文字幕}♪ And the words are just whispers and lies
+Dialogue: 0,0:35:43.89,0:35:49.02,译文字幕,,0,0,0,,{\r原文字幕}♪ That I'll never believe
+Dialogue: 0,0:35:51.40,0:35:55.98,译文字幕,,0,0,0,,{\r原文字幕}♪ And I want a moment to be real
+Dialogue: 0,0:35:56.07,0:35:58.99,译文字幕,,0,0,0,,{\r原文字幕}♪ Want to touch things I don't feel
+Dialogue: 0,0:35:59.07,0:36:03.24,译文字幕,,0,0,0,,{\r原文字幕}♪ Want to hold on and feel I belong
+Dialogue: 0,0:36:03.41,0:36:04.41,译文字幕,,0,0,0,,{\r原文字幕}Whoa!
+Dialogue: 0,0:36:04.66,0:36:09.00,译文字幕,,0,0,0,,{\r原文字幕}♪ How can you say I never change?
+Dialogue: 0,0:36:09.08,0:36:12.21,译文字幕,,0,0,0,,{\r原文字幕}♪ They're the ones that stay the same
+Dialogue: 0,0:36:12.29,0:36:14.13,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm the one now
+Dialogue: 0,0:36:14.21,0:36:17.84,译文字幕,,0,0,0,,{\r原文字幕}♪ 'Cause I'm still here
+Dialogue: 0,0:36:18.76,0:36:24.10,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm the one son still here
+Dialogue: 0,0:36:24.18,0:36:31.85,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm still here
+Dialogue: 0,0:36:35.52,0:36:37.52,译文字幕,,0,0,0,,{\r原文字幕}[Song fades]
+Dialogue: 0,0:36:43.95,0:36:45.45,译文字幕,,0,0,0,,{\r原文字幕}[Pulley squeaking]
+Dialogue: 0,0:36:45.53,0:36:46.78,译文字幕,,0,0,0,,{\r原文字幕}[Grunting]
+Dialogue: 0,0:36:48.70,0:36:50.12,译文字幕,,0,0,0,,你不行了吗?\N{\r原文字幕}You having a little trouble there?
+Dialogue: 0,0:36:50.20,0:36:51.54,译文字幕,,0,0,0,,离我远点儿\N{\r原文字幕}Get away from me.
+Dialogue: 0,0:36:51.62,0:36:52.62,译文字幕,,0,0,0,,{\r原文字幕}[Laughing]
+Dialogue: 0,0:36:52.71,0:36:54.29,译文字幕,,0,0,0,,哦  吉姆\N{\r原文字幕}Oh, Jimbo.
+Dialogue: 0,0:36:55.75,0:36:59.26,译文字幕,,0,0,0,,如果我在你这个年纪  能够这么灵活的操纵小艇...\N{\r原文字幕}If I could maneuver a skiff like that when I was your age...
+Dialogue: 0,0:36:59.34,0:37:02.47,译文字幕,,0,0,0,,我走在大街上  人们一定会向我鞠躬的\N{\r原文字幕}they'd be bowing in the streets when I walked by today.
+Dialogue: 0,0:37:02.55,0:37:04.43,译文字幕,,0,0,0,,"向我鞠躬"\N{\r原文字幕}"Bowing in the streets."
+Dialogue: 0,0:37:05.05,0:37:06.51,译文字幕,,0,0,0,,也许吧\N{\r原文字幕}I don't know.
+Dialogue: 0,0:37:06.97,0:37:09.72,译文字幕,,0,0,0,,我离开家的时候  可没人这么待见我\N{\r原文字幕}They weren't exactly singing my praises when I left home.
+Dialogue: 0,0:37:11.27,0:37:12.81,译文字幕,,0,0,0,,{\r原文字幕}- Heh. Whew. -"Whew."
+Dialogue: 0,0:37:14.52,0:37:16.15,译文字幕,,0,0,0,,可我要改变这一切\N{\r原文字幕}But I'm gonna change all that.
+Dialogue: 0,0:37:16.81,0:37:19.15,译文字幕,,0,0,0,,是吗?  怎么改变?\N{\r原文字幕}Are you now? How so?
+Dialogue: 0,0:37:19.86,0:37:20.86,译文字幕,,0,0,0,,{\r原文字幕}Uh...
+Dialogue: 0,0:37:21.15,0:37:22.82,译文字幕,,0,0,0,,我有个计划\N{\r原文字幕}I got some plans.
+Dialogue: 0,0:37:23.49,0:37:26.07,译文字幕,,0,0,0,,会让所有人刮目相看\N{\r原文字幕}Gonna make people see me a little different.
+Dialogue: 0,0:37:27.07,0:37:28.20,译文字幕,,0,0,0,,{\r原文字幕}Ooh.
+Dialogue: 0,0:37:29.58,0:37:32.79,译文字幕,,0,0,0,,有时候  人算不如天算\N{\r原文字幕}Sometimes plans go astray.
+Dialogue: 0,0:37:33.50,0:37:35.00,译文字幕,,0,0,0,,这一次不会\N{\r原文字幕}Not this time.
+Dialogue: 0,0:37:35.83,0:37:36.88,译文字幕,,0,0,0,,{\r原文字幕}Hmm.
+Dialogue: 0,0:37:41.84,0:37:42.97,译文字幕,,0,0,0,,{\r原文字幕}Ooh...
+Dialogue: 0,0:37:43.05,0:37:44.34,译文字幕,,0,0,0,,{\r原文字幕}[Chatters]
+Dialogue: 0,0:37:44.47,0:37:47.14,译文字幕,,0,0,0,,噢  谢谢你  墨菲\N{\r原文字幕}Oh. Thank you, Morphy.
+Dialogue: 0,0:37:49.85,0:37:52.81,译文字幕,,0,0,0,,对了  你怎么会变成这样的?\N{\r原文字幕}So, how'd that happen anyway?
+Dialogue: 0,0:37:55.94,0:38:00.32,译文字幕,,0,0,0,,为了追逐梦想  得做些牺牲\N{\r原文字幕}You give up a few things chasing a dream.
+Dialogue: 0,0:38:01.98,0:38:03.24,译文字幕,,0,0,0,,这样值得吗?\N{\r原文字幕}Was it worth it?
+Dialogue: 0,0:38:04.74,0:38:05.74,译文字幕,,0,0,0,,{\r原文字幕}Heh.
+Dialogue: 0,0:38:06.07,0:38:07.37,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:38:09.37,0:38:11.04,译文字幕,,0,0,0,,我希望值得  吉姆\N{\r原文字幕}I'm hoping it is, Jimbo.
+Dialogue: 0,0:38:11.70,0:38:13.33,译文字幕,,0,0,0,,我一直坚信\N{\r原文字幕}I most surely am.
+Dialogue: 0,0:38:14.21,0:38:15.25,译文字幕,,0,0,0,,{\r原文字幕}[Screams]
+Dialogue: 0,0:38:15.33,0:38:16.71,译文字幕,,0,0,0,,{\r原文字幕}[Ship groans]
+Dialogue: 0,0:38:20.92,0:38:22.46,译文字幕,,0,0,0,,搞什么鬼\N{\r原文字幕}What the devil?
+Dialogue: 0,0:38:23.05,0:38:24.13,译文字幕,,0,0,0,,我的天呐\N{\r原文字幕}Good heavens.
+Dialogue: 0,0:38:24.22,0:38:25.22,译文字幕,,0,0,0,,那个普鲁沙星球...\N{\r原文字幕}The star Pelusa...
+Dialogue: 0,0:38:26.72,0:38:28.68,译文字幕,,0,0,0,,它变成超新星了!\N{\r原文字幕}it's gone supernova!
+Dialogue: 0,0:38:28.97,0:38:31.18,译文字幕,,0,0,0,,腾巴克先生  立刻闪避\N{\r原文字幕}Evasive action, Mr. Turnbuckle!
+Dialogue: 0,0:38:31.26,0:38:32.89,译文字幕,,0,0,0,,遵命  舰长\N{\r原文字幕}Aye-aye, Captain.
+Dialogue: 0,0:38:35.31,0:38:38.31,译文字幕,,0,0,0,,所有船员  系紧救生索\N{\r原文字幕}All hands, fasten your lifelines!
+Dialogue: 0,0:38:39.23,0:38:40.69,译文字幕,,0,0,0,,{\r原文字幕}[Shouting]
+Dialogue: 0,0:38:52.08,0:38:55.25,译文字幕,,0,0,0,,埃柔先生  保护好太阳帆!\N{\r原文字幕}Mr. Arrow, secure those sails!
+Dialogue: 0,0:38:55.33,0:38:57.75,译文字幕,,0,0,0,,保护船帆!\N{\r原文字幕}Secure all sails!
+Dialogue: 0,0:38:58.21,0:39:00.25,译文字幕,,0,0,0,,把船帆收起来!\N{\r原文字幕}Reef them down, men!
+Dialogue: 0,0:39:10.72,0:39:14.18,译文字幕,,0,0,0,,吔  宝贝  击中了 哈哈哈哈\N{\r原文字幕}Yeah, baby! Ba-boom! Ha ha ha ha!
+Dialogue: 0,0:39:19.35,0:39:22.31,译文字幕,,0,0,0,,-啊!  -席尔瓦!\N{\r原文字幕}- Aah! - Silver!
+Dialogue: 0,0:39:25.65,0:39:28.11,译文字幕,,0,0,0,,谢谢你  孩子\N{\r原文字幕}Whoa. Thanks, lad.
+Dialogue: 0,0:39:36.29,0:39:37.75,译文字幕,,0,0,0,,{\r原文字幕}[Yelling]
+Dialogue: 0,0:39:50.38,0:39:54.14,译文字幕,,0,0,0,,舰长  那颗超新星!\N{\r原文字幕}Captain, the star!
+Dialogue: 0,0:39:54.68,0:39:56.93,译文字幕,,0,0,0,,演变成了一个...\N{\r原文字幕}It's devolving into a... [Gasps]
+Dialogue: 0,0:39:57.52,0:39:59.77,译文字幕,,0,0,0,,黑...洞\N{\r原文字幕}A black hole!
+Dialogue: 0,0:40:00.77,0:40:03.06,译文字幕,,0,0,0,,我们要被吸进去了!  噢!\N{\r原文字幕}We're being pulled in! Ohh!
+Dialogue: 0,0:40:03.15,0:40:05.27,译文字幕,,0,0,0,,不  休想...\N{\r原文字幕}No, you don't, you...
+Dialogue: 0,0:40:13.66,0:40:16.41,译文字幕,,0,0,0,,这该死的冲击波!  实在太不规律了!\N{\r原文字幕}Blast these waves! They're so deucedly erratic!
+Dialogue: 0,0:40:16.49,0:40:18.87,译文字幕,,0,0,0,,不  舰长  它们是可以预测的\N{\r原文字幕}No, Captain. They're not erratic at all.
+Dialogue: 0,0:40:18.95,0:40:22.00,译文字幕,,0,0,0,,再过47.2秒  还会有下一个冲击波...\N{\r原文字幕}There'll be one more in precisely 47.2 seconds...
+Dialogue: 0,0:40:22.37,0:40:24.75,译文字幕,,0,0,0,,之后还会有一个最大的!\N{\r原文字幕}followed by the biggest magilla of them all!
+Dialogue: 0,0:40:25.00,0:40:27.05,译文字幕,,0,0,0,,对了  太好了博士\N{\r原文字幕}Of course! Brilliant, Doctor!
+Dialogue: 0,0:40:27.13,0:40:29.63,译文字幕,,0,0,0,,我们可以借助最后一波的冲击  离开这里\N{\r原文字幕}We'll ride that last magilla out of here.
+Dialogue: 0,0:40:29.84,0:40:32.18,译文字幕,,0,0,0,,船帆都收好了  舰长!\N{\r原文字幕}All sails secured, Captain!
+Dialogue: 0,0:40:32.47,0:40:35.81,译文字幕,,0,0,0,,很好  现在马上展开船帆!\N{\r原文字幕}Good man! Now release them immediately!
+Dialogue: 0,0:40:37.35,0:40:40.02,译文字幕,,0,0,0,,遵命  舰长  你们都听到了  伙计们\N{\r原文字幕}Aye, Captain. You heard her, men.
+Dialogue: 0,0:40:40.18,0:40:42.14,译文字幕,,0,0,0,,展开所有船帆\N{\r原文字幕}Unfurl those sails.
+Dialogue: 0,0:40:42.44,0:40:43.94,译文字幕,,0,0,0,,-什么?  -可我们才刚刚绑好!\N{\r原文字幕}- What? - But we just finished...Tying them down!
+Dialogue: 0,0:40:44.02,0:40:46.57,译文字幕,,0,0,0,,到底要怎么样  想好了再说!\N{\r原文字幕}Make up your blooming minds!
+Dialogue: 0,0:40:49.44,0:40:50.74,译文字幕,,0,0,0,,霍金斯先生...\N{\r原文字幕}Mr. Hawkins...
+Dialogue: 0,0:40:50.82,0:40:54.87,译文字幕,,0,0,0,,检查所有的救生索  务必把他们全都绑好!\N{\r原文字幕}make sure all lifelines are secured good and tight!
+Dialogue: 0,0:40:54.95,0:40:56.28,译文字幕,,0,0,0,,遵命  舰长!\N{\r原文字幕}Aye-aye, Captain.
+Dialogue: 0,0:41:03.62,0:41:05.46,译文字幕,,0,0,0,,救生索都系紧了  舰长!\N{\r原文字幕}Lifelines secured, Captain!
+Dialogue: 0,0:41:05.58,0:41:06.67,译文字幕,,0,0,0,,很好!\N{\r原文字幕}Very good!
+Dialogue: 0,0:41:22.52,0:41:23.52,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,0:41:24.90,0:41:26.98,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,0:41:33.57,0:41:35.74,译文字幕,,0,0,0,,舰长  最后的冲击波!\N{\r原文字幕}Captain, the last wave!
+Dialogue: 0,0:41:36.03,0:41:37.74,译文字幕,,0,0,0,,就要来了!\N{\r原文字幕}Here it comes!
+Dialogue: 0,0:41:37.91,0:41:39.99,译文字幕,,0,0,0,,抓紧你们的救生索!\N{\r原文字幕}Hold on to your lifelines, gents!
+Dialogue: 0,0:41:40.08,0:41:42.41,译文字幕,,0,0,0,,下面的航行会很颠簸\N{\r原文字幕}It's gonna be a bumpy ride!
+Dialogue: 0,0:41:45.08,0:41:46.46,译文字幕,,0,0,0,,{\r原文字幕}[Whimpers]
+Dialogue: 0,0:41:54.38,0:41:55.63,译文字幕,,0,0,0,,{\r原文字幕}[Boom]
+Dialogue: 0,0:42:00.43,0:42:01.43,译文字幕,,0,0,0,,{\r原文字幕}Oof!
+Dialogue: 0,0:42:10.11,0:42:11.82,译文字幕,,0,0,0,,{\r原文字幕}[Crew Laughing]
+Dialogue: 0,0:42:13.11,0:42:14.70,译文字幕,,0,0,0,,{\r原文字幕}[Cheering]
+Dialogue: 0,0:42:17.95,0:42:19.99,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:42:22.24,0:42:25.25,译文字幕,,0,0,0,,舰长  刚才真的是...我的天呐  真是...\N{\r原文字幕}Captain! That... Oh, my goodness. That was...
+Dialogue: 0,0:42:25.33,0:42:26.58,译文字幕,,0,0,0,,那绝对是...那是最...\N{\r原文字幕}That was absolutely... That was the most...
+Dialogue: 0,0:42:26.67,0:42:28.79,译文字幕,,0,0,0,,哦  闭嘴吧  事实上  博士...\N{\r原文字幕}Oh, tish-tosh. Actually, Doctor...
+Dialogue: 0,0:42:28.88,0:42:31.46,译文字幕,,0,0,0,,你的天文学建议确实很有帮助\N{\r原文字幕}your astronomical advice was most helpful.
+Dialogue: 0,0:42:31.88,0:42:35.42,译文字幕,,0,0,0,,呃...谢谢  谢谢夸奖\N{\r原文字幕}Well, uh, uh, thank you. Thank you very much.
+Dialogue: 0,0:42:35.51,0:42:37.72,译文字幕,,0,0,0,,我还有很多天闻[口误]...不\N{\r原文字幕}Well, I have a lot of help to offer anatomically...
+Dialogue: 0,0:42:37.80,0:42:40.14,译文字幕,,0,0,0,,是天稳...天文学的建议\N{\r原文字幕}Amanamonically... Astronomically. [Slap]
+Dialogue: 0,0:42:41.47,0:42:43.93,译文字幕,,0,0,0,,对了  席尔瓦先生  我该恭喜你\N{\r原文字幕}Well, I must congratulate you, Mr. Silver.
+Dialogue: 0,0:42:44.10,0:42:47.35,译文字幕,,0,0,0,,那打杂的小子  把救生索固定的非常牢固\N{\r原文字幕}It seems your cabin boy did a bang-up job with those lifelines.
+Dialogue: 0,0:42:47.48,0:42:49.23,译文字幕,,0,0,0,,{\r原文字幕}[Both chuckle]
+Dialogue: 0,0:42:49.73,0:42:52.19,译文字幕,,0,0,0,,大家都平安吧  埃柔先生\N{\r原文字幕}All hands accounted for, Mr. Arrow?
+Dialogue: 0,0:42:55.15,0:42:56.49,译文字幕,,0,0,0,,埃柔先生?\N{\r原文字幕}Mr. Arrow?
+Dialogue: 0,0:42:58.36,0:43:02.33,译文字幕,,0,0,0,,很遗憾  埃柔先生已经殉职了\N{\r原文字幕}I'm afraid Mr. Arrow has been lost.
+Dialogue: 0,0:43:04.83,0:43:07.67,译文字幕,,0,0,0,,他的救生索没有系牢\N{\r原文字幕}His lifeline was not secured.
+Dialogue: 0,0:43:10.67,0:43:12.59,译文字幕,,0,0,0,,不  我都检查过了\N{\r原文字幕}No, I checked them all.
+Dialogue: 0,0:43:16.05,0:43:19.39,译文字幕,,0,0,0,,我  我的却都检查过了  全都固定了\N{\r原文字幕}I... I did. I checked them all They were secure.
+Dialogue: 0,0:43:20.01,0:43:21.18,译文字幕,,0,0,0,,我发誓\N{\r原文字幕}I swear.
+Dialogue: 0,0:43:32.44,0:43:34.44,译文字幕,,0,0,0,,埃柔先生是一个...\N{\r原文字幕}Mr. Arrow was
+Dialogue: 0,0:43:35.78,0:43:36.78,译文字幕,,0,0,0,,{\r原文字幕}[Clears Throat]
+Dialogue: 0,0:43:37.61,0:43:39.03,译文字幕,,0,0,0,,一个优秀的太空员\N{\r原文字幕}A fine spacer
+Dialogue: 0,0:43:39.99,0:43:43.41,译文字幕,,0,0,0,,比我们中的许多人  要优秀得多\N{\r原文字幕}finer than most of us could ever hope to be,
+Dialogue: 0,0:43:45.16,0:43:47.71,译文字幕,,0,0,0,,但他跟我们一样  知道太空航行的风险\N{\r原文字幕}But he knew the risks, as do we all.
+Dialogue: 0,0:43:48.46,0:43:51.38,译文字幕,,0,0,0,,回到岗位上去  继续前进\N{\r原文字幕}Resume your posts. We carry on.
+Dialogue: 0,0:43:58.55,0:43:59.55,译文字幕,,0,0,0,,{\r原文字幕}[Whimpers]
+Dialogue: 0,0:44:16.32,0:44:18.19,译文字幕,,0,0,0,,这不是你的错\N{\r原文字幕}It weren't your fault, you know.
+Dialogue: 0,0:44:18.40,0:44:19.74,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:44:21.91,0:44:25.91,译文字幕,,0,0,0,,要不是你的话  一半的人都会被卷进那个黑...\N{\r原文字幕}Why, half the crew would be spinning in that black abyss...
+Dialogue: 0,0:44:25.99,0:44:29.41,译文字幕,,0,0,0,,听着  你不明白吗?  是我搞砸了!\N{\r原文字幕}Look, don't you get it? I screwed up!
+Dialogue: 0,0:44:29.50,0:44:33.96,译文字幕,,0,0,0,,有那么一瞬间  我想我可以把事情做好  但是...\N{\r原文字幕}For two seconds, I thought that maybe I could do something right, but...
+Dialogue: 0,0:44:34.04,0:44:35.54,译文字幕,,0,0,0,,啊!  我只是...\N{\r原文字幕}Aagh! I just...
+Dialogue: 0,0:44:37.80,0:44:38.80,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:44:39.88,0:44:42.26,译文字幕,,0,0,0,,算了  算了\N{\r原文字幕}Just forget it. Forget it.
+Dialogue: 0,0:44:49.73,0:44:53.56,译文字幕,,0,0,0,,过来  你听我说  詹姆斯·霍金斯\N{\r原文字幕}Now, you listen to me, James Hawkins.
+Dialogue: 0,0:44:54.10,0:44:57.19,译文字幕,,0,0,0,,你有着惊人的天赋...\N{\r原文字幕}You got the makings of greatness in ya...
+Dialogue: 0,0:44:57.27,0:45:00.40,译文字幕,,0,0,0,,不过你要抱紧舵轮  开辟出你自己的航线\N{\r原文字幕}but you gotta take the helm and chart your own course.
+Dialogue: 0,0:45:00.49,0:45:03.78,译文字幕,,0,0,0,,坚持到底  勇往直前  无畏风暴\N{\r原文字幕}Stick to it, no matter the squalls
+Dialogue: 0,0:45:04.57,0:45:08.54,译文字幕,,0,0,0,,当时机成熟  当你有机会发挥你的才能...\N{\r原文字幕}And when the time comes you get the chance to really test the cut of your sails...
+Dialogue: 0,0:45:08.62,0:45:14.04,译文字幕,,0,0,0,,展现你真正实力的时候 我希望我能在场...\N{\r原文字幕}and show what you're made of, well, I hope I'm there...
+Dialogue: 0,0:45:14.12,0:45:18.25,译文字幕,,0,0,0,,沐浴在你辉煌灿烂的胜利荣耀之中\N{\r原文字幕}catching some of the light coming off ya that day.
+Dialogue: 0,0:45:22.30,0:45:23.30,译文字幕,,0,0,0,,{\r原文字幕}[Sniffles]
+Dialogue: 0,0:45:29.68,0:45:31.02,译文字幕,,0,0,0,,{\r原文字幕}[Sobs softly]
+Dialogue: 0,0:45:31.10,0:45:32.98,译文字幕,,0,0,0,,好了  好了\N{\r原文字幕}There, there.
+Dialogue: 0,0:45:33.23,0:45:35.77,译文字幕,,0,0,0,,小子  没事了  吉姆\N{\r原文字幕}Lad, it's all right, Jimbo.
+Dialogue: 0,0:45:36.81,0:45:38.77,译文字幕,,0,0,0,,没事了\N{\r原文字幕}It's all right.
+Dialogue: 0,0:45:41.74,0:45:44.15,译文字幕,,0,0,0,,呃  吉姆  我...\N{\r原文字幕}Now, Jim, I...
+Dialogue: 0,0:45:44.95,0:45:47.41,译文字幕,,0,0,0,,我得去站岗了\N{\r原文字幕}I best be getting about my watch,
+Dialogue: 0,0:45:47.49,0:45:49.99,译文字幕,,0,0,0,,你也赶紧去睡一觉吧\N{\r原文字幕}and you best be getting some shut-eye.
+Dialogue: 0,0:46:03.30,0:46:05.43,译文字幕,,0,0,0,,{\r原文字幕}[Chattering]
+Dialogue: 0,0:46:06.47,0:46:09.18,译文字幕,,0,0,0,,我有点儿陷得太深了  墨菲\N{\r原文字幕}Getting in too deep here, Morphy.
+Dialogue: 0,0:46:10.47,0:46:14.81,译文字幕,,0,0,0,,回头他们又要说我  变得心慈手软了\N{\r原文字幕}Next thing ya know, they'll be saying I've gone soft.
+Dialogue: 0,0:46:25.53,0:46:28.32,译文字幕,,0,0,0,,{\r原文字幕}[Crew Snoring]
+Dialogue: 0,0:46:33.00,0:46:34.62,译文字幕,,0,0,0,,{\r原文字幕}[Muttering]
+Dialogue: 0,0:46:35.96,0:46:37.71,译文字幕,,0,0,0,,{\r原文字幕}[Poomp phem poom-poomp]
+Dialogue: 0,0:46:43.80,0:46:45.88,译文字幕,,0,0,0,,{\r原文字幕}Uh-oh! Oh! Ugh!
+Dialogue: 0,0:46:50.72,0:46:51.72,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:46:54.56,0:46:55.73,译文字幕,,0,0,0,,墨菲?\N{\r原文字幕}Morph?
+Dialogue: 0,0:47:01.65,0:47:04.57,译文字幕,,0,0,0,,墨菲  别闹了  现在还太早\N{\r原文字幕}Morph, knock it off. It's too early for this.
+Dialogue: 0,0:47:05.11,0:47:06.57,译文字幕,,0,0,0,,噢  嘿  墨菲!\N{\r原文字幕}Ow! Hey, Morph!
+Dialogue: 0,0:47:06.65,0:47:07.82,译文字幕,,0,0,0,,{\r原文字幕}Pbbbt!
+Dialogue: 0,0:47:07.95,0:47:08.95,译文字幕,,0,0,0,,{\r原文字幕}[Laughs]
+Dialogue: 0,0:47:10.95,0:47:13.62,译文字幕,,0,0,0,,-嘿  你给我过来  -"你给我过来"\N{\r原文字幕}- Hey, come back here! -"Come back here!"
+Dialogue: 0,0:47:16.91,0:47:18.42,译文字幕,,0,0,0,,抓到了!\N{\r原文字幕}Gotcha!
+Dialogue: 0,0:47:18.92,0:47:20.08,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:47:22.13,0:47:24.17,译文字幕,,0,0,0,,够了  你这个小乌贼\N{\r原文字幕}That's it, you little squid.
+Dialogue: 0,0:47:24.25,0:47:26.17,译文字幕,,0,0,0,,"小乌贼  小乌贼"\N{\r原文字幕}"You little squid. You little squid.
+Dialogue: 0,0:47:26.26,0:47:28.43,译文字幕,,0,0,0,,"小乌贼  小乌贼  小乌贼  小乌贼"\N{\r原文字幕}"Squid. squid. squid. squid."
+Dialogue: 0,0:47:32.10,0:47:34.10,译文字幕,,0,0,0,,{\r原文字幕}[Grunting]
+Dialogue: 0,0:47:44.53,0:47:45.53,译文字幕,,0,0,0,,哈!\N{\r原文字幕}Ha!
+Dialogue: 0,0:47:45.61,0:47:46.86,译文字幕,,0,0,0,,你输了!\N{\r原文字幕}Busted!
+Dialogue: 0,0:47:49.53,0:47:52.53,译文字幕,,0,0,0,,听着  我们的意思是不想再等了\N{\r原文字幕}Look, what we're saying is, we're sick of all this waiting.
+Dialogue: 0,0:47:52.62,0:47:53.78,译文字幕,,0,0,0,,他们只剩三个人了\N{\r原文字幕}There's only three of them left.
+Dialogue: 0,0:47:53.87,0:47:56.12,译文字幕,,0,0,0,,我们想立刻行动\N{\r原文字幕}We are wanting to move.
+Dialogue: 0,0:47:56.20,0:47:59.25,译文字幕,,0,0,0,,拿到财宝之前  我们不能行动\N{\r原文字幕}We don't move till we got the treasure in hand.
+Dialogue: 0,0:47:59.33,0:48:02.21,译文字幕,,0,0,0,,我说现在就宰了他们\N{\r原文字幕}I say we kill 'em all now.
+Dialogue: 0,0:48:02.29,0:48:05.92,译文字幕,,0,0,0,,在这儿我说了算!\N{\r原文字幕}I say what's to say!
+Dialogue: 0,0:48:06.00,0:48:07.63,译文字幕,,0,0,0,,要是再像害死埃柔那样...\N{\r原文字幕}Disobey my orders again...
+Dialogue: 0,0:48:07.71,0:48:09.68,译文字幕,,0,0,0,,擅自违抗我的命令\N{\r原文字幕}like that stunt you pulled with Mr. Arrow,
+Dialogue: 0,0:48:09.93,0:48:13.35,译文字幕,,0,0,0,,你的下场就和他一样!\N{\r原文字幕}and so help me, you'll be joining him!
+Dialogue: 0,0:48:16.35,0:48:21.06,译文字幕,,0,0,0,,话说得挺狠  但我知道你心里在想什么\N{\r原文字幕}Strong talk, but I know otherwise.
+Dialogue: 0,0:48:21.44,0:48:23.81,译文字幕,,0,0,0,,你想说什么  斯科洛\N{\r原文字幕}You got something to say, Scroop?
+Dialogue: 0,0:48:24.06,0:48:26.69,译文字幕,,0,0,0,,那个小子\N{\r原文字幕}It's that boy.
+Dialogue: 0,0:48:28.19,0:48:32.82,译文字幕,,0,0,0,,我看你好像对他有点心软了\N{\r原文字幕}Me thinks you have a soft spot for him.
+Dialogue: 0,0:48:33.16,0:48:35.16,译文字幕,,0,0,0,,对啊\N{\r原文字幕}Yeah
+Dialogue: 0,0:48:35.24,0:48:38.33,译文字幕,,0,0,0,,你们所有人  都给我听好了!\N{\r原文字幕}Now, mark me, the lot of ya.
+Dialogue: 0,0:48:38.41,0:48:41.83,译文字幕,,0,0,0,,我只关心一件事  那就是...\N{\r原文字幕}I care about one thing, and one thing only!
+Dialogue: 0,0:48:42.42,0:48:44.75,译文字幕,,0,0,0,,弗林特的宝藏\N{\r原文字幕}Flint's trove.
+Dialogue: 0,0:48:44.84,0:48:46.38,译文字幕,,0,0,0,,你们认为我会为了一个小子\N{\r原文字幕}You think I'd risk it all for the sake
+Dialogue: 0,0:48:46.46,0:48:50.01,译文字幕,,0,0,0,,拿宝藏来冒险吗?\N{\r原文字幕}of some nose-wiping little whelp?
+Dialogue: 0,0:48:50.17,0:48:51.84,译文字幕,,0,0,0,,你怎么说来着?\N{\r原文字幕}What was it now?
+Dialogue: 0,0:48:52.38,0:48:56.72,译文字幕,,0,0,0,,"你有着惊人的天赋..."\N{\r原文字幕}"Oh, you got the makings of greatness in ya."
+Dialogue: 0,0:48:56.89,0:48:58.39,译文字幕,,0,0,0,,闭上你的臭嘴!\N{\r原文字幕}Shut your yap!
+Dialogue: 0,0:48:58.60,0:49:02.81,译文字幕,,0,0,0,,我安慰那个孩子  是为了不让他发现我们的行动\N{\r原文字幕}I cozied up to that kid to keep him off our scent.
+Dialogue: 0,0:49:03.02,0:49:05.36,译文字幕,,0,0,0,,我是不会心软的\N{\r原文字幕}But I ain't gone soft.
+Dialogue: 0,0:49:05.44,0:49:06.90,译文字幕,,0,0,0,,看见陆地了!\N{\r原文字幕}Land ho!
+Dialogue: 0,0:49:13.74,0:49:15.91,译文字幕,,0,0,0,,就在那儿!\N{\r原文字幕}There it is!
+Dialogue: 0,0:49:16.07,0:49:19.08,译文字幕,,0,0,0,,张大眼睛  一起狂欢吧!\N{\r原文字幕}Feast eyes and click heels, if you got 'em.
+Dialogue: 0,0:49:27.13,0:49:29.05,译文字幕,,0,0,0,,我的望远镜搁哪了?\N{\r原文字幕}Where the devil's me glass?
+Dialogue: 0,0:49:37.72,0:49:38.89,译文字幕,,0,0,0,,吉姆\N{\r原文字幕}Jimbo.
+Dialogue: 0,0:49:43.02,0:49:46.15,译文字幕,,0,0,0,,你在跟我玩游戏  对吗\N{\r原文字幕}Playing games, are we?
+Dialogue: 0,0:49:46.77,0:49:47.90,译文字幕,,0,0,0,,是啊\N{\r原文字幕}Yeah.
+Dialogue: 0,0:49:48.40,0:49:50.23,译文字幕,,0,0,0,,我们都在玩游戏\N{\r原文字幕}Yeah, we're playing games.
+Dialogue: 0,0:49:50.90,0:49:57.12,译文字幕,,0,0,0,,是吗  我向来不太擅长玩游戏\N{\r原文字幕}Oh, I see. Well, I was never much good at games
+Dialogue: 0,0:49:58.24,0:50:00.58,译文字幕,,0,0,0,,因为我讨厌失败\N{\r原文字幕}Always hated to lose. [Click]
+Dialogue: 0,0:50:01.58,0:50:02.58,译文字幕,,0,0,0,,{\r原文字幕}Hmm.
+Dialogue: 0,0:50:03.41,0:50:05.25,译文字幕,,0,0,0,,-我也一样  -啊!\N{\r原文字幕}- Me, too! - Aah!
+Dialogue: 0,0:50:09.63,0:50:10.88,译文字幕,,0,0,0,,好吧\N{\r原文字幕}Right-O.
+Dialogue: 0,0:50:14.84,0:50:17.47,译文字幕,,0,0,0,,该死!\N{\r原文字幕}Ohh. Blast it all.
+Dialogue: 0,0:50:19.47,0:50:20.68,译文字幕,,0,0,0,,{\r原文字幕}[Blows Whistle]
+Dialogue: 0,0:50:22.10,0:50:24.73,译文字幕,,0,0,0,,计划有变  伙计们\N{\r原文字幕}Change in plan, lads!
+Dialogue: 0,0:50:24.81,0:50:26.48,译文字幕,,0,0,0,,我们现在就行动!\N{\r原文字幕}We move now!
+Dialogue: 0,0:50:26.56,0:50:28.31,译文字幕,,0,0,0,,{\r原文字幕}[Cheering]
+Dialogue: 0,0:50:31.57,0:50:34.15,译文字幕,,0,0,0,,挂上我们的旗  奥讷斯先生\N{\r原文字幕}Strike our colors, Mr. Onus.
+Dialogue: 0,0:50:34.57,0:50:36.91,译文字幕,,0,0,0,,我的荣幸  舰长\N{\r原文字幕}With pleasure, Captain.
+Dialogue: 0,0:50:42.70,0:50:44.20,译文字幕,,0,0,0,,{\r原文字幕}[Roars]
+Dialogue: 0,0:50:51.29,0:50:53.51,译文字幕,,0,0,0,,我的船上有海盗?  我要看着他们全都被绞死\N{\r原文字幕}Pirates on my ship? I'll see they all hang.
+Dialogue: 0,0:50:53.84,0:50:54.97,译文字幕,,0,0,0,,博士  会用这个吗?\N{\r原文字幕}Doctor, familiar with these?
+Dialogue: 0,0:50:55.05,0:50:57.51,译文字幕,,0,0,0,,呃  我看过  在书上读到过...\N{\r原文字幕}Oh, I've seen... Well, I've read...
+Dialogue: 0,0:50:59.05,0:51:00.60,译文字幕,,0,0,0,,呃  不...我不会用\N{\r原文字幕}Uh, no. No. No, I'm not.
+Dialogue: 0,0:51:02.22,0:51:03.22,译文字幕,,0,0,0,,{\r原文字幕}Ooh.
+Dialogue: 0,0:51:04.43,0:51:07.35,译文字幕,,0,0,0,,霍金斯先生  用你的生命保护它\N{\r原文字幕}Mr. Hawkins! Defend this with your life.
+Dialogue: 0,0:51:07.44,0:51:09.56,译文字幕,,0,0,0,,墨菲!  给我!\N{\r原文字幕}Morph! Give me that!
+Dialogue: 0,0:51:12.44,0:51:14.86,译文字幕,,0,0,0,,难道你们要磨蹭一整天吗\N{\r原文字幕}You're taking all day about it.
+Dialogue: 0,0:51:22.58,0:51:23.58,译文字幕,,0,0,0,,{\r原文字幕}Oh!
+Dialogue: 0,0:51:23.91,0:51:25.16,译文字幕,,0,0,0,,截住他们!\N{\r原文字幕}Stop them!
+Dialogue: 0,0:51:27.41,0:51:30.75,译文字幕,,0,0,0,,{\r原文字幕}Aah, aah, aah. Oof!
+Dialogue: 0,0:51:34.71,0:51:35.25,译文字幕,,0,0,0,,谢谢!\N{\r原文字幕}Thank you!
+Dialogue: 0,0:51:35.84,0:51:37.67,译文字幕,,0,0,0,,到大艇上去  快!\N{\r原文字幕}To the longboats, quickly!
+Dialogue: 0,0:51:41.64,0:51:42.64,译文字幕,,0,0,0,,{\r原文字幕}Unh
+Dialogue: 0,0:51:49.90,0:51:51.02,译文字幕,,0,0,0,,{\r原文字幕}Rrr-yeah!
+Dialogue: 0,0:51:53.44,0:51:54.98,译文字幕,,0,0,0,,墨菲  不!\N{\r原文字幕}Morph! No!
+Dialogue: 0,0:51:59.61,0:52:03.03,译文字幕,,0,0,0,,尝尝这个  你们这些脓包!\N{\r原文字幕}Chew on this, you pus-filled boils!
+Dialogue: 0,0:52:07.12,0:52:08.46,译文字幕,,0,0,0,,{\r原文字幕}[Screaming]
+Dialogue: 0,0:52:09.46,0:52:11.12,译文字幕,,0,0,0,,你是瞄准了打的吗?\N{\r原文字幕}Did you actually aim for that?
+Dialogue: 0,0:52:11.21,0:52:13.04,译文字幕,,0,0,0,,没错  当然瞄准了\N{\r原文字幕}You know, actually, I did.
+Dialogue: 0,0:52:15.59,0:52:16.96,译文字幕,,0,0,0,,{\r原文字幕}[Gears turning]
+Dialogue: 0,0:52:20.05,0:52:21.68,译文字幕,,0,0,0,,该死!\N{\r原文字幕}Oh, blast it.
+Dialogue: 0,0:52:23.35,0:52:25.18,译文字幕,,0,0,0,,博士  我说"开枪"你就射断前面的缆绳\N{\r原文字幕}Doctor, when I say "now," shoot out the forward cable.
+Dialogue: 0,0:52:25.26,0:52:26.35,译文字幕,,0,0,0,,我射后面的\N{\r原文字幕}I'll take this one.
+Dialogue: 0,0:52:26.60,0:52:28.02,译文字幕,,0,0,0,,墨菲  过来!  墨菲!\N{\r原文字幕}Morph, here! Morph!
+Dialogue: 0,0:52:30.69,0:52:31.85,译文字幕,,0,0,0,,墨菲!\N{\r原文字幕}Morph!
+Dialogue: 0,0:52:32.10,0:52:33.31,译文字幕,,0,0,0,,墨菲  到这儿来\N{\r原文字幕}Morphy, come here. [WHISTLES]
+Dialogue: 0,0:52:34.02,0:52:36.65,译文字幕,,0,0,0,,墨菲  快把它给我  墨菲  过来\N{\r原文字幕}Morph. Morph. Bring it here. Morph, come here.
+Dialogue: 0,0:52:36.73,0:52:39.24,译文字幕,,0,0,0,,过来  到爸爸这来\N{\r原文字幕}Come here. Come here, boy. Come to your dad.
+Dialogue: 0,0:52:39.32,0:52:41.20,译文字幕,,0,0,0,,到这儿来  好孩子  墨菲!\N{\r原文字幕}Come here, boy. Morph!
+Dialogue: 0,0:52:41.45,0:52:42.99,译文字幕,,0,0,0,,-快过来  -墨菲  墨菲  过来!\N{\r原文字幕}- Come on! - Morph! Morph, here!
+Dialogue: 0,0:52:43.07,0:52:44.57,译文字幕,,0,0,0,,-墨菲!  -墨菲!\N{\r原文字幕}Morphy! - Morph!
+Dialogue: 0,0:52:44.91,0:52:46.24,译文字幕,,0,0,0,,{\r原文字幕}Ohh.
+Dialogue: 0,0:52:52.25,0:52:53.25,译文字幕,,0,0,0,,{\r原文字幕}[Powers Up]
+Dialogue: 0,0:52:53.33,0:52:54.38,译文字幕,,0,0,0,,{\r原文字幕}[Beeping]
+Dialogue: 0,0:52:55.46,0:52:56.46,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:52:56.55,0:52:57.75,译文字幕,,0,0,0,,开枪!\N{\r原文字幕}Now!
+Dialogue: 0,0:52:59.05,0:53:00.09,译文字幕,,0,0,0,,{\r原文字幕}Whoa!
+Dialogue: 0,0:53:02.13,0:53:03.13,译文字幕,,0,0,0,,{\r原文字幕}[Grunts]
+Dialogue: 0,0:53:06.68,0:53:07.85,译文字幕,,0,0,0,,吉姆!\N{\r原文字幕}Jim!
+Dialogue: 0,0:53:10.27,0:53:11.94,译文字幕,,0,0,0,,参数正常  液压系统启动\N{\r原文字幕}Parameters met. Hydraulics engaged.
+Dialogue: 0,0:53:13.90,0:53:16.15,译文字幕,,0,0,0,,就这样  到爸爸这儿来吧\N{\r原文字幕}That's it! Come to papa!
+Dialogue: 0,0:53:16.23,0:53:19.44,译文字幕,,0,0,0,,别开炮!  我们会失去藏宝图的!\N{\r原文字幕}Hold your fire! We'll lose the map!
+Dialogue: 0,0:53:21.44,0:53:23.70,译文字幕,,0,0,0,,舰长  正上方有激光炮!\N{\r原文字幕}Captain! Laser ball at 12 o'clock!
+Dialogue: 0,0:53:32.87,0:53:34.50,译文字幕,,0,0,0,,{\r原文字幕}- Whoa! - Aah!
+Dialogue: 0,0:53:48.60,0:53:49.81,译文字幕,,0,0,0,,{\r原文字幕}[Creaking]
+Dialogue: 0,0:53:52.64,0:53:53.64,译文字幕,,0,0,0,,{\r原文字幕}Ow.
+Dialogue: 0,0:53:54.06,0:53:55.94,译文字幕,,0,0,0,,噢  我的天呐!\N{\r原文字幕}Oh, my goodness.
+Dialogue: 0,0:53:56.02,0:53:58.36,译文字幕,,0,0,0,,太好玩了  我都想再来一次\N{\r原文字幕}That was more fun than I ever want to have again.
+Dialogue: 0,0:53:58.44,0:53:59.57,译文字幕,,0,0,0,,{\r原文字幕}[Laughing]
+Dialogue: 0,0:53:59.65,0:54:02.99,译文字幕,,0,0,0,,这不是我最成功的着陆\N{\r原文字幕}That's not one of my gossamer landings.
+Dialogue: 0,0:54:03.74,0:54:04.99,译文字幕,,0,0,0,,舰长!\N{\r原文字幕}Captain!
+Dialogue: 0,0:54:05.82,0:54:07.87,译文字幕,,0,0,0,,{\r原文字幕}Oh. Ooh.
+Dialogue: 0,0:54:08.33,0:54:09.62,译文字幕,,0,0,0,,噢  不要大惊小怪\N{\r原文字幕}Oh, don't fuss.
+Dialogue: 0,0:54:09.83,0:54:10.99,译文字幕,,0,0,0,,{\r原文字幕}Uh... uh...
+Dialogue: 0,0:54:11.08,0:54:12.91,译文字幕,,0,0,0,,只是轻微的擦伤而已\N{\r原文字幕}Slight bruising. That's all.
+Dialogue: 0,0:54:13.00,0:54:15.08,译文字幕,,0,0,0,,喝杯茶就没事了\N{\r原文字幕}Cup of tea, and I'll be right as rain.
+Dialogue: 0,0:54:15.17,0:54:16.58,译文字幕,,0,0,0,,霍金斯先生\N{\r原文字幕}Mr. Hawkins.
+Dialogue: 0,0:54:18.34,0:54:19.88,译文字幕,,0,0,0,,请把地图给我\N{\r原文字幕}The map, if you please.
+Dialogue: 0,0:54:21.67,0:54:22.80,译文字幕,,0,0,0,,{\r原文字幕}Ah.
+Dialogue: 0,0:54:25.13,0:54:27.01,译文字幕,,0,0,0,,墨菲!\N{\r原文字幕}Morph!
+Dialogue: 0,0:54:27.39,0:54:28.80,译文字幕,,0,0,0,,墨菲  地图在哪!\N{\r原文字幕}Morph, where's the map?
+Dialogue: 0,0:54:31.06,0:54:34.02,译文字幕,,0,0,0,,开什么玩笑!  还在船上?\N{\r原文字幕}Are you serious? It's back on the ship?
+Dialogue: 0,0:54:36.02,0:54:38.98,译文字幕,,0,0,0,,让那个水泡安静点  趴下\N{\r原文字幕}Stifle that blob and get low.
+Dialogue: 0,0:54:40.82,0:54:42.48,译文字幕,,0,0,0,,他们下来了\N{\r原文字幕}We've got company.
+Dialogue: 0,0:54:47.95,0:54:50.37,译文字幕,,0,0,0,,得找个能防守的地方\N{\r原文字幕}We need a more defensible position.
+Dialogue: 0,0:54:50.95,0:54:53.54,译文字幕,,0,0,0,,霍金斯先生  去侦察一下\N{\r原文字幕}Mr. Hawkins, scout ahead.
+Dialogue: 0,0:54:54.70,0:54:55.83,译文字幕,,0,0,0,,是  舰长\N{\r原文字幕}Aye, Captain.
+Dialogue: 0,0:54:55.91,0:54:56.96,译文字幕,,0,0,0,,{\r原文字幕}Unh!
+Dialogue: 0,0:54:57.04,0:54:58.54,译文字幕,,0,0,0,,小心  小心\N{\r原文字幕}Steady, steady.
+Dialogue: 0,0:54:59.17,0:55:01.46,译文字幕,,0,0,0,,让我来看看\N{\r原文字幕}Now, let's have a look at that.
+Dialogue: 0,0:55:16.39,0:55:18.52,译文字幕,,0,0,0,,{\r原文字幕}[Morph chattering]
+Dialogue: 0,0:55:28.11,0:55:29.11,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,0:55:29.91,0:55:31.91,译文字幕,,0,0,0,,{\r原文字幕}Shh. Shh.
+Dialogue: 0,0:55:33.66,0:55:34.66,译文字幕,,0,0,0,,{\r原文字幕}[Powers up]
+Dialogue: 0,0:55:39.92,0:55:41.21,译文字幕,,0,0,0,,{\r原文字幕}- Aah! - Aah!
+Dialogue: 0,0:55:41.92,0:55:43.50,译文字幕,,0,0,0,,真是太棒了!\N{\r原文字幕}This is fantastic!
+Dialogue: 0,0:55:43.59,0:55:46.84,译文字幕,,0,0,0,,终于有一个碳基生物来救我了!\N{\r原文字幕}A carbon-based life form come to rescue me at last!
+Dialogue: 0,0:55:46.92,0:55:50.59,译文字幕,,0,0,0,,我只想紧紧地抱住你  不要再离开我\N{\r原文字幕}I just want to hug you and squeeze you and hold you close to me.
+Dialogue: 0,0:55:50.68,0:55:53.93,译文字幕,,0,0,0,,好了  好了  你能放开我吗?\N{\r原文字幕}All right. Okay. Would you just let go of me?
+Dialogue: 0,0:55:54.01,0:55:55.60,译文字幕,,0,0,0,,噢  抱歉  抱歉\N{\r原文字幕}Oh, sorry, sorry, sorry.
+Dialogue: 0,0:55:55.77,0:55:59.44,译文字幕,,0,0,0,,只是  我被放逐的太久了\N{\r原文字幕}It's just I've been marooned for so long.
+Dialogue: 0,0:55:59.52,0:56:02.19,译文字幕,,0,0,0,,当然了  独居也不错  别误会我的意思\N{\r原文字幕}I mean, solitude's fun. Don't get me wrong.
+Dialogue: 0,0:56:02.27,0:56:04.02,译文字幕,,0,0,0,,不过老天爷  独居个一百年\N{\r原文字幕}For heaven's sakes, after a hundred years,
+Dialogue: 0,0:56:04.11,0:56:06.23,译文字幕,,0,0,0,,是人都得发疯的!  哈哈哈!\N{\r原文字幕}you go a little nuts! Ha, ha, ha!
+Dialogue: 0,0:56:07.78,0:56:09.57,译文字幕,,0,0,0,,不好意思  我有点...\N{\r原文字幕}I'm sorry. Am I...
+Dialogue: 0,0:56:09.65,0:56:10.95,译文字幕,,0,0,0,,我是...呃\N{\r原文字幕}l am, um...
+Dialogue: 0,0:56:11.45,0:56:13.78,译文字幕,,0,0,0,,我的名字是...呃\N{\r原文字幕}My name is, uh...
+Dialogue: 0,0:56:15.95,0:56:17.45,译文字幕,,0,0,0,,{\r原文字幕}[Cuckoo Cuckoo]
+Dialogue: 0,0:56:19.08,0:56:20.92,译文字幕,,0,0,0,,本  对了  我叫本\N{\r原文字幕}B.E.N.! Of course, I'm B.E.N.
+Dialogue: 0,0:56:21.00,0:56:23.75,译文字幕,,0,0,0,,生物电子领航员  哦\N{\r原文字幕}Bioelectronic Navigator. Oops.
+Dialogue: 0,0:56:23.96,0:56:25.59,译文字幕,,0,0,0,,-请问你是  -吉姆\N{\r原文字幕}- And you are? - Jim.
+Dialogue: 0,0:56:25.67,0:56:27.51,译文字幕,,0,0,0,,哦  很高兴认识你  小吉\N{\r原文字幕}Oh, what a pleasure to meet you, Jimmy.
+Dialogue: 0,0:56:27.59,0:56:29.34,译文字幕,,0,0,0,,-是吉姆  -随便了\N{\r原文字幕}- It's Jim. - Anyway...
+Dialogue: 0,0:56:29.42,0:56:30.68,译文字幕,,0,0,0,,听着  我现在很忙  好吗\N{\r原文字幕}Look, I'm kind of in a hurry, okay?
+Dialogue: 0,0:56:31.09,0:56:33.72,译文字幕,,0,0,0,,我要找一个藏身之处  有海盗在追我\N{\r原文字幕}I got to find a place to hide, and there's pirates chasing me.
+Dialogue: 0,0:56:33.80,0:56:36.39,译文字幕,,0,0,0,,海盗!  别让我见到海盗!\N{\r原文字幕}Pirates! Don't get me started on pirates!
+Dialogue: 0,0:56:36.47,0:56:39.64,译文字幕,,0,0,0,,我不喜欢他们  我还记得弗林特船长\N{\r原文字幕}I don't like them. I remember Captain Flint.
+Dialogue: 0,0:56:40.10,0:56:41.98,译文字幕,,0,0,0,,那家伙脾气可大了\N{\r原文字幕}This guy had such a temper.
+Dialogue: 0,0:56:42.31,0:56:44.23,译文字幕,,0,0,0,,等等  你认识弗林特船长?\N{\r原文字幕}Wait, wait, wait. You knew Captain Flint?
+Dialogue: 0,0:56:44.31,0:56:47.23,译文字幕,,0,0,0,,要我说他那是情绪波动症闹的\N{\r原文字幕}I think he suffered from mood swings, personally.
+Dialogue: 0,0:56:47.32,0:56:49.07,译文字幕,,0,0,0,,当然我也不是心理专家\N{\r原文字幕}I'm not a therapist, and anyway,
+Dialogue: 0,0:56:49.15,0:56:50.99,译文字幕,,0,0,0,,不过  要是觉得我唠叨你就跟我说\N{\r原文字幕}but I... You let me know when I'm rambling.
+Dialogue: 0,0:56:51.28,0:56:52.57,译文字幕,,0,0,0,,那就意味着  等等\N{\r原文字幕}But that means... But wait.
+Dialogue: 0,0:56:52.66,0:56:54.82,译文字幕,,0,0,0,,就是说你知道宝藏的事?\N{\r原文字幕}But then you gotta know about the treasure?
+Dialogue: 0,0:56:55.16,0:56:56.45,译文字幕,,0,0,0,,-宝藏?  -对  弗林特的宝藏\N{\r原文字幕}- Treasure? - Yeah, Flint's trove?
+Dialogue: 0,0:56:56.53,0:56:58.91,译文字幕,,0,0,0,,从上千个星球搜刮来的掠夺品\N{\r原文字幕}You know, loot of a thousand worlds.
+Dialogue: 0,0:56:59.00,0:57:00.79,译文字幕,,0,0,0,,这个嘛...\N{\r原文字幕}It's, well...
+Dialogue: 0,0:57:00.87,0:57:04.04,译文字幕,,0,0,0,,有点...记忆有点模糊了\N{\r原文字幕}lt's all a little... Little... Little fuzzy.
+Dialogue: 0,0:57:04.58,0:57:07.46,译文字幕,,0,0,0,,等等  我...我记起来了\N{\r原文字幕}Wait. I... I r-r-remember.
+Dialogue: 0,0:57:08.34,0:57:09.76,译文字幕,,0,0,0,,真的  我...宝藏!\N{\r原文字幕}I do. I... Treasure!
+Dialogue: 0,0:57:09.84,0:57:12.76,译文字幕,,0,0,0,,好多宝藏  埋在机械...\N{\r原文字幕}Lots of treasure buried in the centroid...
+Dialogue: 0,0:57:12.93,0:57:14.84,译文字幕,,0,0,0,,机械构造的核心\N{\r原文字幕}Centroid... Centroid of the mechanism.
+Dialogue: 0,0:57:15.10,0:57:18.26,译文字幕,,0,0,0,,还有一扇门开了又关...\N{\r原文字幕}And there was this big door opening and closing...
+Dialogue: 0,0:57:18.35,0:57:20.43,译文字幕,,0,0,0,,开了又关...\N{\r原文字幕}and opening and closing...
+Dialogue: 0,0:57:20.52,0:57:21.77,译文字幕,,0,0,0,,还有弗林特舰长要确保...\N{\r原文字幕}and Captain Flint wanted to make sure...
+Dialogue: 0,0:57:21.85,0:57:23.19,译文字幕,,0,0,0,,没有任何人能找到它的宝藏  所以...\N{\r原文字幕}nobody could ever get to his treasure...
+Dialogue: 0,0:57:23.27,0:57:25.86,译文字幕,,0,0,0,,我就帮他...\N{\r原文字幕}So I helped him. [Spluttering]
+Dialogue: 0,0:57:27.11,0:57:29.82,译文字幕,,0,0,0,,啊!  数据读取出错!  重启!\N{\r原文字幕}Aah! Data inaccessible! Reboot!
+Dialogue: 0,0:57:29.90,0:57:31.61,译文字幕,,0,0,0,,本?  本?  本!\N{\r原文字幕}B.E.N.? B.E.N.? B.E.N.!
+Dialogue: 0,0:57:31.69,0:57:34.03,译文字幕,,0,0,0,,重启!  啊!  你是谁呀?\N{\r原文字幕}Reboot! Aah! And you are?
+Dialogue: 0,0:57:34.16,0:57:35.45,译文字幕,,0,0,0,,等一下  宝藏怎么了?\N{\r原文字幕}Wait, wait, wait! What about the treasure?
+Dialogue: 0,0:57:35.70,0:57:36.95,译文字幕,,0,0,0,,你是拉里  对吗\N{\r原文字幕}I want to say Larry.
+Dialogue: 0,0:57:37.03,0:57:39.45,译文字幕,,0,0,0,,机械装置的核心...还是\N{\r原文字幕}The centroid of the mechanism, or...
+Dialogue: 0,0:57:39.54,0:57:42.16,译文字幕,,0,0,0,,抱歉  我的记性不如以前了\N{\r原文字幕}I'm sorry. My memory isn't what it used to be.
+Dialogue: 0,0:57:42.37,0:57:44.29,译文字幕,,0,0,0,,我失忆了\N{\r原文字幕}I've lost my mind.
+Dialogue: 0,0:57:44.37,0:57:47.09,译文字幕,,0,0,0,,失忆了  你没找到吗?\N{\r原文字幕}I've lost my mind. You haven't found it, have you?
+Dialogue: 0,0:57:47.17,0:57:50.63,译文字幕,,0,0,0,,我丢失的零件  我的主记忆芯片?\N{\r原文字幕}My missing piece? My primary memory circuit?
+Dialogue: 0,0:57:51.05,0:57:55.14,译文字幕,,0,0,0,,听着  本  我急着要找到个藏身之处  好吗?\N{\r原文字幕}Look, B.E.N., I really need to find a place to hide, okay?
+Dialogue: 0,0:57:55.22,0:57:58.81,译文字幕,,0,0,0,,所以我要  先走了\N{\r原文字幕}So I'm just gonna be, you know, moving on.
+Dialogue: 0,0:57:59.56,0:58:00.85,译文字幕,,0,0,0,,哦  呃...\N{\r原文字幕}Oh, uh...
+Dialogue: 0,0:58:01.06,0:58:02.93,译文字幕,,0,0,0,,那好吧\N{\r原文字幕}So, well, then,
+Dialogue: 0,0:58:03.02,0:58:06.19,译文字幕,,0,0,0,,我想这就是道别了  是吧\N{\r原文字幕}I guess this is good-bye, huh?
+Dialogue: 0,0:58:07.06,0:58:11.03,译文字幕,,0,0,0,,很抱歉  我这么功能紊乱\N{\r原文字幕}I'm sorry that I'm so dysfunctional.
+Dialogue: 0,0:58:12.28,0:58:16.53,译文字幕,,0,0,0,,那  你走吧  不用管我\N{\r原文字幕}So, uh, go ahead and... I do understand.
+Dialogue: 0,0:58:16.91,0:58:19.58,译文字幕,,0,0,0,,真的  再见\N{\r原文字幕}I do. Bye-bye.
+Dialogue: 0,0:58:21.62,0:58:22.75,译文字幕,,0,0,0,,{\r原文字幕}[Whines]
+Dialogue: 0,0:58:23.25,0:58:24.29,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,0:58:24.37,0:58:26.00,译文字幕,,0,0,0,,如果你想要一起来...\N{\r原文字幕}Look, if you're gonna come along,
+Dialogue: 0,0:58:26.08,0:58:27.42,译文字幕,,0,0,0,,你必须少说话\N{\r原文字幕}you're gonna have to stop talking.
+Dialogue: 0,0:58:27.58,0:58:29.79,译文字幕,,0,0,0,,太好了!  哈哈哈!\N{\r原文字幕}Huzzah! Ha, ha, ha!
+Dialogue: 0,0:58:29.92,0:58:31.50,译文字幕,,0,0,0,,噢, 这太棒了!\N{\r原文字幕}Oh, this is fantastic!
+Dialogue: 0,0:58:31.59,0:58:34.47,译文字幕,,0,0,0,,我和我的好伙计在找一个...\N{\r原文字幕}Me and my best buddy out lookin' for a...
+Dialogue: 0,0:58:35.30,0:58:36.51,译文字幕,,0,0,0,,{\r原文字幕}[Clears throat]
+Dialogue: 0,0:58:37.09,0:58:38.51,译文字幕,,0,0,0,,少说话\N{\r原文字幕}[Whispering] Being quiet.
+Dialogue: 0,0:58:38.60,0:58:41.10,译文字幕,,0,0,0,,而且你也别再碰我了\N{\r原文字幕}And you have to stop touching me.
+Dialogue: 0,0:58:41.18,0:58:44.77,译文字幕,,0,0,0,,我不说也不碰  我的两个基本原则\N{\r原文字幕}Touching and talking. That's my two big no-nos.
+Dialogue: 0,0:58:44.85,0:58:46.98,译文字幕,,0,0,0,,好吧  我想我们应该...\N{\r原文字幕}Okay. Now, I think that we should...
+Dialogue: 0,0:58:47.06,0:58:50.65,译文字幕,,0,0,0,,好吧  在我们开始搜索之前...\N{\r原文字幕}Say, listen, before we go out on our big search...
+Dialogue: 0,0:58:50.73,0:58:54.78,译文字幕,,0,0,0,,可以到寒舍停留一下吗\N{\r原文字幕}would you mind if we made a quick pit stop at my place? [CHUCKLES]
+Dialogue: 0,0:58:55.03,0:58:56.57,译文字幕,,0,0,0,,我有点急\N{\r原文字幕}Kind of urgent.
+Dialogue: 0,0:58:56.70,0:59:00.33,译文字幕,,0,0,0,,本  我想你正好解决了我的问题\N{\r原文字幕}B.E.N., I think you just solved my problem.
+Dialogue: 0,0:59:04.79,0:59:05.91,译文字幕,,0,0,0,,不好意思  我这有点乱\N{\r原文字幕}Pardon the mess, people.
+Dialogue: 0,0:59:06.33,0:59:07.46,译文字幕,,0,0,0,,照理说在这住了100年\N{\r原文字幕}You'd think in 100 years
+Dialogue: 0,0:59:07.54,0:59:09.00,译文字幕,,0,0,0,,应该有很多时间打扫\N{\r原文字幕}I would've dusted a little more often,
+Dialogue: 0,0:59:09.08,0:59:11.34,译文字幕,,0,0,0,,但是你知道  一个人住久了\N{\r原文字幕}But, you know, when you're batchin' it,
+Dialogue: 0,0:59:11.42,0:59:14.01,译文字幕,,0,0,0,,就比较随便了\N{\r原文字幕}you tend to let things go.
+Dialogue: 0,0:59:14.42,0:59:16.13,译文字幕,,0,0,0,,噢  你们好幸福啊\N{\r原文字幕}Aw. Isn't that sweet?
+Dialogue: 0,0:59:16.55,0:59:19.47,译文字幕,,0,0,0,,我觉得老式的浪漫非常感人  你觉得呢?\N{\r原文字幕}I find old-fashioned romance so touching, don't you?
+Dialogue: 0,0:59:19.80,0:59:21.80,译文字幕,,0,0,0,,恩爱的夫妻来喝一杯吧?\N{\r原文字幕}How about drinks for the happy couple?
+Dialogue: 0,0:59:22.51,0:59:24.22,译文字幕,,0,0,0,,哦  哦  哦  不\N{\r原文字幕}Oh, uh, ooh. Uh, no.
+Dialogue: 0,0:59:24.31,0:59:25.64,译文字幕,,0,0,0,,谢谢  我们不喝\N{\r原文字幕}Thank you, we don't drink,
+Dialogue: 0,0:59:25.73,0:59:27.77,译文字幕,,0,0,0,,而且  我们也不是夫妻\N{\r原文字幕}and we're not a couple.
+Dialogue: 0,0:59:29.90,0:59:30.98,译文字幕,,0,0,0,,{\r原文字幕}Ahem.
+Dialogue: 0,0:59:31.06,0:59:33.11,译文字幕,,0,0,0,,你们看这些符号\N{\r原文字幕}Look at these markings.
+Dialogue: 0,0:59:33.19,0:59:35.99,译文字幕,,0,0,0,,和地图上一摸一样\N{\r原文字幕}They're identical to the ones on the map.
+Dialogue: 0,0:59:36.07,0:59:39.95,译文字幕,,0,0,0,,我怀疑这是一个古老文明遗留下来的象形文字\N{\r原文字幕}I suspect these are the hieroglyphic remnants of an ancient culture.
+Dialogue: 0,0:59:40.03,0:59:41.16,译文字幕,,0,0,0,,霍金斯先生\N{\r原文字幕}Mr. Hawkins,
+Dialogue: 0,0:59:41.49,0:59:44.12,译文字幕,,0,0,0,,不要让人靠近这里  噢!\N{\r原文字幕}Stop anyone who tries to approach. Ohh!
+Dialogue: 0,0:59:44.20,0:59:46.25,译文字幕,,0,0,0,,好了  好了  你听我说\N{\r原文字幕}Yes, yes. Now listen to me,
+Dialogue: 0,0:59:46.33,0:59:49.87,译文字幕,,0,0,0,,暂时不要发号施令  好好躺下来休息\N{\r原文字幕}Stop giving orders for a few milliseconds and lie still.
+Dialogue: 0,0:59:50.50,0:59:52.17,译文字幕,,0,0,0,,很有说服力  博士\N{\r原文字幕}Very forceful, Doctor.
+Dialogue: 0,0:59:52.59,0:59:54.00,译文字幕,,0,0,0,,继续  再说点别的\N{\r原文字幕}Go on. Say something else.
+Dialogue: 0,0:59:55.55,0:59:57.55,译文字幕,,0,0,0,,嘿  看呐  那还有你们的同伴\N{\r原文字幕}Hey, look! There's some more of your buddies!
+Dialogue: 0,0:59:57.80,1:00:00.59,译文字幕,,0,0,0,,嘿  伙计们  我们在这儿!\N{\r原文字幕}Hey, fellas! We're over here, fellas!
+Dialogue: 0,1:00:00.68,1:00:02.89,译文字幕,,0,0,0,,{\r原文字幕}Oh! Uhh! Ooh! Ohh!
+Dialogue: 0,1:00:06.52,1:00:09.52,译文字幕,,0,0,0,,别浪费你们的子弹了\N{\r原文字幕}Stop wastin' your fire!
+Dialogue: 0,1:00:10.94,1:00:13.52,译文字幕,,0,0,0,,上面的人  你们好吗?\N{\r原文字幕}Hello, up there!
+Dialogue: 0,1:00:16.53,1:00:17.69,译文字幕,,0,0,0,,吉姆?\N{\r原文字幕}Jimbo?
+Dialogue: 0,1:00:18.28,1:00:21.45,译文字幕,,0,0,0,,舰长还好吗?\N{\r原文字幕}If it's all right with the captain.
+Dialogue: 0,1:00:21.53,1:00:24.08,译文字幕,,0,0,0,,我想跟你聊聊\N{\r原文字幕}I'd like a short word with ya.
+Dialogue: 0,1:00:24.62,1:00:27.66,译文字幕,,0,0,0,,不耍花样  只是聊聊\N{\r原文字幕}No tricks, just a little palaver.
+Dialogue: 0,1:00:28.04,1:00:30.87,译文字幕,,0,0,0,,他是为地图来讨价还价的\N{\r原文字幕}Come to bargain for the map, doubtless.
+Dialogue: 0,1:00:30.96,1:00:32.04,译文字幕,,0,0,0,,该死!\N{\r原文字幕}Pestilential...
+Dialogue: 0,1:00:32.13,1:00:33.46,译文字幕,,0,0,0,,-啊!  -舰长\N{\r原文字幕}- Ugh! - Captain.
+Dialogue: 0,1:00:34.09,1:00:38.67,译文字幕,,0,0,0,,也就是说  他以为地图还在我们手上\N{\r原文字幕}That means that he thinks we still have it.
+Dialogue: 0,1:00:45.01,1:00:49.39,译文字幕,,0,0,0,,墨菲!  我正想你跑哪儿去了呢\N{\r原文字幕}Morphy! I wondered where you lit off to.
+Dialogue: 0,1:00:50.64,1:00:52.56,译文字幕,,0,0,0,,{\r原文字幕}[Groaning]
+Dialogue: 0,1:00:53.98,1:00:54.98,译文字幕,,0,0,0,,{\r原文字幕}Ooh.
+Dialogue: 0,1:00:55.48,1:00:58.48,译文字幕,,0,0,0,,自从我们在伙房里打了一架...\N{\r原文字幕}Oh, this poor old leg's downright snarky...
+Dialogue: 0,1:00:58.57,1:01:01.24,译文字幕,,0,0,0,,这条腿就彻底不管用了\N{\r原文字幕}since that game attack we had in the galley. [Chuckles]
+Dialogue: 0,1:01:04.07,1:01:05.07,译文字幕,,0,0,0,,{\r原文字幕}Ahh.
+Dialogue: 0,1:01:07.49,1:01:10.25,译文字幕,,0,0,0,,无论你在那里听到了什么\N{\r原文字幕}Whatever you heard back there,
+Dialogue: 0,1:01:10.33,1:01:12.25,译文字幕,,0,0,0,,至少关于你的那些话...\N{\r原文字幕}at least the part concerning you...
+Dialogue: 0,1:01:13.42,1:01:16.09,译文字幕,,0,0,0,,我真的不是那个意思\N{\r原文字幕}I didn't mean a word of it.
+Dialogue: 0,1:01:16.63,1:01:20.67,译文字幕,,0,0,0,,要是让那些穷凶极恶的家伙认定我心软了...\N{\r原文字幕}If that bloodthirsty lot had thought I'd gone soft...
+Dialogue: 0,1:01:20.76,1:01:22.72,译文字幕,,0,0,0,,他们会把我们都宰了的\N{\r原文字幕}they'd have gutted us both.
+Dialogue: 0,1:01:26.01,1:01:29.68,译文字幕,,0,0,0,,听我说  如果我们见机行事...\N{\r原文字幕}Listen to me. If we play our cards right...
+Dialogue: 0,1:01:29.77,1:01:34.98,译文字幕,,0,0,0,,我们可以安全的离开这里  享受荣华富贵\N{\r原文字幕}we can both walk away from this rich as kings.
+Dialogue: 0,1:01:35.15,1:01:37.11,译文字幕,,0,0,0,,是吗?\N{\r原文字幕}- Yeah? [Chuckles]
+Dialogue: 0,1:01:37.19,1:01:41.82,译文字幕,,0,0,0,,只要你把地图给我...然后\N{\r原文字幕}You get me that map and...
+Dialogue: 0,1:01:42.53,1:01:46.95,译文字幕,,0,0,0,,一部分的的宝藏就归你\N{\r原文字幕}an even portion of the treasure is yours.
+Dialogue: 0,1:01:52.50,1:01:53.58,译文字幕,,0,0,0,,伙计\N{\r原文字幕}Boy.
+Dialogue: 0,1:01:55.25,1:01:57.25,译文字幕,,0,0,0,,你可真有一套\N{\r原文字幕}You are really something.
+Dialogue: 0,1:01:58.21,1:02:00.71,译文字幕,,0,0,0,,说什么我有天赋啦...\N{\r原文字幕}All that talk of greatness
+Dialogue: 0,1:02:00.80,1:02:04.09,译文字幕,,0,0,0,,什么辉煌的荣耀...  真是可笑\N{\r原文字幕}light coming off my sails, what a joke.
+Dialogue: 0,1:02:04.18,1:02:05.72,译文字幕,,0,0,0,,听我说  吉姆\N{\r原文字幕}Now, just see here, Jimbo...
+Dialogue: 0,1:02:05.80,1:02:08.39,译文字幕,,0,0,0,,不过  至少你教对了我一件事...坚持到底  对吧\N{\r原文字幕}I mean, at least you taught me one thing. Stick to it, right?
+Dialogue: 0,1:02:09.01,1:02:10.31,译文字幕,,0,0,0,,这正是我要做的\N{\r原文字幕}Well, that's just what I'm gonna do.
+Dialogue: 0,1:02:10.77,1:02:14.64,译文字幕,,0,0,0,,我一定会让你永远也看不到一丁点  我的宝藏!\N{\r原文字幕}I'm gonna make sure that you never see one drabloon of my treasure!
+Dialogue: 0,1:02:14.94,1:02:18.31,译文字幕,,0,0,0,,那些财宝都是我的!!\N{\r原文字幕}That treasure is owed me, by thunder!
+Dialogue: 0,1:02:18.40,1:02:22.69,译文字幕,,0,0,0,,那你就别用我的地图  看你能不能找到\N{\r原文字幕}Well, try to find it without my map, by thunder!
+Dialogue: 0,1:02:23.69,1:02:27.82,译文字幕,,0,0,0,,噢  你还是没学会挑对手是吗  小子\N{\r原文字幕}Oh, you still don't know how to pick your fights, do you, boy?
+Dialogue: 0,1:02:28.66,1:02:30.41,译文字幕,,0,0,0,,你给我听着\N{\r原文字幕}Now, mark me.
+Dialogue: 0,1:02:31.62,1:02:34.96,译文字幕,,0,0,0,,如果明天天亮前我还没拿到地图\N{\r原文字幕}Either I get that map by dawn tomorrow,
+Dialogue: 0,1:02:35.33,1:02:39.17,译文字幕,,0,0,0,,你也不肯帮我  我就用船上的大炮\N{\r原文字幕}or so help me, I'll use the ship's cannons
+Dialogue: 0,1:02:39.50,1:02:42.84,译文字幕,,0,0,0,,把你们全都炸上天!\N{\r原文字幕}to blast ya all to kingdom come!
+Dialogue: 0,1:02:44.17,1:02:46.09,译文字幕,,0,0,0,,墨菲  跟我走\N{\r原文字幕}Morph, hop to it.
+Dialogue: 0,1:02:48.05,1:02:49.14,译文字幕,,0,0,0,,快!\N{\r原文字幕}Now!
+Dialogue: 0,1:02:51.51,1:02:53.31,译文字幕,,0,0,0,,该死!\N{\r原文字幕}Oh, blast it!
+Dialogue: 0,1:03:04.99,1:03:06.61,译文字幕,,0,0,0,,先生们...\N{\r原文字幕}Gentlemen...
+Dialogue: 0,1:03:07.57,1:03:10.74,译文字幕,,0,0,0,,我们必须呆在一起...\N{\r原文字幕}we must stay together and...
+Dialogue: 0,1:03:10.99,1:03:12.20,译文字幕,,0,0,0,,并且...\N{\r原文字幕}And...
+Dialogue: 0,1:03:12.33,1:03:14.37,译文字幕,,0,0,0,,-噢  -并且什么...什么\N{\r原文字幕}- Ohh. - And What? What?
+Dialogue: 0,1:03:14.45,1:03:16.79,译文字幕,,0,0,0,,我们必须呆在一起  还有呢?\N{\r原文字幕}We must stay together and what?
+Dialogue: 0,1:03:17.21,1:03:22.25,译文字幕,,0,0,0,,博士  你的眼睛真的很漂亮\N{\r原文字幕}Doctor, you have wonderful eyes.
+Dialogue: 0,1:03:22.59,1:03:24.05,译文字幕,,0,0,0,,她已经神志不清了!\N{\r原文字幕}She's lost her mind!
+Dialogue: 0,1:03:24.13,1:03:25.34,译文字幕,,0,0,0,,你赶紧帮帮她\N{\r原文字幕}Well, you gotta help her.
+Dialogue: 0,1:03:25.51,1:03:27.97,译文字幕,,0,0,0,,该死的  吉姆  我是天文学博士  不是医学博士\N{\r原文字幕}Dang it, Jim. I'm an astronomer, not a doctor.
+Dialogue: 0,1:03:28.05,1:03:29.84,译文字幕,,0,0,0,,我是说  我是个博士  不是个医生\N{\r原文字幕}I mean, I am a doctor, but I'm not that kind of doctor.
+Dialogue: 0,1:03:29.93,1:03:31.97,译文字幕,,0,0,0,,我有博士学位  但那是两回事\N{\r原文字幕}I have a doctorate. It's not the same thing.
+Dialogue: 0,1:03:32.05,1:03:33.31,译文字幕,,0,0,0,,博士学位救不了人命\N{\r原文字幕}You can't help people with a doctorate.
+Dialogue: 0,1:03:33.39,1:03:35.89,译文字幕,,0,0,0,,我只能眼睁睁看着  束手无策\N{\r原文字幕}You just sit there, and you're useless.
+Dialogue: 0,1:03:36.10,1:03:37.56,译文字幕,,0,0,0,,没事的  博士\N{\r原文字幕}It's okay, Doc.
+Dialogue: 0,1:03:38.44,1:03:39.98,译文字幕,,0,0,0,,会没事的\N{\r原文字幕}It's all right.
+Dialogue: 0,1:03:40.35,1:03:43.69,译文字幕,,0,0,0,,是啊  博士  吉姆知道怎么让我们离开这里\N{\r原文字幕}Yeah, Doc! Jimmy knows exactly how to get out of this.
+Dialogue: 0,1:03:43.77,1:03:46.32,译文字幕,,0,0,0,,吉姆对这些事儿可在行了\N{\r原文字幕}It's just Jimmy has this knowledge of things.
+Dialogue: 0,1:03:47.24,1:03:49.53,译文字幕,,0,0,0,,吉姆  有什么主意吗?\N{\r原文字幕}Jim, any thoughts at all?
+Dialogue: 0,1:03:51.16,1:03:53.28,译文字幕,,0,0,0,,没有地图  我们死定了\N{\r原文字幕}Without the map, we're dead.
+Dialogue: 0,1:03:54.45,1:03:56.75,译文字幕,,0,0,0,,我们想逃跑  也死定了\N{\r原文字幕}If we try to leave, we're dead.
+Dialogue: 0,1:03:57.75,1:03:59.25,译文字幕,,0,0,0,,-可如果继续呆在这...  -"我们死定了"\N{\r原文字幕}- If we stay here... -"We're dead!
+Dialogue: 0,1:03:59.33,1:04:01.25,译文字幕,,0,0,0,,"死定了!  死定了!  死定了!"\N{\r原文字幕}"We're dead! We're dead!"
+Dialogue: 0,1:04:05.76,1:04:09.51,译文字幕,,0,0,0,,我觉得吉姆可能要一个人安静的想一想\N{\r原文字幕}Well, I think that Jimmy could use a little quiet time. Heh.
+Dialogue: 0,1:04:10.13,1:04:12.64,译文字幕,,0,0,0,,我就先从后门溜了\N{\r原文字幕}So I'll just slip out the back door.
+Dialogue: 0,1:04:13.26,1:04:14.81,译文字幕,,0,0,0,,-后门?  -对\N{\r原文字幕}- Back door? - Oh, yeah.
+Dialogue: 0,1:04:14.89,1:04:17.73,译文字幕,,0,0,0,,凉风可以从这个地方吹进来...\N{\r原文字幕}I get this delightful breeze through here...
+Dialogue: 0,1:04:17.81,1:04:20.52,译文字幕,,0,0,0,,我觉得这很重要  因为室内要多通风啊...\N{\r原文字幕}which I think is important, because ventilation among friends...
+Dialogue: 0,1:04:20.60,1:04:23.15,译文字幕,,0,0,0,,哇  这都是什么呀?\N{\r原文字幕}Whoa. What is all this stuff?
+Dialogue: 0,1:04:23.23,1:04:25.02,译文字幕,,0,0,0,,你是说横穿这个星球绵延几英里...\N{\r原文字幕}You mean the miles and miles of machinery that run...
+Dialogue: 0,1:04:25.11,1:04:27.28,译文字幕,,0,0,0,,不停运转的这些机器设备吗?\N{\r原文字幕}through the entire course of the inside of this planet?
+Dialogue: 0,1:04:27.94,1:04:28.99,译文字幕,,0,0,0,,我也不知道\N{\r原文字幕}Not a clue.
+Dialogue: 0,1:04:29.32,1:04:31.45,译文字幕,,0,0,0,,嘿  博士  我想我找到出路了!\N{\r原文字幕}Hey, Doc! Doc! I think I found a way out of here!
+Dialogue: 0,1:04:31.61,1:04:33.99,译文字幕,,0,0,0,,不不  等等吉姆  舰长让我们呆在一起...\N{\r原文字幕}No, no. Jim, wait. The captain ordered us to stay...
+Dialogue: 0,1:04:34.08,1:04:36.83,译文字幕,,0,0,0,,-我马上回来  -深水炸弹!\N{\r原文字幕}- I'll be back. - Cannonball!
+Dialogue: 0,1:04:37.37,1:04:38.45,译文字幕,,0,0,0,,{\r原文字幕}Woof.
+Dialogue: 0,1:04:39.33,1:04:41.29,译文字幕,,0,0,0,,{\r原文字幕}[Snoring]
+Dialogue: 0,1:04:46.96,1:04:49.88,译文字幕,,0,0,0,,-有什么计划?  -嘘...本  小声点\N{\r原文字幕}- So, what's the plan? - Shh. B.E.N., quiet.
+Dialogue: 0,1:04:53.76,1:04:55.05,译文字幕,,0,0,0,,好了  我们出来了\N{\r原文字幕}[Whispering] Okay, here it is.
+Dialogue: 0,1:04:55.14,1:04:58.06,译文字幕,,0,0,0,,我们潜回船上去  破坏激光炮\N{\r原文字幕}We sneak back to the Legacy, disable the laser cannons,
+Dialogue: 0,1:04:58.14,1:05:00.06,译文字幕,,0,0,0,,拿回地图\N{\r原文字幕}and bring back the map.
+Dialogue: 0,1:05:00.14,1:05:01.35,译文字幕,,0,0,0,,真是好主意\N{\r原文字幕}That's a good plan.
+Dialogue: 0,1:05:01.44,1:05:02.73,译文字幕,,0,0,0,,我喜欢  可唯一的问题是...\N{\r原文字幕}I like that plan. The only thing is...
+Dialogue: 0,1:05:02.81,1:05:05.31,译文字幕,,0,0,0,,我们怎么上去啊?\N{\r原文字幕}I'm wondering, how do we get there?
+Dialogue: 0,1:05:05.82,1:05:06.94,译文字幕,,0,0,0,,用那个\N{\r原文字幕}On that.
+Dialogue: 0,1:05:18.16,1:05:19.83,译文字幕,,0,0,0,,-啊  -本!  嘘!\N{\r原文字幕}- Aah! - B.E.N., Shh!
+Dialogue: 0,1:05:19.91,1:05:22.16,译文字幕,,0,0,0,,抱歉  抱歉  抱歉\N{\r原文字幕}Sorry, sorry. Sorry.
+Dialogue: 0,1:05:29.21,1:05:31.76,译文字幕,,0,0,0,,我去那地图  你待在这\N{\r原文字幕}Okay, I'll get the map. You wait here.
+Dialogue: 0,1:05:31.84,1:05:35.14,译文字幕,,0,0,0,,遵命  吉姆  我负责毁坏激光炮!\N{\r原文字幕}Roger, Jimmy. I'll neutralize laser cannons, sir!
+Dialogue: 0,1:05:35.22,1:05:36.35,译文字幕,,0,0,0,,本!  本!\N{\r原文字幕}B.E.N.! B.E.N.!
+Dialogue: 0,1:05:36.43,1:05:39.10,译文字幕,,0,0,0,,哟呼  哟呼  海盗滴生活...\N{\r原文字幕}Yo-ho, yo-ho, a pirate's life for me
+Dialogue: 0,1:05:39.18,1:05:40.89,译文字幕,,0,0,0,,{\r原文字幕}[Humming] [Sighs]
+Dialogue: 0,1:05:41.60,1:05:45.40,译文字幕,,0,0,0,,不就是毁掉大炮嘛  有什么难的?\N{\r原文字幕}Disable a few laser cannons. What is the big deal?
+Dialogue: 0,1:05:45.48,1:05:47.77,译文字幕,,0,0,0,,我要做的就是找出那根电线然后...\N{\r原文字幕}All we gotta do is find that one little wire.
+Dialogue: 0,1:05:47.86,1:05:48.86,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,1:05:49.48,1:05:50.74,译文字幕,,0,0,0,,我的妈呀\N{\r原文字幕}Oh, mama.
+Dialogue: 0,1:05:56.37,1:05:57.62,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,1:05:57.74,1:05:59.62,译文字幕,,0,0,0,,找到了!\N{\r原文字幕}- Yes. [Alarm Blaring]
+Dialogue: 0,1:05:59.70,1:06:01.29,译文字幕,,0,0,0,,搞错了\N{\r原文字幕}Bad, B.E.N. Bad.
+Dialogue: 0,1:06:01.37,1:06:02.50,译文字幕,,0,0,0,,插回去\N{\r原文字幕}Okay, fixing.
+Dialogue: 0,1:06:02.71,1:06:04.79,译文字幕,,0,0,0,,那个愚蠢的机器人会让我们都...\N{\r原文字幕}That stupid robot's gonna get us all...
+Dialogue: 0,1:06:04.87,1:06:05.88,译文字幕,,0,0,0,,送命的\N{\r原文字幕}Killed.
+Dialogue: 0,1:06:06.25,1:06:07.79,译文字幕,,0,0,0,,伙房的小子\N{\r原文字幕}Cabin boy.
+Dialogue: 0,1:06:08.34,1:06:09.55,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,1:06:19.81,1:06:21.02,译文字幕,,0,0,0,,{\r原文字幕}[Growling]
+Dialogue: 0,1:06:21.10,1:06:22.22,译文字幕,,0,0,0,,{\r原文字幕}[Squealing]
+Dialogue: 0,1:06:29.23,1:06:30.69,译文字幕,,0,0,0,,{\r原文字幕}[Powers Up]
+Dialogue: 0,1:06:34.90,1:06:37.74,译文字幕,,0,0,0,,哦  别紧张\N{\r原文字幕}Whoops. Okay, don't panic.
+Dialogue: 0,1:06:37.95,1:06:39.74,译文字幕,,0,0,0,,吸气  呼气...\N{\r原文字幕}Breathing in, breathing out...
+Dialogue: 0,1:06:54.97,1:06:56.26,译文字幕,,0,0,0,,{\r原文字幕}- Aah! - Hmm?
+Dialogue: 0,1:06:56.68,1:06:58.45,译文字幕,,0,0,0,,{\r原文字幕}[Poink] Raah!
+Dialogue: 0,1:07:01.64,1:07:03.06,译文字幕,,0,0,0,,这一定是大炮那根线\N{\r原文字幕}This has gotta be cannons.
+Dialogue: 0,1:07:04.43,1:07:05.48,译文字幕,,0,0,0,,看来不是\N{\r原文字幕}Maybe not.
+Dialogue: 0,1:07:19.82,1:07:21.49,译文字幕,,0,0,0,,{\r原文字幕}[Grunting]
+Dialogue: 0,1:07:22.03,1:07:23.79,译文字幕,,0,0,0,,{\r原文字幕}Heh, heh.
+Dialogue: 0,1:07:28.46,1:07:30.29,译文字幕,,0,0,0,,过来  过来  过来\N{\r原文字幕}Come on, come on, come on
+Dialogue: 0,1:07:30.38,1:07:31.42,译文字幕,,0,0,0,,不!\N{\r原文字幕}No!
+Dialogue: 0,1:07:32.00,1:07:34.00,译文字幕,,0,0,0,,哦  好极了\N{\r原文字幕}Oh, yes.
+Dialogue: 0,1:07:35.13,1:07:37.80,译文字幕,,0,0,0,,替我向埃柔先生问好\N{\r原文字幕}Do say hello to Mr. Arrow.
+Dialogue: 0,1:07:40.80,1:07:41.80,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,1:07:41.93,1:07:43.35,译文字幕,,0,0,0,,你自己跟他说吧!\N{\r原文字幕}Tell him yourself!
+Dialogue: 0,1:07:47.23,1:07:48.81,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:07:53.36,1:07:56.36,译文字幕,,0,0,0,,给我回去  你这淘气的插头!  噢!\N{\r原文字幕}Back you go, you naughty plug! Oh!
+Dialogue: 0,1:07:56.57,1:07:57.61,译文字幕,,0,0,0,,{\r原文字幕}[Grunts]
+Dialogue: 0,1:07:57.70,1:07:59.07,译文字幕,,0,0,0,,{\r原文字幕}[Panting]
+Dialogue: 0,1:08:01.91,1:08:02.91,译文字幕,,0,0,0,,{\r原文字幕}[Ratting]
+Dialogue: 0,1:08:03.99,1:08:05.83,译文字幕,,0,0,0,,{\r原文字幕}[Coughing]
+Dialogue: 0,1:08:06.12,1:08:07.87,译文字幕,,0,0,0,,墨菲?\N{\r原文字幕}- Morph? [Chatters]
+Dialogue: 0,1:08:08.04,1:08:09.37,译文字幕,,0,0,0,,激光炮已经失效了\N{\r原文字幕}Laser cannons disconnected
+Dialogue: 0,1:08:09.46,1:08:11.17,译文字幕,,0,0,0,,吉姆舰长\N{\r原文字幕}Captain Jimmy, sir!
+Dialogue: 0,1:08:11.33,1:08:13.38,译文字幕,,0,0,0,,轻松搞定\N{\r原文字幕}Gee, that wasn't so tough.
+Dialogue: 0,1:08:21.64,1:08:23.01,译文字幕,,0,0,0,,博士  博士快醒醒!\N{\r原文字幕}Doc! Doc, wake up!
+Dialogue: 0,1:08:23.80,1:08:25.31,译文字幕,,0,0,0,,我拿到地图了\N{\r原文字幕}I got the map.
+Dialogue: 0,1:08:26.10,1:08:30.77,译文字幕,,0,0,0,,干得好  吉姆  干得漂亮\N{\r原文字幕}Fine work, Jimbo. Fine work indeed.
+Dialogue: 0,1:08:35.52,1:08:38.15,译文字幕,,0,0,0,,谢谢你给我们指路\N{\r原文字幕}Thanks for showing us the way, boy.
+Dialogue: 0,1:08:41.78,1:08:42.78,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:08:47.04,1:08:48.83,译文字幕,,0,0,0,,这个铁疙瘩是什么?\N{\r原文字幕}What's this sorry stack of metal?
+Dialogue: 0,1:08:48.91,1:08:50.37,译文字幕,,0,0,0,,别碰我的脸!\N{\r原文字幕}Not the face!
+Dialogue: 0,1:08:50.87,1:08:53.21,译文字幕,,0,0,0,,你和我一样  吉姆\N{\r原文字幕}You're just like me, Jimbo
+Dialogue: 0,1:08:53.88,1:08:55.50,译文字幕,,0,0,0,,你讨厌失败\N{\r原文字幕}Ya hates to lose.
+Dialogue: 0,1:08:57.25,1:08:58.46,译文字幕,,0,0,0,,{\r原文字幕}[Chuckles]
+Dialogue: 0,1:09:05.05,1:09:06.89,译文字幕,,0,0,0,,什么鬼...\N{\r原文字幕}What the devil's the...
+Dialogue: 0,1:09:11.64,1:09:12.90,译文字幕,,0,0,0,,打开!\N{\r原文字幕}Open it.
+Dialogue: 0,1:09:22.07,1:09:23.53,译文字幕,,0,0,0,,我要动手了\N{\r原文字幕}I'd get busy.
+Dialogue: 0,1:09:36.59,1:09:38.67,译文字幕,,0,0,0,,{\r原文字幕}[Crew murmuring]
+Dialogue: 0,1:09:40.92,1:09:43.80,译文字幕,,0,0,0,,看到没  多么神奇啊\N{\r原文字幕}Oh, the powers that be. Would you look?
+Dialogue: 0,1:09:48.60,1:09:50.22,译文字幕,,0,0,0,,{\r原文字幕}Ha ha ha ha!
+Dialogue: 0,1:09:50.81,1:09:54.60,译文字幕,,0,0,0,,把他们绑在一起  等我们回来再...什么?\N{\r原文字幕}Tie him up and leave him with the others till we... What?
+Dialogue: 0,1:09:56.06,1:09:57.69,译文字幕,,0,0,0,,想要地图的话\N{\r原文字幕}You want the map,
+Dialogue: 0,1:09:57.77,1:09:59.07,译文字幕,,0,0,0,,就带我一块去\N{\r原文字幕}you're taking me, too.
+Dialogue: 0,1:09:59.36,1:10:00.61,译文字幕,,0,0,0,,{\r原文字幕}[Groans]
+Dialogue: 0,1:10:02.90,1:10:03.90,译文字幕,,0,0,0,,{\r原文字幕}Hmm.
+Dialogue: 0,1:10:04.24,1:10:05.95,译文字幕,,0,0,0,,{\r原文字幕}[Chuckles]
+Dialogue: 0,1:10:07.62,1:10:08.91,译文字幕,,0,0,0,,我们把他们都带上\N{\r原文字幕}We'll take 'em all.
+Dialogue: 0,1:10:21.13,1:10:22.13,译文字幕,,0,0,0,,{\r原文字幕}Unh.
+Dialogue: 0,1:10:28.64,1:10:30.35,译文字幕,,0,0,0,,{\r原文字幕}[Chattering]
+Dialogue: 0,1:10:31.31,1:10:33.68,译文字幕,,0,0,0,,没事  墨菲  没事的\N{\r原文字幕}It's okay, Morph. It's okay.
+Dialogue: 0,1:10:34.60,1:10:36.35,译文字幕,,0,0,0,,吉姆  我不知道你怎么样...\N{\r原文字幕}Jimmy, I don't know about you...
+Dialogue: 0,1:10:36.44,1:10:39.77,译文字幕,,0,0,0,,但是我开始看到我的一生在眼前闪过\N{\r原文字幕}but I'm starting to see my life pass in front of my eyes.
+Dialogue: 0,1:10:39.86,1:10:42.07,译文字幕,,0,0,0,,至少  我想这是我的生活\N{\r原文字幕}At least, I think it's my life.
+Dialogue: 0,1:10:42.15,1:10:45.20,译文字幕,,0,0,0,,我和一个叫着卢皮的机器人跳过舞吗?\N{\r原文字幕}Was I ever dancing with an android named Lupe?
+Dialogue: 0,1:10:45.28,1:10:46.74,译文字幕,,0,0,0,,本!  嘘...\N{\r原文字幕}B.E.N., shh.
+Dialogue: 0,1:10:47.57,1:10:49.33,译文字幕,,0,0,0,,事情还不算完\N{\r原文字幕}This isn't over yet.
+Dialogue: 0,1:10:51.41,1:10:53.00,译文字幕,,0,0,0,,我们就要到了  伙计们\N{\r原文字幕}We're gettin' close, lads.
+Dialogue: 0,1:10:53.33,1:10:56.96,译文字幕,,0,0,0,,我闻到宝藏的味道了\N{\r原文字幕}I smell treasure a-waitin'.
+Dialogue: 0,1:11:01.75,1:11:02.76,译文字幕,,0,0,0,,{\r原文字幕}Huh?
+Dialogue: 0,1:11:03.80,1:11:05.05,译文字幕,,0,0,0,,宝藏在哪?\N{\r原文字幕}Where is it?
+Dialogue: 0,1:11:05.13,1:11:09.22,译文字幕,,0,0,0,,我什么都没看到  什么都没有!\N{\r原文字幕}I see nothing! One great, big stinking hunk of nothing!
+Dialogue: 0,1:11:10.22,1:11:12.43,译文字幕,,0,0,0,,怎么回事  吉姆?\N{\r原文字幕}What's going on, Jimbo?
+Dialogue: 0,1:11:12.51,1:11:15.10,译文字幕,,0,0,0,,我不知道  我打不开了\N{\r原文字幕}I don't know. I can't get it open.
+Dialogue: 0,1:11:15.48,1:11:18.10,译文字幕,,0,0,0,,我就知道  我们不该跟着这个小子\N{\r原文字幕}We should've never followed this boy!
+Dialogue: 0,1:11:18.19,1:11:19.36,译文字幕,,0,0,0,,{\r原文字幕}Hey!
+Dialogue: 0,1:11:19.44,1:11:23.32,译文字幕,,0,0,0,,我劝你快点把它给弄好  快!\N{\r原文字幕}I'd suggest you get that gizmo going again, and fast!
+Dialogue: 0,1:11:23.48,1:11:26.74,译文字幕,,0,0,0,,把他杀了  剖开他的肚子!\N{\r原文字幕}Let's rip his gizzard right out, right now!
+Dialogue: 0,1:11:27.03,1:11:29.37,译文字幕,,0,0,0,,把他扔下去!\N{\r原文字幕}Throw him off the cliff!
+Dialogue: 0,1:11:40.79,1:11:42.21,译文字幕,,0,0,0,,{\r原文字幕}[Rumbing]
+Dialogue: 0,1:11:50.72,1:11:52.64,译文字幕,,0,0,0,,我的天呐\N{\r原文字幕}Oh, have mercy.
+Dialogue: 0,1:11:54.39,1:11:56.48,译文字幕,,0,0,0,,礁湖星云?\N{\r原文字幕}The Lagoon Nebula?
+Dialogue: 0,1:11:56.81,1:12:00.06,译文字幕,,0,0,0,,离这儿隔了半个银河系呢\N{\r原文字幕}But that's halfway across the galaxy.
+Dialogue: 0,1:12:02.15,1:12:03.82,译文字幕,,0,0,0,,一扇大门...\N{\r原文字幕}A big door
+Dialogue: 0,1:12:05.07,1:12:06.99,译文字幕,,0,0,0,,开开关关\N{\r原文字幕}opening and closing.
+Dialogue: 0,1:12:10.74,1:12:12.24,译文字幕,,0,0,0,,我看看\N{\r原文字幕}Let's see.
+Dialogue: 0,1:12:12.91,1:12:14.20,译文字幕,,0,0,0,,金纳皮斯\N{\r原文字幕}Kinapis.
+Dialogue: 0,1:12:16.25,1:12:18.21,译文字幕,,0,0,0,,蒙特里莎太空港\N{\r原文字幕}Montressor spaceport.
+Dialogue: 0,1:12:20.83,1:12:22.71,译文字幕,,0,0,0,,原来弗林特就这样...\N{\r原文字幕}So that's how Flint did it.
+Dialogue: 0,1:12:22.79,1:12:28.09,译文字幕,,0,0,0,,靠这个传送门  在宇宙里四处遨游  强取豪夺\N{\r原文字幕}He used this portal to roam the universe, stealing treasure.
+Dialogue: 0,1:12:28.17,1:12:30.30,译文字幕,,0,0,0,,可他把财宝藏在哪了?\N{\r原文字幕}But where'd he stash it all?
+Dialogue: 0,1:12:31.59,1:12:34.76,译文字幕,,0,0,0,,那该死的财宝在哪里?\N{\r原文字幕}Where's that blasted treasure?
+Dialogue: 0,1:12:34.93,1:12:37.06,译文字幕,,0,0,0,,宝藏!  宝藏!\N{\r原文字幕}Treasure! Treasure!
+Dialogue: 0,1:12:37.77,1:12:39.10,译文字幕,,0,0,0,,埋藏在...\N{\r原文字幕}It's buried in the...
+Dialogue: 0,1:12:39.27,1:12:42.48,译文字幕,,0,0,0,,埋藏在机械装置的核心\N{\r原文字幕}Buried in the centroid of the mechanism.
+Dialogue: 0,1:12:43.65,1:12:47.86,译文字幕,,0,0,0,,如果这整个星球就是一个机械装置...\N{\r原文字幕}What if the whole planet is the mechanism...
+Dialogue: 0,1:12:47.94,1:12:51.20,译文字幕,,0,0,0,,那宝藏就该埋在这个星球的核心!\N{\r原文字幕}and the treasure is buried in the center of this planet?
+Dialogue: 0,1:12:55.28,1:12:58.25,译文字幕,,0,0,0,,我们要怎么样到星球的核心去呢?\N{\r原文字幕}And how in blue blazes are we supposed to get there?
+Dialogue: 0,1:12:59.12,1:13:01.42,译文字幕,,0,0,0,,只要开启对应的门\N{\r原文字幕}Just open the right door.
+Dialogue: 0,1:13:14.55,1:13:16.10,译文字幕,,0,0,0,,{\r原文字幕}[Alarm Beeping]
+Dialogue: 0,1:13:19.14,1:13:21.14,译文字幕,,0,0,0,,等等我!  等等我!\N{\r原文字幕}Wait for me! Wait for me!
+Dialogue: 0,1:13:24.27,1:13:25.48,译文字幕,,0,0,0,,{\r原文字幕}[Gasps]
+Dialogue: 0,1:13:28.07,1:13:29.32,译文字幕,,0,0,0,,{\r原文字幕}[Cheering]
+Dialogue: 0,1:13:30.32,1:13:34.74,译文字幕,,0,0,0,,上千个星球的财宝!\N{\r原文字幕}The loot of a thousand worlds.
+Dialogue: 0,1:13:37.70,1:13:41.25,译文字幕,,0,0,0,,我们需要一艘更大的船!\N{\r原文字幕}We are going to need a bigger boat!
+Dialogue: 0,1:13:41.41,1:13:42.96,译文字幕,,0,0,0,,{\r原文字幕}[Laughing]
+Dialogue: 0,1:13:53.80,1:13:56.72,译文字幕,,0,0,0,,这一切看起来都是那么的熟悉\N{\r原文字幕}This is all seeming very familiar.
+Dialogue: 0,1:13:58.39,1:14:01.60,译文字幕,,0,0,0,,为什么我记不起来\N{\r原文字幕}I can't remember why.
+Dialogue: 0,1:14:02.68,1:14:03.69,译文字幕,,0,0,0,,本  到这边来\N{\r原文字幕}B.E.N., come on.
+Dialogue: 0,1:14:04.19,1:14:06.77,译文字幕,,0,0,0,,我们离开这里  但不能空手离开\N{\r原文字幕}We're getting out of here, and we're not leaving empty-handed.
+Dialogue: 0,1:14:06.86,1:14:08.36,译文字幕,,0,0,0,,可是  可是  吉姆...吉姆!\N{\r原文字幕}But... But, Jimmy! Jimmy!
+Dialogue: 0,1:14:10.11,1:14:12.53,译文字幕,,0,0,0,,我花了一辈子的时间\N{\r原文字幕}A lifetime of searching.
+Dialogue: 0,1:14:13.49,1:14:15.86,译文字幕,,0,0,0,,终于...\N{\r原文字幕}And at long last...
+Dialogue: 0,1:14:17.41,1:14:20.20,译文字幕,,0,0,0,,找到了\N{\r原文字幕}I can touch it.
+Dialogue: 0,1:14:20.54,1:14:21.75,译文字幕,,0,0,0,,你没觉得奇怪吗?\N{\r原文字幕}Do you know what's strange?
+Dialogue: 0,1:14:21.83,1:14:23.91,译文字幕,,0,0,0,,我无法告诉你这有多令人沮丧  吉姆\N{\r原文字幕}I can't tell you how frustrating this is, Jimmy,
+Dialogue: 0,1:14:24.00,1:14:25.12,译文字幕,,0,0,0,,因为有些东西\N{\r原文字幕}'cause there's something just...
+Dialogue: 0,1:14:25.21,1:14:27.38,译文字幕,,0,0,0,,在我的脑子里盘旋不去\N{\r原文字幕}It's nagging at the back of my mind.
+Dialogue: 0,1:14:27.54,1:14:28.54,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:14:29.34,1:14:32.51,译文字幕,,0,0,0,,-弗林特船长  -就是他!\N{\r原文字幕}- Captain Flint? - In the flesh!
+Dialogue: 0,1:14:33.34,1:14:36.47,译文字幕,,0,0,0,,呃...只是皮肤、内脏...\N{\r原文字幕}Well, sort of, except for skin, organs,
+Dialogue: 0,1:14:36.55,1:14:39.47,译文字幕,,0,0,0,,还其他那肌肉...\N{\r原文字幕}or anything that, that... That resembles flesh,
+Dialogue: 0,1:14:39.56,1:14:41.18,译文字幕,,0,0,0,,都不在了\N{\r原文字幕}that's not there.
+Dialogue: 0,1:14:41.43,1:14:43.85,译文字幕,,0,0,0,,我还是觉得有点奇怪你知道吗?\N{\r原文字幕}And yet it's so odd, you know?
+Dialogue: 0,1:14:43.93,1:14:46.31,译文字幕,,0,0,0,,我记得有什么可怕的事\N{\r原文字幕}I remember there was something horrible
+Dialogue: 0,1:14:46.40,1:14:48.61,译文字幕,,0,0,0,,弗林特不想任何人知道...\N{\r原文字幕}Flint didn't want anyone else to know...
+Dialogue: 0,1:14:48.69,1:14:51.78,译文字幕,,0,0,0,,但我就是想不起来了\N{\r原文字幕}but I just can't remember what it was.
+Dialogue: 0,1:14:53.07,1:14:56.03,译文字幕,,0,0,0,,噢  丧失记忆真是太惨了!\N{\r原文字幕}Oh, a mind is a terrible thing to lose!
+Dialogue: 0,1:14:56.24,1:14:58.07,译文字幕,,0,0,0,,{\r原文字幕}[Sobbing]
+Dialogue: 0,1:14:58.24,1:15:01.16,译文字幕,,0,0,0,,本  我想我找到你的记忆了\N{\r原文字幕}B.E.N., I think I just found your mind.
+Dialogue: 0,1:15:01.24,1:15:02.45,译文字幕,,0,0,0,,-别动!  -啊!\N{\r原文字幕}- Hold still. - Aah!
+Dialogue: 0,1:15:02.54,1:15:05.66,译文字幕,,0,0,0,,吉姆  你的手好凉  好凉啊\N{\r原文字幕}Jimmy, your hands are very, very cold.
+Dialogue: 0,1:15:07.12,1:15:08.13,译文字幕,,0,0,0,,{\r原文字幕}Whoa!
+Dialogue: 0,1:15:09.21,1:15:10.38,译文字幕,,0,0,0,,你好\N{\r原文字幕}Hello.
+Dialogue: 0,1:15:10.59,1:15:13.13,译文字幕,,0,0,0,,吉姆  我刚刚在想\N{\r原文字幕}You know, Jimmy, I was just thinking
+Dialogue: 0,1:15:13.21,1:15:15.17,译文字幕,,0,0,0,,我刚刚在想...\N{\r原文字幕}I was just think...
+Dialogue: 0,1:15:15.84,1:15:18.84,译文字幕,,0,0,0,,全都回来了  我所有的记忆!\N{\r原文字幕}It's all flooding back! All my memories!
+Dialogue: 0,1:15:18.93,1:15:20.68,译文字幕,,0,0,0,,弗林特拆掉了我的主记忆芯片...\N{\r原文字幕}Right up until Flint pulled my memory circuits...
+Dialogue: 0,1:15:20.76,1:15:23.68,译文字幕,,0,0,0,,那样我就不会告诉别人他设下的陷阱!\N{\r原文字幕}so I could never tell anybody about his booby trap!
+Dialogue: 0,1:15:23.77,1:15:24.77,译文字幕,,0,0,0,,{\r原文字幕}[Crashing]
+Dialogue: 0,1:15:25.14,1:15:27.77,译文字幕,,0,0,0,,-说到陷阱...  -什么?\N{\r原文字幕}- Speaking of which... - Huh?
+Dialogue: 0,1:15:29.77,1:15:30.98,译文字幕,,0,0,0,,弗林特想要确保...\N{\r原文字幕}Flint wanted to make sure...
+Dialogue: 0,1:15:31.06,1:15:32.36,译文字幕,,0,0,0,,没人能偷走他的宝藏\N{\r原文字幕}that nobody could ever steal his treasure,
+Dialogue: 0,1:15:32.44,1:15:33.73,译文字幕,,0,0,0,,他在整个星球上都装了炸药\N{\r原文字幕}so he rigged this whole planet
+Dialogue: 0,1:15:33.82,1:15:36.95,译文字幕,,0,0,0,,会把你炸的比风筝还高!\N{\r原文字幕}to blow higher than a Kalepsian kite!
+Dialogue: 0,1:15:47.87,1:15:49.75,译文字幕,,0,0,0,,快跑  吉姆  快逃命吧!\N{\r原文字幕}Run, Jimmy! Run for your life!
+Dialogue: 0,1:15:49.83,1:15:51.63,译文字幕,,0,0,0,,你回去帮船长和博士\N{\r原文字幕}You go back and help the captain and Doc!
+Dialogue: 0,1:15:51.71,1:15:54.46,译文字幕,,0,0,0,,如果我5分钟后还没回去  你们就先走\N{\r原文字幕}If I'm not there in 5 minutes, leave without me.
+Dialogue: 0,1:15:54.63,1:15:56.97,译文字幕,,0,0,0,,我绝不会留下我的朋友  吉姆\N{\r原文字幕}I am not leaving my buddy Jimmy.
+Dialogue: 0,1:15:58.30,1:16:00.80,译文字幕,,0,0,0,,除非他那样看着我\N{\r原文字幕}Unless he looks at me like that.
+Dialogue: 0,1:16:01.18,1:16:02.22,译文字幕,,0,0,0,,待会见  吉姆\N{\r原文字幕}Bye, Jim!
+Dialogue: 0,1:16:09.06,1:16:12.06,译文字幕,,0,0,0,,不！  不！  噢！  不！  噢！  不！\N{\r原文字幕}No! No! Oh, no! Oh, no!
+Dialogue: 0,1:16:12.19,1:16:13.23,译文字幕,,0,0,0,,不!\N{\r原文字幕}No!
+Dialogue: 0,1:16:15.03,1:16:16.44,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:16:23.08,1:16:25.99,译文字幕,,0,0,0,,快回来  你们这些笨蛋!\N{\r原文字幕}Come back here, ya blighters!
+Dialogue: 0,1:16:27.87,1:16:29.00,译文字幕,,0,0,0,,{\r原文字幕}[Rumbling]
+Dialogue: 0,1:16:41.59,1:16:44.47,译文字幕,,0,0,0,,我这一生  都在梦想这样的冒险经历\N{\r原文字幕}All my life, I dreamed of an adventure like this.
+Dialogue: 0,1:16:45.06,1:16:46.10,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,1:16:46.18,1:16:47.60,译文字幕,,0,0,0,,抱歉\N{\r原文字幕}I'm just sorry
+Dialogue: 0,1:16:47.68,1:16:50.94,译文字幕,,0,0,0,,我没能给你帮上什么忙\N{\r原文字幕}I couldn't have been more helpful to you.
+Dialogue: 0,1:16:51.02,1:16:52.69,译文字幕,,0,0,0,,哦  别傻了\N{\r原文字幕}Oh, don't be daft.
+Dialogue: 0,1:16:53.19,1:16:56.07,译文字幕,,0,0,0,,你已经帮了我很多  真的\N{\r原文字幕}You've been very helpful. Truly.
+Dialogue: 0,1:16:57.03,1:17:00.28,译文字幕,,0,0,0,,我觉得我就是没一丁点儿用的弱者\N{\r原文字幕}I feel like such a useless weakling
+Dialogue: 0,1:17:02.03,1:17:04.16,译文字幕,,0,0,0,,手腕还很细\N{\r原文字幕}with abnormally thin wrists.
+Dialogue: 0,1:17:05.08,1:17:06.45,译文字幕,,0,0,0,,打搅一下  粗野的海盗\N{\r原文字幕}Excuse me, brutish pirate.
+Dialogue: 0,1:17:06.54,1:17:07.54,译文字幕,,0,0,0,,{\r原文字幕}[Belches]
+Dialogue: 0,1:17:07.62,1:17:09.37,译文字幕,,0,0,0,,就是你  我有一个问题\N{\r原文字幕}Yes, you. I have a question.
+Dialogue: 0,1:17:09.79,1:17:13.29,译文字幕,,0,0,0,,是你的身体对你的脑袋来说太大了呢?\N{\r原文字幕}Is it that your body is too massive for your teeny-tiny head,
+Dialogue: 0,1:17:13.71,1:17:17.63,译文字幕,,0,0,0,,还是对你肥大的身躯来说你的脑袋太小了呢?\N{\r原文字幕}or is it that your head is too teeny-tiny for your big, fat body?
+Dialogue: 0,1:17:18.80,1:17:21.17,译文字幕,,0,0,0,,信不信我揍你!\N{\r原文字幕}I pummel you good!
+Dialogue: 0,1:17:21.26,1:17:23.05,译文字幕,,0,0,0,,是的  我相信  在在那之前...\N{\r原文字幕}Yes, I'm sure you will, but before you do...
+Dialogue: 0,1:17:23.14,1:17:26.01,译文字幕,,0,0,0,,我还有最后一个问题  这是你的吗?\N{\r原文字幕}I have one more question. Is this yours?
+Dialogue: 0,1:17:26.26,1:17:27.39,译文字幕,,0,0,0,,{\r原文字幕}Uhh...
+Dialogue: 0,1:17:34.60,1:17:37.19,译文字幕,,0,0,0,,太好了!  墨菲  我们就要离开这了\N{\r原文字幕}Yes! Morph, we are so out of here!
+Dialogue: 0,1:17:37.27,1:17:38.48,译文字幕,,0,0,0,,{\r原文字幕}[Cackling]
+Dialogue: 0,1:17:38.57,1:17:40.32,译文字幕,,0,0,0,,啊  吉姆!\N{\r原文字幕}Ah, Jimbo!
+Dialogue: 0,1:17:40.74,1:17:44.32,译文字幕,,0,0,0,,你真是这宇宙的第七大奇迹呀!\N{\r原文字幕}Aren't you the seventh wonder of the universe?
+Dialogue: 0,1:17:44.41,1:17:46.45,译文字幕,,0,0,0,,退后!\N{\r原文字幕}Get back!
+Dialogue: 0,1:17:51.66,1:17:55.13,译文字幕,,0,0,0,,我喜欢你  孩子  我费了这么大劲...\N{\r原文字幕}I like you, lad, but I've come too far
+Dialogue: 0,1:17:55.21,1:17:57.59,译文字幕,,0,0,0,,不能让你妨碍我得到宝藏\N{\r原文字幕}to let you stand between me and me treasure.
+Dialogue: 0,1:18:02.47,1:18:03.47,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:18:18.19,1:18:20.44,译文字幕,,0,0,0,,不...休想!\N{\r原文字幕}Oh, no, you don't!
+Dialogue: 0,1:18:27.62,1:18:29.24,译文字幕,,0,0,0,,{\r原文字幕}[Chattering]
+Dialogue: 0,1:18:29.45,1:18:30.58,译文字幕,,0,0,0,,什么?\N{\r原文字幕}What?
+Dialogue: 0,1:18:34.58,1:18:35.79,译文字幕,,0,0,0,,吉姆\N{\r原文字幕}Jimbo.
+Dialogue: 0,1:18:38.79,1:18:40.59,译文字幕,,0,0,0,,伸过来!\N{\r原文字幕}Reach for me now!
+Dialogue: 0,1:18:41.34,1:18:42.51,译文字幕,,0,0,0,,抓住我!\N{\r原文字幕}Reach!
+Dialogue: 0,1:18:43.67,1:18:44.72,译文字幕,,0,0,0,,我...\N{\r原文字幕}I...
+Dialogue: 0,1:18:44.80,1:18:46.09,译文字幕,,0,0,0,,我够不着!\N{\r原文字幕}I can't!
+Dialogue: 0,1:18:54.98,1:18:56.02,译文字幕,,0,0,0,,我...\N{\r原文字幕}I...
+Dialogue: 0,1:18:58.77,1:18:59.77,译文字幕,,0,0,0,,{\r原文字幕}[Sighs]
+Dialogue: 0,1:19:00.90,1:19:04.99,译文字幕,,0,0,0,,哦  我真是个笨蛋!\N{\r原文字幕}Oh, blast me for a fool!
+Dialogue: 0,1:19:05.49,1:19:06.49,译文字幕,,0,0,0,,{\r原文字幕}[Yells]
+Dialogue: 0,1:19:14.16,1:19:15.37,译文字幕,,0,0,0,,{\r原文字幕}[Groans]
+Dialogue: 0,1:19:28.68,1:19:30.18,译文字幕,,0,0,0,,席尔瓦  你放弃了宝藏?\N{\r原文字幕}Silver, you gave UP?
+Dialogue: 0,1:19:30.26,1:19:33.85,译文字幕,,0,0,0,,它困扰了我一生  我已经想通了\N{\r原文字幕}Just a lifelong obsession, Jim. I'll get over it.
+Dialogue: 0,1:19:34.47,1:19:35.93,译文字幕,,0,0,0,,嘿  吉姆!\N{\r原文字幕}Aloha, Jimmy!
+Dialogue: 0,1:19:38.44,1:19:40.23,译文字幕,,0,0,0,,快点!  还有2分34秒\N{\r原文字幕}Hurry, people! We got exactly two minutes
+Dialogue: 0,1:19:40.31,1:19:42.44,译文字幕,,0,0,0,,这个星球就要爆炸了!\N{\r原文字幕}and 34 seconds till planet's destruction!
+Dialogue: 0,1:19:43.44,1:19:44.48,译文字幕,,0,0,0,,你做得很好  博士\N{\r原文字幕}You're doing fine, Doctor.
+Dialogue: 0,1:19:44.57,1:19:46.70,译文字幕,,0,0,0,,现在慢慢打方向  慢一点!\N{\r原文字幕}Now ease her over gently... Gently!
+Dialogue: 0,1:19:48.32,1:19:49.45,译文字幕,,0,0,0,,{\r原文字幕}Aah!
+Dialogue: 0,1:19:49.53,1:19:52.28,译文字幕,,0,0,0,,我们真不应该来这会爆炸星球探险!\N{\r原文字幕}We were better off on exploding planet!
+Dialogue: 0,1:19:54.95,1:19:56.62,译文字幕,,0,0,0,,把我们送出去  金属人!\N{\r原文字幕}Take us out of here, metal man!
+Dialogue: 0,1:19:56.79,1:19:58.04,译文字幕,,0,0,0,,遵命  舰长!\N{\r原文字幕}Ave, Captain!
+Dialogue: 0,1:20:01.88,1:20:04.42,译文字幕,,0,0,0,,舰长  你可真是关键时刻从天而...\N{\r原文字幕}Captain, you dropped from the heavens in the nick of...
+Dialogue: 0,1:20:04.71,1:20:07.13,译文字幕,,0,0,0,,这些话留给法官说吧  席尔瓦!\N{\r原文字幕}Save your claptrap for the judge, Silver!
+Dialogue: 0,1:20:07.51,1:20:09.22,译文字幕,,0,0,0,,{\r原文字幕}[Chuckles]
+Dialogue: 0,1:20:17.73,1:20:19.48,译文字幕,,0,0,0,,喷射器尾部受损  舰长!\N{\r原文字幕}Mizzen sail demobilized, Captain!
+Dialogue: 0,1:20:19.56,1:20:21.15,译文字幕,,0,0,0,,推进器只剩30％的能量\N{\r原文字幕}Thrusters at only 30% of capacity.
+Dialogue: 0,1:20:21.40,1:20:23.36,译文字幕,,0,0,0,,30%?  那意味着...\N{\r原文字幕}30%? That means we're...
+Dialogue: 0,1:20:23.90,1:20:26.19,译文字幕,,0,0,0,,我们不能及时逃离这爆炸了\N{\r原文字幕}We'll never clear the planet's explosion in time.
+Dialogue: 0,1:20:34.49,1:20:36.83,译文字幕,,0,0,0,,-我们要掉头回去!  -什么?\N{\r原文字幕}- We gotta turn around. - What?
+Dialogue: 0,1:20:37.08,1:20:39.83,译文字幕,,0,0,0,,那有个传送门  我们可以从那离开!\N{\r原文字幕}There's a portal back there. It can get us out of here!
+Dialogue: 0,1:20:40.04,1:20:44.17,译文字幕,,0,0,0,,但是吉姆  那个传送门不是通往一片火海吗?\N{\r原文字幕}Pardon me, Jim, but didn't that portal open onto a raging inferno?
+Dialogue: 0,1:20:44.75,1:20:47.55,译文字幕,,0,0,0,,没错  不过我要改变它\N{\r原文字幕}Yes, but I'm gonna change that.
+Dialogue: 0,1:20:48.34,1:20:50.38,译文字幕,,0,0,0,,我要开启另一扇门\N{\r原文字幕}I'm gonna open a different door.
+Dialogue: 0,1:20:51.89,1:20:53.51,译文字幕,,0,0,0,,舰长  真的  我不知道这怎么可能\N{\r原文字幕}Captain, really, I don't see how this is possible...
+Dialogue: 0,1:20:53.60,1:20:54.97,译文字幕,,0,0,0,,就听他的!\N{\r原文字幕}Listen to the boy!
+Dialogue: 0,1:20:55.10,1:20:57.60,译文字幕,,0,0,0,,还有1分29秒  这个星球就要毁灭了!\N{\r原文字幕}One minute, 29 seconds till planet's destruction!
+Dialogue: 0,1:20:58.02,1:21:00.85,译文字幕,,0,0,0,,-吉姆  你要怎么做  -只要把这个接上去\N{\r原文字幕}- What do you need, Jim? - Just some way to attach this.
+Dialogue: 0,1:21:00.94,1:21:03.40,译文字幕,,0,0,0,,好的  后退  后退!\N{\r原文字幕}All right. Stand back. Stand back, now.
+Dialogue: 0,1:21:05.69,1:21:06.90,译文字幕,,0,0,0,,好了\N{\r原文字幕}There you go.
+Dialogue: 0,1:21:07.61,1:21:08.74,译文字幕,,0,0,0,,"好了"\N{\r原文字幕}"There you go."
+Dialogue: 0,1:21:10.28,1:21:12.28,译文字幕,,0,0,0,,好的  现在无论发生什么\N{\r原文字幕}Okay. Now, no matter what happens,
+Dialogue: 0,1:21:12.41,1:21:14.66,译文字幕,,0,0,0,,让这艘船秉直朝传送门开过去\N{\r原文字幕}keep the ship heading straight for that portal.
+Dialogue: 0,1:21:15.37,1:21:16.91,译文字幕,,0,0,0,,还剩58秒!\N{\r原文字幕}Fifty-eight seconds!
+Dialogue: 0,1:21:25.17,1:21:26.71,译文字幕,,0,0,0,,听到他的话了吗?\N{\r原文字幕}Well, you heard him!
+Dialogue: 0,1:21:26.80,1:21:30.01,译文字幕,,0,0,0,,快让这该死的船掉头!\N{\r原文字幕}Get this blasted heap turned 'round!
+Dialogue: 0,1:21:31.38,1:21:32.63,译文字幕,,0,0,0,,博士  把船头对准传送门\N{\r原文字幕}Doctor, head us back to the portal.
+Dialogue: 0,1:21:33.09,1:21:34.14,译文字幕,,0,0,0,,遵命  舰长\N{\r原文字幕}Aye, Captain.
+Dialogue: 0,1:21:56.83,1:21:58.58,译文字幕,,0,0,0,,往右转  往右!\N{\r原文字幕}Go to the right! The right!
+Dialogue: 0,1:21:58.66,1:22:01.37,译文字幕,,0,0,0,,我知道  我知道  你能让我自己驾驶吗?!\N{\r原文字幕}I know, I know! Will you just let me drive?
+Dialogue: 0,1:22:04.46,1:22:06.17,译文字幕,,0,0,0,,25秒!\N{\r原文字幕}Twenty-five seconds!
+Dialogue: 0,1:22:11.01,1:22:12.80,译文字幕,,0,0,0,,不!  不!\N{\r原文字幕}No! No!
+Dialogue: 0,1:22:16.34,1:22:17.72,译文字幕,,0,0,0,,加油  小子\N{\r原文字幕}Come on, lad.
+Dialogue: 0,1:22:19.35,1:22:21.27,译文字幕,,0,0,0,,17秒!\N{\r原文字幕}Seventeen seconds!
+Dialogue: 0,1:22:37.41,1:22:38.49,译文字幕,,0,0,0,,{\r原文字幕}7\NSeven...
+Dialogue: 0,1:22:38.70,1:22:41.54,译文字幕,,0,0,0,,{\r原文字幕}6  5  4\Nsix, five, four...
+Dialogue: 0,1:22:41.91,1:22:44.12,译文字幕,,0,0,0,,{\r原文字幕}3  2\Nthree, two...
+Dialogue: 0,1:22:52.71,1:22:54.38,译文字幕,,0,0,0,,{\r原文字幕}Wow! Yeah!
+Dialogue: 0,1:22:56.05,1:22:57.84,译文字幕,,0,0,0,,你成功了  吉姆!\N{\r原文字幕}You done it, Jimmy!
+Dialogue: 0,1:22:58.47,1:23:01.60,译文字幕,,0,0,0,,你成功了  孩子!  哈哈哈!\N{\r原文字幕}You done it, boy! Ha, ha, ha!
+Dialogue: 0,1:23:01.89,1:23:04.31,译文字幕,,0,0,0,,我就说过这小伙子有天赋!\N{\r原文字幕}Didn't I say the lad had greatness in him?
+Dialogue: 0,1:23:04.64,1:23:06.39,译文字幕,,0,0,0,,{\r原文字幕}[Cheering]
+Dialogue: 0,1:23:17.07,1:23:20.33,译文字幕,,0,0,0,,不太正统  但是却很有用\N{\r原文字幕}Unorthodox, but ludicrously effective.
+Dialogue: 0,1:23:20.99,1:23:22.58,译文字幕,,0,0,0,,我很乐意推荐你...\N{\r原文字幕}I'd be proud to recommend you
+Dialogue: 0,1:23:22.66,1:23:25.58,译文字幕,,0,0,0,,去星际学院  他们会用得着像你这样的人才\N{\r原文字幕}to the interstellar academy. They could use a man like you.
+Dialogue: 0,1:23:26.41,1:23:28.79,译文字幕,,0,0,0,,等着吧  你妈妈听到这个一定很高兴!\N{\r原文字幕}Just wait until your mother hears about this!
+Dialogue: 0,1:23:29.42,1:23:31.42,译文字幕,,0,0,0,,出生入死那些情节就省了\N{\r原文字幕}Of course, we may downplay the life-threatening parts.
+Dialogue: 0,1:23:31.75,1:23:35.38,译文字幕,,0,0,0,,吉姆  这真是难忘的经历!\N{\r原文字幕}Jimmy, that was unforgettable!
+Dialogue: 0,1:23:35.76,1:23:37.22,译文字幕,,0,0,0,,我知道你不喜欢让我碰你  但是...\N{\r原文字幕}I know you don't like touching...
+Dialogue: 0,1:23:37.30,1:23:39.68,译文字幕,,0,0,0,,准备好迎接一个大大的拥抱吧  我要抱你啦!\N{\r原文字幕}but get ready for a hug, big guy, 'cause I gotta hug ya!
+Dialogue: 0,1:23:39.76,1:23:40.93,译文字幕,,0,0,0,,{\r原文字幕}Ha ha ha ha!
+Dialogue: 0,1:23:43.52,1:23:45.48,译文字幕,,0,0,0,,嘿  你回抱我了\N{\r原文字幕}Hey, you hugged me back.
+Dialogue: 0,1:23:45.77,1:23:48.27,译文字幕,,0,0,0,,我跟自己保证过不会哭的\N{\r原文字幕}Oh, I promised myself I wouldn't cry.
+Dialogue: 0,1:23:48.52,1:23:49.90,译文字幕,,0,0,0,,{\r原文字幕}[Sobbing]
+Dialogue: 0,1:23:54.65,1:23:56.70,译文字幕,,0,0,0,,有谁带纸巾了吗?\N{\r原文字幕}Does anyone have a tissue?
+Dialogue: 0,1:23:58.03,1:23:59.03,译文字幕,,0,0,0,,{\r原文字幕}[Morph squeaking]
+Dialogue: 0,1:23:59.11,1:24:01.95,译文字幕,,0,0,0,,-墨菲  我们得快点离开  -我知道\N{\r原文字幕}- Morphy, we gotta make tracks. - I know.
+Dialogue: 0,1:24:02.62,1:24:04.49,译文字幕,,0,0,0,,你从来不服输  对吗\N{\r原文字幕}You never quit, do you?
+Dialogue: 0,1:24:04.99,1:24:06.96,译文字幕,,0,0,0,,啊  吉姆  哈哈!\N{\r原文字幕}Ah, Jimbo! Ha ha!
+Dialogue: 0,1:24:07.29,1:24:09.08,译文字幕,,0,0,0,,我只是在检查  确保...\N{\r原文字幕}I was merely checking to make sure
+Dialogue: 0,1:24:09.17,1:24:12.42,译文字幕,,0,0,0,,我们的大艇拴牢了\N{\r原文字幕}our last longboat was safe and secure.
+Dialogue: 0,1:24:13.80,1:24:14.80,译文字幕,,0,0,0,,{\r原文字幕}Mmm.
+Dialogue: 0,1:24:16.26,1:24:17.34,译文字幕,,0,0,0,,呣...\N{\r原文字幕}Well,
+Dialogue: 0,1:24:18.59,1:24:20.34,译文字幕,,0,0,0,,这样就牢了\N{\r原文字幕}that should hold it.
+Dialogue: 0,1:24:21.34,1:24:23.14,译文字幕,,0,0,0,,我把你教的太好了\N{\r原文字幕}I taught you too well.
+Dialogue: 0,1:24:25.60,1:24:28.98,译文字幕,,0,0,0,,如果你放我们一马  我们就不用去蹲大牢了\N{\r原文字幕}If you don't mind, we'd just as soon avoid prison.
+Dialogue: 0,1:24:29.06,1:24:32.81,译文字幕,,0,0,0,,小墨菲它自由惯了\N{\r原文字幕}Little Morphy here, he's a free spirit.
+Dialogue: 0,1:24:34.40,1:24:38.07,译文字幕,,0,0,0,,被关在牢笼里  它会伤心的\N{\r原文字幕}Being in a cage, it'd break his heart.
+Dialogue: 0,1:24:51.67,1:24:52.67,译文字幕,,0,0,0,,{\r原文字幕}Oh!
+Dialogue: 0,1:24:56.21,1:24:59.09,译文字幕,,0,0,0,,和我们一起走怎么样  小伙子\N{\r原文字幕}What say you ship out with us, lad?
+Dialogue: 0,1:24:59.17,1:25:01.72,译文字幕,,0,0,0,,你和我  霍金斯和席尔瓦\N{\r原文字幕}You and me, Hawkins and Silver,
+Dialogue: 0,1:25:01.80,1:25:05.89,译文字幕,,0,0,0,,自由自在  不被任何人束缚!\N{\r原文字幕}full of ourselves and no ties to anyone!
+Dialogue: 0,1:25:08.73,1:25:11.85,译文字幕,,0,0,0,,知道吗  在我刚上船的时候...\N{\r原文字幕}You know, when I got on this boat...
+Dialogue: 0,1:25:12.98,1:25:15.82,译文字幕,,0,0,0,,我可能会毫不犹豫地接受你的邀请\N{\r原文字幕}I would've taken you up on that offer in a second,
+Dialogue: 0,1:25:17.28,1:25:20.57,译文字幕,,0,0,0,,但是...我遇到这个老半机械人...\N{\r原文字幕}but, uh, I met this old cyborg...
+Dialogue: 0,1:25:21.20,1:25:25.07,译文字幕,,0,0,0,,他教过我要开辟自己的航线\N{\r原文字幕}and he taught me that I could chart my own course.
+Dialogue: 0,1:25:27.33,1:25:28.87,译文字幕,,0,0,0,,那正是我要做的\N{\r原文字幕}That's what I'm gonna do.
+Dialogue: 0,1:25:29.37,1:25:32.87,译文字幕,,0,0,0,,那么你在你的船头看见了什么?\N{\r原文字幕}And what do you see off that bow of yours?
+Dialogue: 0,1:25:35.96,1:25:37.21,译文字幕,,0,0,0,,我的未来\N{\r原文字幕}A future.
+Dialogue: 0,1:25:37.30,1:25:38.59,译文字幕,,0,0,0,,{\r原文字幕}[Chuckles]
+Dialogue: 0,1:25:38.67,1:25:39.71,译文字幕,,0,0,0,,好啊...\N{\r原文字幕}why...
+Dialogue: 0,1:25:40.22,1:25:43.72,译文字幕,,0,0,0,,看看你  就像太阳一般闪耀\N{\r原文字幕}look at ya, glowing like a solar fire.
+Dialogue: 0,1:25:45.55,1:25:47.68,译文字幕,,0,0,0,,你和别人不一样  吉姆\N{\r原文字幕}You're something special, Jim.
+Dialogue: 0,1:25:48.10,1:25:51.60,译文字幕,,0,0,0,,你一定会干出一番惊天动地的大事来的!\N{\r原文字幕}You're gonna rattle the stars, you are.
+Dialogue: 0,1:25:59.23,1:26:00.57,译文字幕,,0,0,0,,{\r原文字幕}[Clears throat]
+Dialogue: 0,1:26:00.65,1:26:03.70,译文字幕,,0,0,0,,我的机器眼又漏油了\N{\r原文字幕}Got a bit of grease in this cyborg eye of mine.
+Dialogue: 0,1:26:03.78,1:26:04.78,译文字幕,,0,0,0,,{\r原文字幕}[Sniffles]
+Dialogue: 0,1:26:07.37,1:26:08.66,译文字幕,,0,0,0,,{\r原文字幕}[Sobbing]
+Dialogue: 0,1:26:08.74,1:26:12.62,译文字幕,,0,0,0,,哦  嘿  墨菲  我们还会再见的  好吗?\N{\r原文字幕}Oh, hey, Morph. I'll see ya around, okay?
+Dialogue: 0,1:26:12.79,1:26:14.29,译文字幕,,0,0,0,,"回头见"\N{\r原文字幕}"See ya around."
+Dialogue: 0,1:26:23.55,1:26:26.51,译文字幕,,0,0,0,,墨菲  我给你安排个工作\N{\r原文字幕}Morphy, I got a job for ya.
+Dialogue: 0,1:26:27.22,1:26:31.22,译文字幕,,0,0,0,,你给我好好盯着这个小子\N{\r原文字幕}I need you to keep an eye on this here pup.
+Dialogue: 0,1:26:35.35,1:26:37.15,译文字幕,,0,0,0,,你愿意帮我这个忙吗?\N{\r原文字幕}Will ya do me that little favor?
+Dialogue: 0,1:26:37.23,1:26:38.86,译文字幕,,0,0,0,,遵命  船长\N{\r原文字幕}Aye-aye, Captain.
+Dialogue: 0,1:26:46.24,1:26:48.12,译文字幕,,0,0,0,,噢  还有一件事\N{\r原文字幕}Oh, and one more thing.
+Dialogue: 0,1:26:49.78,1:26:51.79,译文字幕,,0,0,0,,这是给你妈妈的...\N{\r原文字幕}This is for your dear mother...
+Dialogue: 0,1:26:51.87,1:26:54.00,译文字幕,,0,0,0,,用来重建她的旅馆\N{\r原文字幕}to rebuild that inn of hers.
+Dialogue: 0,1:26:57.79,1:27:00.30,译文字幕,,0,0,0,,别再惹麻烦了  老家伙\N{\r原文字幕}Stay out of trouble, ya old scalawag.
+Dialogue: 0,1:27:00.75,1:27:03.09,译文字幕,,0,0,0,,为什么这么说\N{\r原文字幕}[Laughs] Why, Jimbo, lad,
+Dialogue: 0,1:27:03.46,1:27:06.01,译文字幕,,0,0,0,,我什么时候惹麻烦了?\N{\r原文字幕}when have I ever done otherwise?
+Dialogue: 0,1:27:06.13,1:27:08.30,译文字幕,,0,0,0,,{\r原文字幕}[Laughing]
+Dialogue: 0,1:27:47.47,1:27:49.34,译文字幕,,0,0,0,,{\r原文字幕}[Cheering]
+Dialogue: 0,1:28:05.19,1:28:06.19,译文字幕,,0,0,0,,{\r原文字幕}[Yawns]
+Dialogue: 0,1:28:08.15,1:28:09.16,译文字幕,,0,0,0,,{\r原文字幕}[All gasp]
+Dialogue: 0,1:28:12.24,1:28:13.58,译文字幕,,0,0,0,,{\r原文字幕}[All Cheer]
+Dialogue: 0,1:28:20.04,1:28:22.54,译文字幕,,0,0,0,,{\r原文字幕}[Playing Music]
+Dialogue: 0,1:28:33.55,1:28:35.52,译文字幕,,0,0,0,,{\r原文字幕}[Crying]
+Dialogue: 0,1:28:37.68,1:28:38.69,译文字幕,,0,0,0,,{\r原文字幕}[Laughing]
+Dialogue: 0,1:29:12.64,1:29:16.18,译文字幕,,0,0,0,,{\r原文字幕}♪ It's good to see the sun And feel this place
+Dialogue: 0,1:29:17.14,1:29:19.93,译文字幕,,0,0,0,,{\r原文字幕}♪ This place I never thought Would feel like home
+Dialogue: 0,1:29:21.39,1:29:23.19,译文字幕,,0,0,0,,{\r原文字幕}♪ And I ran forever
+Dialogue: 0,1:29:23.69,1:29:25.11,译文字幕,,0,0,0,,{\r原文字幕}♪ Far away
+Dialogue: 0,1:29:25.94,1:29:28.94,译文字幕,,0,0,0,,{\r原文字幕}♪ And I always thought I'd end up here alone
+Dialogue: 0,1:29:30.57,1:29:32.91,译文字幕,,0,0,0,,{\r原文字幕}♪ Somehow The world has changed
+Dialogue: 0,1:29:34.32,1:29:36.20,译文字幕,,0,0,0,,{\r原文字幕}♪ And I've come home
+Dialogue: 0,1:29:36.49,1:29:39.70,译文字幕,,0,0,0,,{\r原文字幕}♪ To give you back the things They took from you
+Dialogue: 0,1:29:40.33,1:29:42.33,译文字幕,,0,0,0,,{\r原文字幕}♪ And I feel you now
+Dialogue: 0,1:29:42.79,1:29:44.46,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm not alone
+Dialogue: 0,1:29:44.63,1:29:48.25,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:29:51.30,1:29:53.13,译文字幕,,0,0,0,,{\r原文字幕}♪ When I see myself
+Dialogue: 0,1:29:53.76,1:29:57.47,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:29:59.81,1:30:01.48,译文字幕,,0,0,0,,{\r原文字幕}♪ Where you are
+Dialogue: 0,1:30:04.98,1:30:08.48,译文字幕,,0,0,0,,{\r原文字幕}♪ And I found something That was always there
+Dialogue: 0,1:30:09.36,1:30:12.36,译文字幕,,0,0,0,,{\r原文字幕}♪ Sometimes it's got to hurt Before you feel
+Dialogue: 0,1:30:13.57,1:30:17.16,译文字幕,,0,0,0,,{\r原文字幕}♪ But now I'm strong And I won't kneel
+Dialogue: 0,1:30:17.95,1:30:20.75,译文字幕,,0,0,0,,{\r原文字幕}♪ Except to thank Who's watching over me
+Dialogue: 0,1:30:22.37,1:30:25.63,译文字幕,,0,0,0,,{\r原文字幕}♪ And somehow I feel so strong
+Dialogue: 0,1:30:26.25,1:30:29.67,译文字幕,,0,0,0,,{\r原文字幕}♪ And I've begun To be the one
+Dialogue: 0,1:30:30.00,1:30:32.05,译文字幕,,0,0,0,,{\r原文字幕}♪ I never thought I'd be
+Dialogue: 0,1:30:32.55,1:30:34.43,译文字幕,,0,0,0,,{\r原文字幕}♪ And I feel you now
+Dialogue: 0,1:30:34.80,1:30:36.80,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm not alone
+Dialogue: 0,1:30:37.18,1:30:40.52,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:30:43.23,1:30:45.39,译文字幕,,0,0,0,,{\r原文字幕}♪ And When I See Myself
+Dialogue: 0,1:30:46.19,1:30:49.52,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:30:52.07,1:30:54.11,译文字幕,,0,0,0,,{\r原文字幕}♪ Where you are
+Dialogue: 0,1:30:57.95,1:31:00.87,译文字幕,,0,0,0,,{\r原文字幕}♪ Now it's all so clear
+Dialogue: 0,1:31:01.54,1:31:03.16,译文字幕,,0,0,0,,{\r原文字幕}♪ And I believe
+Dialogue: 0,1:31:03.66,1:31:06.46,译文字幕,,0,0,0,,{\r原文字幕}♪ That everything's been Opened up to me
+Dialogue: 0,1:31:07.46,1:31:09.54,译文字幕,,0,0,0,,{\r原文字幕}♪ And I feel you now
+Dialogue: 0,1:31:09.88,1:31:11.80,译文字幕,,0,0,0,,{\r原文字幕}♪ I'm not alone
+Dialogue: 0,1:31:12.21,1:31:13.84,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know
+Dialogue: 0,1:31:14.22,1:31:17.47,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:31:20.72,1:31:22.72,译文字幕,,0,0,0,,{\r原文字幕}♪ And when I see myself
+Dialogue: 0,1:31:23.06,1:31:26.14,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:31:29.40,1:31:31.40,译文字幕,,0,0,0,,{\r原文字幕}♪ And when I feel the sun
+Dialogue: 0,1:31:31.48,1:31:35.11,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:31:38.07,1:31:40.07,译文字幕,,0,0,0,,{\r原文字幕}♪ And when I see myself
+Dialogue: 0,1:31:40.53,1:31:43.62,译文字幕,,0,0,0,,{\r原文字幕}♪ I always know Where you are
+Dialogue: 0,1:31:46.46,1:31:48.62,译文字幕,,0,0,0,,{\r原文字幕}♪ Where you are
+Dialogue: 0,1:31:52.55,1:31:54.09,译文字幕,,0,0,0,,{\r原文字幕}[Instrumental Music Playing]
