@@ -1,16 +1,25 @@
 ﻿[Script Info]
 Collisions: Normal
+Original Editing: 
+Original Script: 
+Original Timing: 
+Original Translation: 
 PlayResX: 384
 PlayResY: 288
 ScaledBorderAndShadow: no
+Script Updated By: 
 ScriptType: v4.00+
 Synch Point: 1
+Timer: 100.0000
+Title: 
+Update Details: 
+WrapStyle: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,0,2,5,5,0,1
-Style: 译文字幕,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,0,2,5,5,10,1
-Style: 原文字幕,微软雅黑,14,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1.5,0,2,5,5,0,1
+Style: 译文字幕,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,0,2,5,5,10,1
+Style: 原文字幕,Microsoft YaHei,14,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,0,2,5,5,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -991,7 +1000,7 @@ Dialogue: 0,0:58:27.58,0:58:29.79,译文字幕,,0,0,0,,太好了!  哈哈哈!\N{
 Dialogue: 0,0:58:29.92,0:58:31.50,译文字幕,,0,0,0,,噢, 这太棒了!\N{\r原文字幕}Oh, this is fantastic!
 Dialogue: 0,0:58:31.59,0:58:34.47,译文字幕,,0,0,0,,我和我的好伙计在找一个...\N{\r原文字幕}Me and my best buddy out lookin' for a...
 Dialogue: 0,0:58:35.30,0:58:36.51,译文字幕,,0,0,0,,{\r原文字幕}[Clears throat]
-Dialogue: 0,0:58:37.09,0:58:38.51,译文字幕,,0,0,0,,少说话\N{\r原文字幕}[Whispering] Being quiet.
+Dialogue: 0,0:58:37.09,0:58:38.51,译文字幕,,0,0,0,,我这就闭嘴\N{\r原文字幕}[Whispering] Being quiet.
 Dialogue: 0,0:58:38.60,0:58:41.10,译文字幕,,0,0,0,,而且你也别再碰我了\N{\r原文字幕}And you have to stop touching me.
 Dialogue: 0,0:58:41.18,0:58:44.77,译文字幕,,0,0,0,,我不说也不碰  我的两个基本原则\N{\r原文字幕}Touching and talking. That's my two big no-nos.
 Dialogue: 0,0:58:44.85,0:58:46.98,译文字幕,,0,0,0,,好吧  我想我们应该...\N{\r原文字幕}Okay. Now, I think that we should...
@@ -1048,7 +1057,7 @@ Dialogue: 0,1:01:26.01,1:01:29.68,译文字幕,,0,0,0,,听我说  如果我们�
 Dialogue: 0,1:01:29.77,1:01:34.98,译文字幕,,0,0,0,,我们可以安全的离开这里  享受荣华富贵\N{\r原文字幕}we can both walk away from this rich as kings.
 Dialogue: 0,1:01:35.15,1:01:37.11,译文字幕,,0,0,0,,是吗?\N{\r原文字幕}- Yeah? [Chuckles]
 Dialogue: 0,1:01:37.19,1:01:41.82,译文字幕,,0,0,0,,只要你把地图给我...然后\N{\r原文字幕}You get me that map and...
-Dialogue: 0,1:01:42.53,1:01:46.95,译文字幕,,0,0,0,,一部分的的宝藏就归你\N{\r原文字幕}an even portion of the treasure is yours.
+Dialogue: 0,1:01:42.53,1:01:46.95,译文字幕,,0,0,0,,一半的宝藏就归你\N{\r原文字幕}an even portion of the treasure is yours.
 Dialogue: 0,1:01:52.50,1:01:53.58,译文字幕,,0,0,0,,伙计\N{\r原文字幕}Boy.
 Dialogue: 0,1:01:55.25,1:01:57.25,译文字幕,,0,0,0,,你可真有一套\N{\r原文字幕}You are really something.
 Dialogue: 0,1:01:58.21,1:02:00.71,译文字幕,,0,0,0,,说什么我有天赋啦...\N{\r原文字幕}All that talk of greatness
@@ -1061,8 +1070,8 @@ Dialogue: 0,1:02:14.94,1:02:18.31,译文字幕,,0,0,0,,那些财宝都是我的!
 Dialogue: 0,1:02:18.40,1:02:22.69,译文字幕,,0,0,0,,那你就别用我的地图  看你能不能找到\N{\r原文字幕}Well, try to find it without my map, by thunder!
 Dialogue: 0,1:02:23.69,1:02:27.82,译文字幕,,0,0,0,,噢  你还是没学会挑对手是吗  小子\N{\r原文字幕}Oh, you still don't know how to pick your fights, do you, boy?
 Dialogue: 0,1:02:28.66,1:02:30.41,译文字幕,,0,0,0,,你给我听着\N{\r原文字幕}Now, mark me.
-Dialogue: 0,1:02:31.62,1:02:34.96,译文字幕,,0,0,0,,如果明天天亮前我还没拿到地图\N{\r原文字幕}Either I get that map by dawn tomorrow,
-Dialogue: 0,1:02:35.33,1:02:39.17,译文字幕,,0,0,0,,你也不肯帮我  我就用船上的大炮\N{\r原文字幕}or so help me, I'll use the ship's cannons
+Dialogue: 0,1:02:31.62,1:02:34.96,译文字幕,,0,0,0,,明天天亮之前把地图交给我\N{\r原文字幕}Either I get that map by dawn tomorrow,
+Dialogue: 0,1:02:35.33,1:02:39.17,译文字幕,,0,0,0,,否则别怪我  我会用船上的大炮\N{\r原文字幕}or so help me, I'll use the ship's cannons
 Dialogue: 0,1:02:39.50,1:02:42.84,译文字幕,,0,0,0,,把你们全都炸上天!\N{\r原文字幕}to blast ya all to kingdom come!
 Dialogue: 0,1:02:44.17,1:02:46.09,译文字幕,,0,0,0,,墨菲  跟我走\N{\r原文字幕}Morph, hop to it.
 Dialogue: 0,1:02:48.05,1:02:49.14,译文字幕,,0,0,0,,快!\N{\r原文字幕}Now!
